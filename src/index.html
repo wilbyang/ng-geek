@@ -4,10 +4,38 @@
   <meta charset="utf-8">
   <title>DataChecker</title>
   <base href="/">
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@11.6.0/styles/default.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css" />
+  <!-- Lite version -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.1.0/style.css" />
+  <!-- TC version -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.0.0/style.css" />
+  <!-- Screen version -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css" />
+  <style>
+    body {
+      font-family: "LXGW WenKai", sans-serif;
+
+    }
+  </style>
+  <script type="module">
+    import hljs from 'https://unpkg.com/@highlightjs/cdn-assets@11.6.0/es/highlight.min.js';
+    //  and it's easy to individually load & register additional languages
+    import scala from 'https://unpkg.com/@highlightjs/cdn-assets@11.6.0/es/languages/scala.min.js';
+    import cpp from 'https://unpkg.com/@highlightjs/cdn-assets@11.6.0/es/languages/cpp.min.js';
+
+    hljs.registerLanguage('scala', scala);
+    hljs.registerLanguage('c++', cpp);
+
+  </script>
 </head>
 <body>
-  <app-root></app-root>
+<app-root></app-root>
+
 </body>
+
 </html>

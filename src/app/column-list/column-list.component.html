@@ -1,0 +1,10 @@
+<div class="parent white">
+  <div class="box green" *ngFor="let c of columns">
+    <p>{{c.info?.title}}</p>
+    <p>{{c.info?.subtitle}}</p>
+
+    <p [innerHTML]="c.info?.path?.desc_html"></p>
+
+  </div>
+
+</div>

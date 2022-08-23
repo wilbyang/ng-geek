@@ -1,0 +1,29 @@
+{
+  "/api/tpl": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "pathRewrite": {
+      "^/api/tpl": "tpl"
+    },
+    "changeOrigin": true,
+    "logLevel": "debug"
+  },
+  "/api/link": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "pathRewrite": {
+      "^/api/link": "link"
+    },
+    "changeOrigin": true,
+    "logLevel": "debug"
+  },
+  "/api/activity": {
+    "target": "http://localhost:8080",
+    "secure": false,
+    "pathRewrite": {
+      "^/api/activity": "activity"
+    },
+    "changeOrigin": true,
+    "logLevel": "debug"
+  }
+}

@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/data_checker",
+            "outputPath": "/Users/boya/workplace/sites/data_checker",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -69,6 +69,10 @@
             "development": {
               "browserTarget": "data_checker:build:development"
             }
+          },
+          "options": {
+            "browserTarget": "data_checker:build:development",
+            "proxyConfig": "./proxy.conf.json"
           },
           "defaultConfiguration": "development"
         },

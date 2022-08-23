@@ -1,0 +1,28 @@
+
+<label for="accountId">Account: </label>
+<input id="accountId" type="text" [formControl]="accountId">
+
+<label for="activityId">Activity: </label>
+<input id="activityId" type="text" [formControl]="activityId">
+
+<label for="linkId">Link: </label>
+<input id="linkId" type="text" [formControl]="linkId">
+
+
+<button type="button" (click)="getActivity(accountId.value!, activityId.value!)">Get Activity</button>
+<button type="button" (click)="getLink(linkId.value!)">Get link</button>
+<button type="button" (click)="getTpl(accountId.value!, activityId.value!)">Get template</button>
+
+
+<div style="background-color: antiquewhite">
+  <ngx-json-viewer [json]="activity"></ngx-json-viewer>
+</div>
+<div style="background-color: beige">
+
+  <ngx-json-viewer [json]="link"></ngx-json-viewer>
+</div>
+
+<div style="background-color: cornsilk">
+
+  <ngx-json-viewer [json]="tpl"></ngx-json-viewer>
+</div>

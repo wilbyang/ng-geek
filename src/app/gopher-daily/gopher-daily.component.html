@@ -1,0 +1,7 @@
+<input [formControl]="keyword">
+
+<ul>
+  <li *ngFor="let lineLink of lineLinks">
+    <a [href]="lineLink.link">{{lineLink.title}}</a>
+  </li>
+</ul>

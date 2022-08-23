@@ -1,0 +1,22 @@
+
+
+
+
+<div class="parent">
+  <div>
+    <ul *ngFor="let c of columns">
+      <li>
+        <a [routerLink]="['/geek', c.column_id]">{{c.info?.title}}</a>
+      </li>
+    </ul>
+  </div>
+  <div>
+    <ul *ngFor="let a of column?.articles">
+      <li>
+        <a [routerLink]="['/article', a.article_id]">{{a.title}}</a>
+      </li>
+    </ul>
+  </div>
+
+</div>
+

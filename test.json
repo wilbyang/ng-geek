@@ -1,0 +1,34 @@
+https://pub.aud-stage.apsis.cloud/st/ui/v1/sections/25128/segment/exportResult
+?escb=
+
+https: //int.aud-stage.apsis.cloud/st/export/v1/accounts/team-email-new/segments/export.csv
+?ocb=
+
+{
+  "cb": null,
+  "fs": {
+    "com.apsis1.attributes.email": {
+      "attribute": 140993,
+      "section": 25128,
+      "filterDuplicate": "keep"
+    },
+    "com.apsis1.attributes.firstname": {
+      "attribute": 140990,
+      "section": 25128,
+      "filterDuplicate": "keep"
+    },
+    "com.apsis1.attributes.lastname": {
+      "attribute": 140992,
+      "section": 25128,
+      "filterDuplicate": "keep"
+    },
+    "com.apsis1.attributes.mobile": {
+      "attribute": 140994,
+      "section": 25128,
+      "filterDuplicate": "keep"
+    }
+  },
+  "t": 1661162100487,
+  "tid": "82844f44-291b-473f-93c6-b028cc3effdf",
+  "uuid": "82844f44-291b-473f-93c6-b028cc3effdf"
+}

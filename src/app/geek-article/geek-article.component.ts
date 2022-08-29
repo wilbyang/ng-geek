@@ -30,6 +30,7 @@ export class GeekArticleComponent implements OnInit, AfterViewInit {
     this.httpClient.get<Article>(url).subscribe(article => {
       this.article = article;
       this.contentDiv!.nativeElement.innerHTML = article.content;
+      (window as any).highlightAll();
     });
   }
 

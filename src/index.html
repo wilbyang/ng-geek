@@ -31,11 +31,14 @@
     hljs.registerLanguage('scala', scala);
     hljs.registerLanguage('c++', cpp);
 
-  </script>
+    window.highlightAll = function() {
+      hljs.highlightAll();
+    };
+    </script>
+
 </head>
 <body>
 <app-root></app-root>
 
 </body>
-
 </html>

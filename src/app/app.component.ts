@@ -1,6 +1,4 @@
 import {Component, OnInit} from '@angular/core';
-import {HttpClient} from "@angular/common/http";
-import { FormControl } from '@angular/forms';
 import {GeekColumnService} from "./geek-column.service";
 @Component({
   selector: 'app-root',

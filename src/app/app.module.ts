@@ -12,6 +12,9 @@ import { AppRoutingModule } from './app-routing.module';
 import { GopherDailyComponent } from './gopher-daily/gopher-daily.component';
 import { ColumnListComponent } from './column-list/column-list.component';
 import { WebrtcHeadComponent } from './webrtc-head/webrtc-head.component';
+import { BookmarkListComponent } from './bookmark-list/bookmark-list.component';
+import { ServiceWorkerModule } from '@angular/service-worker';
+import { environment } from '../environments/environment';
 
 @NgModule({
   declarations: [
@@ -21,7 +24,8 @@ import { WebrtcHeadComponent } from './webrtc-head/webrtc-head.component';
     GeekIndexComponent,
     GopherDailyComponent,
     ColumnListComponent,
-    WebrtcHeadComponent
+    WebrtcHeadComponent,
+    BookmarkListComponent
   ],
   imports: [
 
@@ -29,7 +33,13 @@ import { WebrtcHeadComponent } from './webrtc-head/webrtc-head.component';
     HttpClientModule,
     NgxJsonViewerModule,
     ReactiveFormsModule,
-    AppRoutingModule
+    AppRoutingModule,
+    ServiceWorkerModule.register('ngsw-worker.js', {
+      enabled: environment.production,
+      // Register the ServiceWorker as soon as the application is stable
+      // or after 30 seconds (whichever comes first).
+      registrationStrategy: 'registerWhenStable:30000'
+    })
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -231,3 +231,102 @@ function saveColumn (c) {
     .catch(error => console.error(error));
 
 }
+
+
+
+function saveDailyText() {
+  fetch("https://time.geekbang.org/serv/v3/article/info", {
+    "headers": {
+      "accept": "application/json, text/plain, */*",
+      "accept-language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,ja;q=0.6,sv;q=0.5",
+      "cache-control": "no-cache",
+      "content-type": "application/json",
+      "pragma": "no-cache",
+      "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"macOS\"",
+      "sec-fetch-dest": "empty",
+      "sec-fetch-mode": "cors",
+      "sec-fetch-site": "same-origin"
+    },
+    "referrer": "https://time.geekbang.org/dailylesson/detail/100110785",
+    "referrerPolicy": "no-referrer-when-downgrade",
+    "body": "{\"id\":556242}",
+    "method": "POST",
+    "mode": "cors",
+    "credentials": "include"
+  }).then(response => response.json())
+    .then(data => {
+      let article = {
+        title: data.data.info.title,
+        content: data.data.info.content,
+        column_id: 9999,
+        article_id: data.data.info.id,
+        chapter_id: 0
+      }
+      saveArticle(article)
+    })
+    .catch(error => console.error(error));
+}
+
+async function getColumnList()  {
+  let res = await fetch("http://localhost:3000/columns-intro")
+    let data = await res.json();
+  ret = data.map(c => {
+    return {
+      columnId: c.column_id,
+      info: JSON.parse(c.info)
+    }
+  });
+  return ret;
+
+
+}
+function saveJuejin() {
+
+  sids = ["6963277002044342311"];
+  ret = [];
+  (function sendRequest() {
+    let id  = sids.pop();
+    if (id) {
+      let payload = {section_id: id};
+
+      setTimeout(function () {
+
+        fetch("https://api.juejin.cn/booklet_api/v1/section/get?aid=2608&uuid=6898891403361158670&spider=0", {
+          "headers": {
+            "accept": "*/*",
+            "accept-language": "en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7,ja;q=0.6,sv;q=0.5",
+            "content-type": "application/json",
+            "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+            "sec-ch-ua-mobile": "?0",
+            "sec-ch-ua-platform": "\"macOS\"",
+            "sec-fetch-dest": "empty",
+            "sec-fetch-mode": "cors",
+            "sec-fetch-site": "same-site"
+          },
+          "referrer": "https://juejin.cn/",
+          "referrerPolicy": "strict-origin-when-cross-origin",
+          "body": JSON.stringify(payload),
+          "method": "POST",
+          "mode": "cors",
+          "credentials": "include"
+        }).then(response => response.json())
+
+          .then(function (data) {
+            ret.push({section_id: data.data.section.section_id, title:data.data.section.title, md: data.data.section.markdown_show});
+
+          }).catch(function (error) {
+          console.log(error);
+        });
+        sendRequest();
+      }, 8000);
+
+    } else {
+      console.log('done');
+    }
+
+
+
+  })();
+}

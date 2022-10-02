@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>DataChecker</title>
+  <base href="/">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+
+  <link rel="stylesheet" href="https://unpkg.com/@highlightjs/cdn-assets@11.6.0/styles/default.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css"/>
+  <!-- Lite version -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-lite-webfont@1.1.0/style.css"/>
+  <!-- TC version -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-tc-webfont@1.0.0/style.css"/>
+  <!-- Screen version -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css"/>
+  <style>
+    body {
+      font-family: "LXGW WenKai", sans-serif;
+      color: white;
+
+    }
+
+    .parent {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+
+    .box {
+      padding: 12px;
+      display: flex;
+      flex-direction: column;
+      justify-content: flex-start;
+      flex: 1 1 300px; /*  Stretching: */
+      flex: 0 1 300px; /*  No stretching: */
+      margin: 5px;
+    }
+
+    .green {
+      background-color: #0c84ae;
+    }
+
+  </style>
+
+  <script>
+
+    fetch("columns.json")
+      .then(response => response.json())
+      .then(data =>
+        data.forEach(c => {
+
+
+          let div = document.createElement('div');
+          div.classList.add('box');
+          div.classList.add('green');
+          div.addEventListener('click', () => {
+            window.location.href = c.info.catalog_pic_url;
+          });
+
+          let title = document.createElement('p');
+          title.style.fontSize = '1.5em';
+          title.innerText = c.info.title;
+
+          let subTitle = document.createElement('p');
+          subTitle.innerText = c.info.subtitle;
+
+          let descHtml = document.createElement('p');
+          descHtml.innerHTML = c.info.path.desc_html;
+
+          div.appendChild(title);
+          div.appendChild(subTitle);
+          div.appendChild(descHtml);
+
+          document.getElementById("columns").append(div);
+        })
+      ).then(data => console.log(data))
+      .catch(error => console.error(error));
+
+
+  </script>
+</head>
+<body>
+<div id="columns" class="parent white">
+
+
+</div>
+
+
+</body>
+</html>

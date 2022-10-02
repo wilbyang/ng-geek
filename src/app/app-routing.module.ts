@@ -6,6 +6,7 @@ import {ApsisDataComponent} from "./apsis-data/apsis-data.component";
 import {GopherDailyComponent} from "./gopher-daily/gopher-daily.component";
 import {ColumnListComponent} from "./column-list/column-list.component";
 import {WebrtcHeadComponent} from "./webrtc-head/webrtc-head.component";
+import {BookmarkListComponent} from "./bookmark-list/bookmark-list.component";
 
 
 const routes: Routes = [
@@ -16,6 +17,7 @@ const routes: Routes = [
   {path: 'search/gopherdaily', component: GopherDailyComponent},
   {path: 'column/list', component: ColumnListComponent},
   {path: 'webrtc', component: WebrtcHeadComponent},
+  {path: 'bookmarks', component: BookmarkListComponent},
 ];
 
 @NgModule({

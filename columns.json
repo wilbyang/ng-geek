@@ -1,0 +1,5924 @@
+[
+  {
+    "columnId": 42,
+    "info": {
+      "title": "技术与商业案例解读",
+      "subtitle": "一堂课看懂技术创新与商业模式",
+      "unit": "164讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "技术历史",
+          "硅谷往事"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n100家IT企业风云历史一览；\n30个引领行业的创始人事迹；\n揭秘创业、守业与破局之道。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>100家IT企业风云历史一览；</li>\n<li>30个引领行业的创始人事迹；</li>\n<li>揭秘创业、守业与破局之道。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/78/c0/7863e929367f7562b8b208b38faac5c0.jpg"
+    }
+  },
+  {
+    "columnId": 43,
+    "info": {
+      "title": "AI技术内参",
+      "subtitle": "你的360度人工智能信息助理",
+      "unit": "166讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "AI技术",
+          "深度学习"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n人工智能国际顶级学术会议论文精讲；\n人工智能五大核心技术模块深度剖析；\n人工智能工程师进阶之路；\n人工智能业界热点独家解读。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>人工智能国际顶级学术会议论文精讲；</li>\n<li>人工智能五大核心技术模块深度剖析；</li>\n<li>人工智能工程师进阶之路；</li>\n<li>人工智能业界热点独家解读。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/5c/08/5c89fe07fe0e5a5f1e4f8491ac592408.jpg"
+    }
+  },
+  {
+    "columnId": 48,
+    "info": {
+      "title": "左耳听风",
+      "subtitle": "洞悉技术的本质，享受科技的乐趣",
+      "unit": "119讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "分布式",
+          "酷壳"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n主流语言编程范式详解；\n分布式系统关键技术剖析；\n程序员练级攻略；\n高效学习的方法以及面试经验。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>主流语言编程范式详解；</li>\n<li>分布式系统关键技术剖析；</li>\n<li>程序员练级攻略；</li>\n<li>高效学习的方法以及面试经验。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7f/7b/7f428c8dd8f26668a727bd46227ec17b.jpg"
+    }
+  },
+  {
+    "columnId": 49,
+    "info": {
+      "title": "朱赟的技术管理课",
+      "subtitle": "从技术到管理，让你的目标函数达到最优解",
+      "unit": "39讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "技术管理",
+          "硅谷技术"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n工程师都该了解的7大技术实践；\n\n\n项目与团队管理的10大实战技巧；\n\n\n技术人必修的14种软技能；\n\n\n最新的硅谷工程师文化。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>工程师都该了解的7大技术实践；</p>\n</li>\n<li>\n<p>项目与团队管理的10大实战技巧；</p>\n</li>\n<li>\n<p>技术人必修的14种软技能；</p>\n</li>\n<li>\n<p>最新的硅谷工程师文化。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/cf/4d/cf317b3eb0d93121a032f2e3c05f814d.jpg"
+    }
+  },
+  {
+    "columnId": 50,
+    "info": {
+      "title": "邱岳的产品手记",
+      "subtitle": "重构你的产品思维",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "产品基础",
+          "产品入门"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n产品经理必备7大基本功；\n产品经理实战秘诀；\n产品经理的“思维武器”；\n15个经典产品案例剖析。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>产品经理必备7大基本功；</li>\n<li>产品经理实战秘诀；</li>\n<li>产品经理的“思维武器”；</li>\n<li>15个经典产品案例剖析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/3e/da/3e4aad5523f7f34012ecbdaaa59eddda.png"
+    }
+  },
+  {
+    "columnId": 62,
+    "info": {
+      "title": "人工智能基础课",
+      "subtitle": "通俗易懂的人工智能入门课",
+      "unit": "59讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "AI技术",
+          "AI基础"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n6大人工智能必备数学基础；\n15个机器学习、深度学习核心知识点；\n11个人工神经网络概念及实例；\n4大人工智能应用场景。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>6大人工智能必备数学基础；</li>\n<li>15个机器学习、深度学习核心知识点；</li>\n<li>11个人工神经网络概念及实例；</li>\n<li>4大人工智能应用场景。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/bf/66/bf1767d4b515dbfdbdfe3a130c93bd66.jpg"
+    }
+  },
+  {
+    "columnId": 63,
+    "info": {
+      "title": "赵成的运维体系管理课",
+      "subtitle": "带你直击运维的本质",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "运维",
+          "运维管理"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n应用标准化运维体系模型与方法；\n持续交付、稳定性及故障管理要点；\n云计算下的最佳运维实践；\n个人成长与职业发展进阶秘籍。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>应用标准化运维体系模型与方法；</li>\n<li>持续交付、稳定性及故障管理要点；</li>\n<li>云计算下的最佳运维实践；</li>\n<li>个人成长与职业发展进阶秘籍。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c3/ca/c3892fdd11ad94163455f2ffcef075ca.jpg"
+    }
+  },
+  {
+    "columnId": 66,
+    "info": {
+      "title": "微服务架构核心20讲",
+      "subtitle": "从理论到实践，理解微服务关键问题",
+      "unit": "20讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "微服务",
+          "微服务概念"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n微服务架构理论基础详解；\n微服务架构核心原理解析；\n容器部署和持续交付要点。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>微服务架构理论基础详解；</li>\n<li>微服务架构核心原理解析；</li>\n<li>容器部署和持续交付要点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/8a/d7/8a30653125f0629b23d64e003b019dd7.jpg"
+    }
+  },
+  {
+    "columnId": 74,
+    "info": {
+      "title": "推荐系统三十六式",
+      "subtitle": "解决你推荐系统80%的问题",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "推荐系统",
+          "智能推荐"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n5大模块梳理推荐系统知识脉络；\n20个推荐系统算法原理精讲；\n10大算法落地事件案例解析；\n掌握推荐产品理念及商业价值。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>5大模块梳理推荐系统知识脉络；</li>\n<li>20个推荐系统算法原理精讲；</li>\n<li>10大算法落地事件案例解析；</li>\n<li>掌握推荐产品理念及商业价值。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d6/01/d613476a62b04ac77223f2dbff7f8901.jpg"
+    }
+  },
+  {
+    "columnId": 76,
+    "info": {
+      "title": "深入浅出区块链",
+      "subtitle": "你的区块链入门第一课",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "区块链",
+          "区块链技术"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n区块链入门必备基础知识点；\n\n\n区块链核心技术剖析与详解；\n\n\n区块链实战应用场景案例解析；\n\n\n构建自己的迷你区块链项目。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>区块链入门必备基础知识点；</p>\n</li>\n<li>\n<p>区块链核心技术剖析与详解；</p>\n</li>\n<li>\n<p>区块链实战应用场景案例解析；</p>\n</li>\n<li>\n<p>构建自己的迷你区块链项目。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4f/dc/4fa26d7a5b5e8e0956973462c21dfcdc.jpg"
+    }
+  },
+  {
+    "columnId": 77,
+    "info": {
+      "title": "9小时搞定微信小程序开发",
+      "subtitle": "从0开始构建你的第一款微信小程序",
+      "unit": "91讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：小程序开发基础理论详解；掌握小程序开发核心技能；从0开始构建一款小程序。",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>小程序开发基础理论详解；</li>\n<li>掌握小程序开发核心技能；</li>\n<li>从 0 开始构建一款小程序。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/51/59/51d9fbf2e2ca30c06959ab7a32346a59.jpg"
+    }
+  },
+  {
+    "columnId": 79,
+    "info": {
+      "title": "技术领导力实战笔记",
+      "subtitle": "通往优秀技术领导者之路",
+      "unit": "268讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "CTO",
+          "领导力"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n对于技术领导力核心概念的全面认知;\n众多优秀技术领导者的一线实战经验;\n诸多技术管理常见问题的解决方案;\n管理之外产品、创业、商业等的内在逻辑。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>对于技术领导力核心概念的全面认知;</li>\n<li>众多优秀技术领导者的一线实战经验;</li>\n<li>诸多技术管理常见问题的解决方案;</li>\n<li>管理之外产品、创业、商业等的内在逻辑。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/12/32/12241c4c53ca8ad22d209cfc76a51632.jpg"
+    }
+  },
+  {
+    "columnId": 80,
+    "info": {
+      "title": "硅谷产品实战36讲",
+      "subtitle": "用实例揭示如何打造世界级产品",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "产品入门",
+          "产品案例"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n从0到1到无穷的产品经理秘诀；\n硅谷产品经理的经验法则；\n“增长黑客”的实操技巧；\n产品经理的“领导力”。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>从0到1到无穷的产品经理秘诀；</li>\n<li>硅谷产品经理的经验法则；</li>\n<li>“增长黑客”的实操技巧；</li>\n<li>产品经理的“领导力”。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c2/35/c2747eb386fb01b983de55fe81525f35.jpg"
+    }
+  },
+  {
+    "columnId": 81,
+    "info": {
+      "title": "从0开始学架构",
+      "subtitle": "前阿里P9技术专家的实战架构心法",
+      "unit": "65讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "架构基础",
+          "架构入门"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n理解架构设计的本质和目的；\n掌握高性能和高可用架构模式；\n走进BAT标准技术架构实战；\n从编程到架构，实现思维跃迁。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>理解架构设计的本质和目的；</li>\n<li>掌握高性能和高可用架构模式；</li>\n<li>走进BAT标准技术架构实战；</li>\n<li>从编程到架构，实现思维跃迁。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/84/51/84c94e02e9bda6bc736f823dd419c651.jpg"
+    }
+  },
+  {
+    "columnId": 82,
+    "info": {
+      "title": "Java核心技术面试精讲",
+      "subtitle": "前Oracle首席工程师带你修炼Java内功",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Java面试",
+          "Java基础"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nJava 核心技术原理剖析；\n36 道 Java 必考面试题详解；\n一套完整的 Java 知识体系；\n从面试官角度洞悉技术面试考点。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>Java 核心技术原理剖析；</li>\n<li>36 道 Java 必考面试题详解；</li>\n<li>一套完整的 Java 知识体系；</li>\n<li>从面试官角度洞悉技术面试考点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/5e/0a/5ec38a973faeddb48343d3e5ca930c0a.jpg"
+    }
+  },
+  {
+    "columnId": 84,
+    "info": {
+      "title": "微服务架构实战160讲",
+      "subtitle": "8大核心模块精讲，打通架构师进阶之路",
+      "unit": "171讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "微服务实战",
+          "微服务"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n微服务八大模块精讲；\n业务场景与案例分析；\n核心组件开发运维实践；\n独立设计搭建基础架构。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>微服务八大模块精讲；</li>\n<li>业务场景与案例分析；</li>\n<li>核心组件开发运维实践；</li>\n<li>独立设计搭建基础架构。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0c/8d/0c84bcd30e480ee697fa6e4e0b46b58d.jpg"
+    }
+  },
+  {
+    "columnId": 85,
+    "info": {
+      "title": "趣谈网络协议",
+      "subtitle": "像小说一样的网络协议入门课",
+      "unit": "51讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "网络协议",
+          "网络编程"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n掌握网络协议的知识框架；\n\n\n应对大厂面试的协议难题；\n\n\n驾驭网络协议的实用场景。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>掌握网络协议的知识框架；</p>\n</li>\n<li>\n<p>应对大厂面试的协议难题；</p>\n</li>\n<li>\n<p>驾驭网络协议的实用场景。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1a/0a/1a17f945f721b4a18a84e540c70f580a.jpg"
+    }
+  },
+  {
+    "columnId": 87,
+    "info": {
+      "title": "从0开始学游戏开发",
+      "subtitle": "你的游戏开发入门第一课",
+      "unit": "42讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "游戏开发",
+          "基础编程"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n深入解析一款经典游戏；\n\n\n掌握实战开发核心理论；\n\n\n剖析热点游戏成功之道。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>深入解析一款经典游戏；</p>\n</li>\n<li>\n<p>掌握实战开发核心理论；</p>\n</li>\n<li>\n<p>剖析热点游戏成功之道。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4b/21/4b269b4124fb01eb92fe5a35543cb921.jpg"
+    }
+  },
+  {
+    "columnId": 97,
+    "info": {
+      "title": "机器学习40讲",
+      "subtitle": "帮你打通机器学习的任督二脉",
+      "unit": "46讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "CI",
+          "CD"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n机器学习的必备核心理论\n30个最流行的机器学习模型\n基于Python语言的实例练习\n完整的机器学习知识体系\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>机器学习的必备核心理论</li>\n<li>30个最流行的机器学习模型</li>\n<li>基于Python语言的实例练习</li>\n<li>完整的机器学习知识体系</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/5d/78/5d51a2322e9cf8bce991fdfbb952da78.jpg"
+    }
+  },
+  {
+    "columnId": 98,
+    "info": {
+      "title": "零基础学Python",
+      "subtitle": "掌握AI时代的编程语言",
+      "unit": "71讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Python",
+          "Python入门"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握 Python3 基础语法；\n熟练使用多线程编程；\n完成多个编程实战项目；\n为学习人工智能打下基础。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握 Python3 基础语法；</li>\n<li>熟练使用多线程编程；</li>\n<li>完成多个编程实战项目；</li>\n<li>为学习人工智能打下基础。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/be/e7/bea43e68b6de76afc896780047a529e7.jpg"
+    }
+  },
+  {
+    "columnId": 100,
+    "info": {
+      "title": "React实战进阶45讲",
+      "subtitle": "掌握当下热门的前端利器",
+      "unit": "46讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "React",
+          "前端框架"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n全面学习 React 常用技术栈；\n深入理解 React 设计模式；\n常见场景下的编程实战指南；\n掌握用 React 开发大型项目的能力。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>全面学习 React 常用技术栈；</li>\n<li>深入理解 React 设计模式；</li>\n<li>常见场景下的编程实战指南；</li>\n<li>掌握用 React 开发大型项目的能力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f9/bf/f97674f24618912d89ded822159d6cbf.jpg"
+    }
+  },
+  {
+    "columnId": 103,
+    "info": {
+      "title": "软件测试52讲",
+      "subtitle": "从小工到专家的实战心法",
+      "unit": "63讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "测试",
+          "软件测试",
+          "测试案例",
+          "腾讯T4专家"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n从0系统掌握软件测试的知识要点；\n主流测试技术的核心原理；\n5大企业级项目实战案例解析；\n从小工到测试专家的必备技能。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>从0系统掌握软件测试的知识要点；</li>\n<li>主流测试技术的核心原理；</li>\n<li>5大企业级项目实战案例解析；</li>\n<li>从小工到测试专家的必备技能。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ef/be/efdf13797e46653833312097d48906be.jpg"
+    }
+  },
+  {
+    "columnId": 104,
+    "info": {
+      "title": "持续交付36讲",
+      "subtitle": "量身定制你的持续交付体系",
+      "unit": "42讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "CI",
+          "CD"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统了解CI/CD核心知识；\n中小团队持续交付实战案例；\n从0开始快速构建持续交付系统。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统了解CI/CD核心知识；</li>\n<li>中小团队持续交付实战案例；</li>\n<li>从0开始快速构建持续交付系统。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/98/69/98f743790459de7d90bff20f183c0d69.jpg"
+    }
+  },
+  {
+    "columnId": 105,
+    "info": {
+      "title": "快速上手Kotlin开发",
+      "subtitle": "Java/Android开发者的实战指南",
+      "unit": "50讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Kotlin",
+          "移动开发"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握 Kotlin 的语法和高级特性；\n用 Kotlin 改造和迁移现有工程；\nKotlin 在团队协作中的注意事项；\n深入学习 Kotlin 跨平台开发实战。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握 Kotlin 的语法和高级特性；</li>\n<li>用 Kotlin 改造和迁移现有工程；</li>\n<li>Kotlin 在团队协作中的注意事项；</li>\n<li>深入学习 Kotlin 跨平台开发实战。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/a1/d8/a17e90e5eec05569d16dfefb57b8a6d8.jpg"
+    }
+  },
+  {
+    "columnId": 108,
+    "info": {
+      "title": "深入拆解Java虚拟机",
+      "subtitle": "Oracle 高级研究员手把手带你入门JVM",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "JVM",
+          "Java底层"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nJava工程师进阶加薪必修课；\n4大模块全方位拆解JVM；\n帮助你编写高效Java代码；\n揭秘Oracle最新Java黑科技。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>Java工程师进阶加薪必修课；</li>\n<li>4大模块全方位拆解JVM；</li>\n<li>帮助你编写高效Java代码；</li>\n<li>揭秘Oracle最新Java黑科技。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e1/8b/e1f66513ee56e661ad8ade980a88578b.jpg"
+    }
+  },
+  {
+    "columnId": 110,
+    "info": {
+      "title": "邱岳的产品实战",
+      "subtitle": "从0到100的产品启示录",
+      "unit": "58讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "产品实战",
+          "产品案例"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n产品从0到1冷启动方法论；\n千万级产品的11个增长策略；\n7种产品数据分析方法；\n产品经理必备商业逻辑。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>产品从0到1冷启动方法论；</li>\n<li>千万级产品的11个增长策略；</li>\n<li>7种产品数据分析方法；</li>\n<li>产品经理必备商业逻辑。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/97/07/97c6bfa1bef693ca07af844f2ea24e07.jpg"
+    }
+  },
+  {
+    "columnId": 111,
+    "info": {
+      "title": "程序员进阶攻略",
+      "subtitle": "每个程序员都应该知道的成长法则",
+      "unit": "65讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "技术人成长",
+          "职业发展"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n技术栈抉择的原则与方法论；\n开发者必备的编程基本功；\n单兵作战到团队指挥技能；\n技术人跃迁式成长路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>技术栈抉择的原则与方法论；</li>\n<li>开发者必备的编程基本功；</li>\n<li>单兵作战到团队指挥技能；</li>\n<li>技术人跃迁式成长路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/10/35/10654257d045103938237a15c5898035.jpg"
+    }
+  },
+  {
+    "columnId": 112,
+    "info": {
+      "title": "Go语言核心36讲",
+      "subtitle": "3个月带你通关Go语言",
+      "unit": "55讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Golang",
+          "Go语言"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nGo语言核心技术解读；\n5大章节快速上手实战；\n面试官亲选100+例题精析；\n高薪开发必备编程学习路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>Go语言核心技术解读；</li>\n<li>5大章节快速上手实战；</li>\n<li>面试官亲选100+例题精析；</li>\n<li>高薪开发必备编程学习路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1d/4f/1d07b15335ad1c227b918c52d0b8254f.jpg"
+    }
+  },
+  {
+    "columnId": 113,
+    "info": {
+      "title": "技术管理实战36讲",
+      "subtitle": "前百度最佳经理人的战地笔记",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "技术管理",
+          "技术Leader"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n解惑团队leader的36个场景；\n新经理的自我定位和角色认同；\n打造高效团队的13 种方法；\n“看方向”“带人”和“做事”实战三板斧。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>解惑团队leader的36个场景；</li>\n<li>新经理的自我定位和角色认同；</li>\n<li>打造高效团队的13 种方法；</li>\n<li>“看方向”“带人”和“做事”实战三板斧。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/28/00/288a96cfa27cc0829ad01ab2cfc5a200.jpg"
+    }
+  },
+  {
+    "columnId": 115,
+    "info": {
+      "title": "从0开始学微服务",
+      "subtitle": "微博服务化专家的一线实战经验",
+      "unit": "43讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "微服务",
+          "微服务平台"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n中小团队微服务落地方案；\n程序员必学热门架构技术；\n快速掌握微服务实战技巧；\n洞悉微服务DevOps精髓。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>中小团队微服务落地方案；</li>\n<li>程序员必学热门架构技术；</li>\n<li>快速掌握微服务实战技巧；</li>\n<li>洞悉微服务DevOps精髓。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1a/c6/1a7c95a77d8b5c7e50bb3334f0f9edc6.jpg"
+    }
+  },
+  {
+    "columnId": 116,
+    "info": {
+      "title": "深入剖析Kubernetes",
+      "subtitle": "Kubernetes原来可以如此简单",
+      "unit": "57讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "容器",
+          "K8s"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n容器基础知识详解；\n从 0 搭建 Kubernetes 集群；\n剖析 Kubernetes 的核心特性；\n掌握基于 Kubernetes 的容器编排。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>容器基础知识详解；</li>\n<li>从 0 搭建 Kubernetes 集群；</li>\n<li>剖析 Kubernetes 的核心特性；</li>\n<li>掌握基于 Kubernetes 的容器编排。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/df/4a/dfc800cca64bfc384aeabfd275e1404a.jpg"
+    }
+  },
+  {
+    "columnId": 126,
+    "info": {
+      "title": "数据结构与算法之美",
+      "subtitle": "为工程师量身打造的数据结构与算法私教课",
+      "unit": "81讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "算法实战",
+          "算法面试"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n20个经典数据结构与算法；\n\n\n100个真实项目场景案例；\n\n\n文科生都能懂的算法手绘图解；\n\n\n轻松搞定BAT的面试通关秘籍。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>20个经典数据结构与算法；</p>\n</li>\n<li>\n<p>100个真实项目场景案例；</p>\n</li>\n<li>\n<p>文科生都能懂的算法手绘图解；</p>\n</li>\n<li>\n<p>轻松搞定BAT的面试通关秘籍。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1b/ae/1b969cfe410a43d5f2b148c255beb3ae.jpg"
+    }
+  },
+  {
+    "columnId": 127,
+    "info": {
+      "title": "如何设计一个秒杀系统",
+      "subtitle": "大并发高可用秒杀系统的设计之道",
+      "unit": "10讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "秒杀架构",
+          "高并发"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n常见业务场景下的必备架构知识要点；\n大并发、高性能的架构设计方法与原则；\n透彻理解秒杀系统的各个关键技术点；\n快速搭建一套满足业务的高可用系统。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>常见业务场景下的必备架构知识要点；</li>\n<li>大并发、高性能的架构设计方法与原则；</li>\n<li>透彻理解秒杀系统的各个关键技术点；</li>\n<li>快速搭建一套满足业务的高可用系统。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e9/b7/e9d277968e53dd16628efda10f511fb7.jpg"
+    }
+  },
+  {
+    "columnId": 129,
+    "info": {
+      "title": "代码精进之路",
+      "subtitle": "你写的每一行代码都是你的名片",
+      "unit": "48讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "代码规范",
+          "安全代码"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n编程实战中的避坑清单；\n高效规范的代码编写方法；\n消除代码中的安全隐患；\n为团队交付最佳性能的代码。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>编程实战中的避坑清单；</li>\n<li>高效规范的代码编写方法；</li>\n<li>消除代码中的安全隐患；</li>\n<li>为团队交付最佳性能的代码。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/56/f6/56a1b164ece4b2c70ee4e49521eb06f6.jpg"
+    }
+  },
+  {
+    "columnId": 130,
+    "info": {
+      "title": "算法面试通关40讲",
+      "subtitle": "前Facebook工程师带你吃透大厂面试题",
+      "unit": "62讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "算法面试",
+          "LeetCode刷题"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n常见算法知识点理论讲解；\n高频面试题目思路剖析；\nLeetCode 高效解题四步法；\n有效提升算法面试通过率。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>常见算法知识点理论讲解；</li>\n<li>高频面试题目思路剖析；</li>\n<li>LeetCode 高效解题四步法；</li>\n<li>有效提升算法面试通过率。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e6/d6/e61550fe597b2b351c72e333b57bb0d6.jpg"
+    }
+  },
+  {
+    "columnId": 132,
+    "info": {
+      "title": "白话法律42讲",
+      "subtitle": "为程序员打造的专属法律武器",
+      "unit": "47讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "法律",
+          "程序员法律"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n8分钟轻松掌握的法律知识；\n程序员必知的14个法律雷区；\n40个职场与生活的典型法律场景；\n一学就能用的维权解决方案。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>8分钟轻松掌握的法律知识；</li>\n<li>程序员必知的14个法律雷区；</li>\n<li>40个职场与生活的典型法律场景；</li>\n<li>一学就能用的维权解决方案。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0a/10/0a5f38cf4660630c04dbe25f82bac410.jpg"
+    }
+  },
+  {
+    "columnId": 133,
+    "info": {
+      "title": "从0开始学大数据",
+      "subtitle": "智能时代你的大数据第一课",
+      "unit": "47讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "大数据",
+          "大数据框架"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解Hadoop生态系统；\n7种大数据技术应用场景解析；\n工程师必须掌握的大数据算法；\n高效且完整的大数据学习路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解Hadoop生态系统；</li>\n<li>7种大数据技术应用场景解析；</li>\n<li>工程师必须掌握的大数据算法；</li>\n<li>高效且完整的大数据学习路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/cd/ad/cdd9d25d4e6888252939815adc2c64ad.jpg"
+    }
+  },
+  {
+    "columnId": 138,
+    "info": {
+      "title": "Nginx核心知识150讲",
+      "subtitle": "百万并发下的Nginx性能优化之道",
+      "unit": "155讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Nginx",
+          "Web服务器"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n基础知识详解及核心架构剖析\n搭建支持百万高并发的Nginx服务\n从内核优化到源码解读的全方位拆解\nOpenResty + Nginx 开发实战\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>基础知识详解及核心架构剖析</li>\n<li>搭建支持百万高并发的Nginx服务</li>\n<li>从内核优化到源码解读的全方位拆解</li>\n<li>OpenResty + Nginx 开发实战</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/10/02/106c8301c249fd20689132f341b89c02.jpg"
+    }
+  },
+  {
+    "columnId": 139,
+    "info": {
+      "title": "MySQL实战45讲",
+      "subtitle": "从原理到实战，丁奇带你搞懂MySQL",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "MySQL",
+          "数据库"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n腾讯云数据库负责人独家经验分享；\nMySQL 核心技术详解与原理说明；\n36 个 MySQL 常见痛点问题解析；\n完整的 MySQL 学习路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>腾讯云数据库负责人独家经验分享；</li>\n<li>MySQL 核心技术详解与原理说明；</li>\n<li>36 个 MySQL 常见痛点问题解析；</li>\n<li>完整的 MySQL 学习路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b7/c2/b736f37014d28199c2457a67ed669bc2.jpg"
+    }
+  },
+  {
+    "columnId": 140,
+    "info": {
+      "title": "Linux性能优化实战",
+      "subtitle": "10分钟帮你找到系统瓶颈",
+      "unit": "65讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Linux",
+          "性能调优"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nLinux常用的性能分析工具合集；\n30个Linux性能问题诊断思路；\n读懂CPU、内存、I/O等指标；\n5个真实的线上环境分析案例。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>Linux常用的性能分析工具合集；</li>\n<li>30个Linux性能问题诊断思路；</li>\n<li>读懂CPU、内存、I/O等指标；</li>\n<li>5个真实的线上环境分析案例。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/8b/21/8b8b3dba3c58225533ce32a5f7adc521.jpg"
+    }
+  },
+  {
+    "columnId": 142,
+    "info": {
+      "title": "Android开发高手课",
+      "subtitle": "由表及里，给你的App“把把脉”",
+      "unit": "62讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Android",
+          "移动开发"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n崩溃、卡顿、耗电等常见问题解法；\n内存、I/O、网络、存储的优化思路；\n9个提升App开发效率的实战技巧；\n跨平台开发和新技术案例解读。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>崩溃、卡顿、耗电等常见问题解法；</li>\n<li>内存、I/O、网络、存储的优化思路；</li>\n<li>9个提升App开发效率的实战技巧；</li>\n<li>跨平台开发和新技术案例解读。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0c/d1/0c0b328f122d8363927efb0c416c6dd1.jpg"
+    }
+  },
+  {
+    "columnId": 143,
+    "info": {
+      "title": "程序员的数学基础课",
+      "subtitle": "在实战中重新理解数学",
+      "unit": "58讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "数学",
+          "线性代数"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n工程师必备的数学思想剖析；\n\n\n常用概率统计与线性代数精讲；\n\n\n数学理论在编程中的实际应用；\n\n\n人工智能入门必修课。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>工程师必备的数学思想剖析；</p>\n</li>\n<li>\n<p>常用概率统计与线性代数精讲；</p>\n</li>\n<li>\n<p>数学理论在编程中的实际应用；</p>\n</li>\n<li>\n<p>人工智能入门必修课。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/8b/bf/8bccf4c061b43850db43fe084cf28abf.jpg"
+    }
+  },
+  {
+    "columnId": 145,
+    "info": {
+      "title": "玩转Git三剑客",
+      "subtitle": "带你深入掌握Git、GitHub和GitLab",
+      "unit": "62讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Git",
+          "GitHub"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解 Git 工作原理；\n掌握 Git 的高级使用技巧；\n用 GitHub 进行团队项目代码管理；\n通过 GitLab 完成简单的 DevOps 流程。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解 Git 工作原理；</li>\n<li>掌握 Git 的高级使用技巧；</li>\n<li>用 GitHub 进行团队项目代码管理；</li>\n<li>通过 GitLab 完成简单的 DevOps 流程。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b8/38/b851c1266733864df1c2d6d859a84238.jpg"
+    }
+  },
+  {
+    "columnId": 147,
+    "info": {
+      "title": "数据分析实战45讲",
+      "subtitle": "即学即用的数据分析入门课",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "数据分析",
+          "Python"
+        ]
+      },
+      "path": {
+        "desc": "你将收获：\n\n数据分析核心概念和工具；\n数据采集、清洗、分析方法论；\n10大数据挖掘算法精讲；\nKaggle实战项目练习。\n\n",
+        "desc_html": "<p><strong>你将收获</strong>：</p>\n<ul>\n<li>数据分析核心概念和工具；</li>\n<li>数据采集、清洗、分析方法论；</li>\n<li>10大数据挖掘算法精讲；</li>\n<li>Kaggle实战项目练习。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/73/67/73213c041e72a9ff2a91aefbc2943167.jpg"
+    }
+  },
+  {
+    "columnId": 148,
+    "info": {
+      "title": "10x程序员工作法",
+      "subtitle": "掌握主动权，忙到点子上",
+      "unit": "60讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "开发效率",
+          "10倍效率"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n“反直觉式”工作法，带你突破思维惯性；\n1个框架+4个原则，可复制的“高效模版”；\n顶级程序员的40个实操秘笈。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>“反直觉式”工作法，带你突破思维惯性；</li>\n<li>1个框架+4个原则，可复制的“高效模版”；</li>\n<li>顶级程序员的40个实操秘笈。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/10/3e/10dfc61006956121316d73090ec9cc3e.jpg"
+    }
+  },
+  {
+    "columnId": 153,
+    "info": {
+      "title": "TensorFlow快速入门与实战",
+      "subtitle": "10小时掌握当前流行的深度学习框架",
+      "unit": "67讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "TensorFlow",
+          "深度学习"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n快速掌握 TensorFlow 核心概念和架构；\n熟练进行模型结构设计、训练及测试；\n参数调优及损失函数设计的基本方法；\n四个典型的 TensorFlow 应用场景实战（提供全部源代码）；\n懂得如何更好地为 TensorFlow 社区做贡献。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>快速掌握 TensorFlow 核心概念和架构；</li>\n<li>熟练进行模型结构设计、训练及测试；</li>\n<li>参数调优及损失函数设计的基本方法；</li>\n<li>四个典型的 TensorFlow 应用场景实战<strong>（提供全部源代码）</strong>；</li>\n<li>懂得如何更好地为 TensorFlow 社区做贡献。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/84/c2/849ba1dd9226d4a0065effcb6af887c2.jpg"
+    }
+  },
+  {
+    "columnId": 154,
+    "info": {
+      "title": "重学前端",
+      "subtitle": "每天10分钟，重构你的前端知识体系",
+      "unit": "57讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "前端",
+          "前端面试"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n告别零散技术点，搭建前端知识体系；\n打通JS、HTML、CSS、浏览器4大脉络；\n40+前端难点完全解答；\n大厂前端工程实战演练。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>告别零散技术点，搭建前端知识体系；</li>\n<li>打通JS、HTML、CSS、浏览器4大脉络；</li>\n<li>40+前端难点完全解答；</li>\n<li>大厂前端工程实战演练。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c6/3c/c64e92db621033ab7e26dae216c4ec3c.jpg"
+    }
+  },
+  {
+    "columnId": 155,
+    "info": {
+      "title": "面试现场",
+      "subtitle": "面试只是起点，能力才是终局",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "面试技巧",
+          "面试官"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n面试官为你划重点的“考点大纲”；\n如何提炼你的优势与竞争力；\n成功率提升80%的面试秘笈；\n一线大厂Offer收割全攻略。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>面试官为你划重点的“考点大纲”；</li>\n<li>如何提炼你的优势与竞争力；</li>\n<li>成功率提升80%的面试秘笈；</li>\n<li>一线大厂Offer收割全攻略。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d9/04/d97ac6ec99a70e8db3f9de6cf76dfc04.jpg"
+    }
+  },
+  {
+    "columnId": 156,
+    "info": {
+      "title": "玩转Spring全家桶",
+      "subtitle": "一站通关Spring、Spring Boot与Spring Cloud",
+      "unit": "123讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Spring",
+          "SpringCloud"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n使用 Spring 熟练开发 Web 服务；\n搞懂 Spring Boot 核心功能的实现原理；\n通过 Spring Cloud 快速构建微服务架构；\n掌握 Spring 个性化定制与扩展的进阶方法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>使用 Spring 熟练开发 Web 服务；</li>\n<li>搞懂 Spring Boot 核心功能的实现原理；</li>\n<li>通过 Spring Cloud 快速构建微服务架构；</li>\n<li>掌握 Spring 个性化定制与扩展的进阶方法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/aa/ca/aab8d7e8dcaac57af43726b4f901a5ca.jpg"
+    }
+  },
+  {
+    "columnId": 158,
+    "info": {
+      "title": "软件工程之美",
+      "subtitle": "重新理解软件工程",
+      "unit": "55讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "软件工程",
+          "项目管理"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n拿来即用的软件工程方法论；\n日常工作的实战场景剖析；\n谷歌、微软等公司的最佳实践案例；\n从软件工程的视角来思考问题。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>拿来即用的软件工程方法论；</li>\n<li>日常工作的实战场景剖析；</li>\n<li>谷歌、微软等公司的最佳实践案例；</li>\n<li>从软件工程的视角来思考问题。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/14/d2/14137630743ea826b230e74436164ad2.jpg"
+    }
+  },
+  {
+    "columnId": 159,
+    "info": {
+      "title": "Java并发编程实战",
+      "subtitle": "全面系统提升你的并发编程能力",
+      "unit": "51讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Java内存模型",
+          "并发编程"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n全面了解并发编程核心原理；\n深入掌握12个Java并发工具类；\n搞懂9种最常见的并发设计模式；\n4大经典并发编程实战案例。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>全面了解并发编程核心原理；</li>\n<li>深入掌握12个Java并发工具类；</li>\n<li>搞懂9种最常见的并发设计模式；</li>\n<li>4大经典并发编程实战案例。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d5/c0/d513beec13a20d5e858257313b3605c0.jpg"
+    }
+  },
+  {
+    "columnId": 160,
+    "info": {
+      "title": "Go语言从入门到实战",
+      "subtitle": "简明高效的Go语言实战指南",
+      "unit": "55讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Go语言",
+          "Go入门"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n快速掌握 Go 语言基础语法和特性；\n学习性能调优方法并编写高性能代码；\n轻松敲定编程中常见并发任务；\n设计并实现可扩展架构和高可用系统。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>快速掌握 Go 语言基础语法和特性；</li>\n<li>学习性能调优方法并编写高性能代码；</li>\n<li>轻松敲定编程中常见并发任务；</li>\n<li>设计并实现可扩展架构和高可用系统。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/38/ae/384b2ac2506f9a37988acb56193419ae.jpg"
+    }
+  },
+  {
+    "columnId": 161,
+    "info": {
+      "title": "iOS开发高手课",
+      "subtitle": "从原理到实战，带你解决80%的开发难题",
+      "unit": "47讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "iOS",
+          "移动开发"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n构建iOS高手完整知识脉络；\n30+ iOS开发实战场景剖析；\niOS核心技术与原理详解；\n精美手绘图解知识点。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>构建iOS高手完整知识脉络；</li>\n<li>30+ iOS开发实战场景剖析；</li>\n<li>iOS核心技术与原理详解；</li>\n<li>精美手绘图解知识点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b1/67/b158d8dab239ea2bd3c729730eb0f267.jpg"
+    }
+  },
+  {
+    "columnId": 163,
+    "info": {
+      "title": "Vue开发实战",
+      "subtitle": "从0开始搭建大型Vue项目",
+      "unit": "53讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Vue",
+          "前端框架"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握 Vue 核心知识点和实现原理；\n熟悉 Vue 生态及相关工具的使用；\n打通前端工程化全链路技能点；\n具备开发大型前端项目的能力。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握 Vue 核心知识点和实现原理；</li>\n<li>熟悉 Vue 生态及相关工具的使用；</li>\n<li>打通前端工程化全链路技能点；</li>\n<li>具备开发大型前端项目的能力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/75/67/75e5e6cf806a2815fbe514c3ecf23667.jpg"
+    }
+  },
+  {
+    "columnId": 164,
+    "info": {
+      "title": "趣谈Linux操作系统",
+      "subtitle": "像故事一样的操作系统入门课",
+      "unit": "72讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Linux",
+          "操作系统"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n快速上手Linux操作系统；\n\n\n趣味图解内核工作原理；\n\n\n熟练掌握程序运行机制；\n\n\n讲练结合修炼底层能力。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>快速上手Linux操作系统；</p>\n</li>\n<li>\n<p>趣味图解内核工作原理；</p>\n</li>\n<li>\n<p>熟练掌握程序运行机制；</p>\n</li>\n<li>\n<p>讲练结合修炼底层能力。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1e/aa/1e9ab1eba7d62354c7d6775fbcf051aa.jpg"
+    }
+  },
+  {
+    "columnId": 165,
+    "info": {
+      "title": "从0开始做增长",
+      "subtitle": "从0到1的增长实战方法论",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "增长黑客",
+          "运营"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一张完整的增长全景图；\n可实操的产品增长策略；\n可持续的数据增长闭环；\n手把手带你做增长实验。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>一张完整的增长全景图；</li>\n<li>可实操的产品增长策略；</li>\n<li>可持续的数据增长闭环；</li>\n<li>手把手带你做增长实验。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ec/d0/ec25b632232bb625346b885e5899c2d0.jpg"
+    }
+  },
+  {
+    "columnId": 166,
+    "info": {
+      "title": "许式伟的架构课",
+      "subtitle": "从源头出发，带你重新理解架构设计",
+      "unit": "89讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "架构",
+          "架构体系"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n许式伟首次完整架构经验分享\n从0开始，构建信息世界全貌\n常见业务场景的架构范式解读\n9大必备架构思想精讲\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>许式伟首次完整架构经验分享</li>\n<li>从0开始，构建信息世界全貌</li>\n<li>常见业务场景的架构范式解读</li>\n<li>9大必备架构思想精讲</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/2b/ee/2b4d3545e4a1962c0e9eda0b8e775eee.jpg"
+    }
+  },
+  {
+    "columnId": 167,
+    "info": {
+      "title": "大规模数据处理实战",
+      "subtitle": "硅谷一线工程师的大数据架构实战经验",
+      "unit": "46讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "大数据",
+          "Beam"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n大规模数据处理核心知识剖析；\n深入浅出详解Apache Spark；\n掌握前沿技术Apache Beam；\n完整高效的大数据学习路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>大规模数据处理核心知识剖析；</li>\n<li>深入浅出详解Apache Spark；</li>\n<li>掌握前沿技术Apache Beam；</li>\n<li>完整高效的大数据学习路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c5/d4/c5b4877842b26ff5ad7bb95892fcacd4.jpg"
+    }
+  },
+  {
+    "columnId": 169,
+    "info": {
+      "title": "从0开发一款iOS App",
+      "subtitle": "手把手带你构建类今日头条的App",
+      "unit": "106讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Objective-C",
+          "iOS开发"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n熟练使用 UI 组件搭建 App 界面；\n掌握 iOS 开发关键技术模块；\n构建系统的移动开发知识体系；\n具体独立开发完整 App 的能力。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>熟练使用 UI 组件搭建 App 界面；</li>\n<li>掌握 iOS 开发关键技术模块；</li>\n<li>构建系统的移动开发知识体系；</li>\n<li>具体独立开发完整 App 的能力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c8/97/c8f434fdfdb61a57e19e54e6d5b98f97.jpg"
+    }
+  },
+  {
+    "columnId": 170,
+    "info": {
+      "title": "深入浅出计算机组成原理",
+      "subtitle": "带你掌握计算机体系全貌",
+      "unit": "62讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "组成原理",
+          "计算机基础"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n学以致用的计算机底层知识；\n\n\n30+计算机组成原理核心要点；\n\n\n洞悉性能问题的本质；\n\n\n组成原理在工业界的实际应用。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>学以致用的计算机底层知识；</p>\n</li>\n<li>\n<p>30+计算机组成原理核心要点；</p>\n</li>\n<li>\n<p>洞悉性能问题的本质；</p>\n</li>\n<li>\n<p>组成原理在工业界的实际应用。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/9a/0b/9a28c5b2acca32e9c29077d291a73c0b.jpg"
+    }
+  },
+  {
+    "columnId": 175,
+    "info": {
+      "title": "Web协议详解与抓包实战",
+      "subtitle": "系统掌握Web协议，高效解决网络难题",
+      "unit": "121讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "抓包",
+          "wireshark"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解常用 Web 协议；\n快速定位和解决网络疑难杂症；\n掌握常见抓包工具及报文分析方法；\n熟悉 Web 协议的架构和设计原则。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解常用 Web 协议；</li>\n<li>快速定位和解决网络疑难杂症；</li>\n<li>掌握常见抓包工具及报文分析方法；</li>\n<li>熟悉 Web 协议的架构和设计原则。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/6b/d1/6be1c13a3a8188d9939d0ef6ba0226d1.jpg"
+    }
+  },
+  {
+    "columnId": 176,
+    "info": {
+      "title": "Python核心技术与实战",
+      "subtitle": "系统提升你的Python能力",
+      "unit": "47讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Python",
+          "Python进阶"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n从工程角度掌握Python高阶用法；\n独立开发Python项目的能力；\n硅谷一线工程师的独家经验分享；\n完整的Python学习路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>从工程角度掌握Python高阶用法；</li>\n<li>独立开发Python项目的能力；</li>\n<li>硅谷一线工程师的独家经验分享；</li>\n<li>完整的Python学习路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/17/95/17fc67d7e425705c2c28f32117542395.jpg"
+    }
+  },
+  {
+    "columnId": 180,
+    "info": {
+      "title": "深入拆解Tomcat & Jetty ",
+      "subtitle": "从源码角度深度探索Java中间件 ",
+      "unit": "45讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Web容器",
+          "Jetty"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n通过Tomcat&amp;Jetty深入理解Java进阶技术；\n掌握了Tomcat&amp;Jetty中间件的设计思想；\n解读Servlet最新技术及实际应用；\n让Web程序飞起来的性能调优策略。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>通过Tomcat&amp;Jetty深入理解Java进阶技术；</li>\n<li>掌握了Tomcat&amp;Jetty中间件的设计思想；</li>\n<li>解读Servlet最新技术及实际应用；</li>\n<li>让Web程序飞起来的性能调优策略。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ed/80/ed9c6b86a9629db9931c244562a12080.jpg"
+    }
+  },
+  {
+    "columnId": 181,
+    "info": {
+      "title": "零基础学Java",
+      "subtitle": "通俗易懂的Java入门课",
+      "unit": "170讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Java入门",
+          "编程入门"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n全面掌握 Java 核心语法；\n玩转 Java 常用类库及工具；\n攻克面向对象、多线程等技术难点；\n独立用 Java 编写一款小游戏。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>全面掌握 Java 核心语法；</li>\n<li>玩转 Java 常用类库及工具；</li>\n<li>攻克面向对象、多线程等技术难点；</li>\n<li>独立用 Java 编写一款小游戏。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/65/f0/6574d7252acf98a5aca85cbbe01f2cf0.jpg"
+    }
+  },
+  {
+    "columnId": 185,
+    "info": {
+      "title": "Java性能调优实战",
+      "subtitle": "覆盖80%以上Java应用调优场景",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Java",
+          "调优"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解Java底层源码；\n活学活用5大主流场景；\n实战出发解决常见问题；\n学完就用的调优方法论。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解Java底层源码；</li>\n<li>活学活用5大主流场景；</li>\n<li>实战出发解决常见问题；</li>\n<li>学完就用的调优方法论。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/02/4f/02eabd1aa814a11fd41165df5b713d4f.jpg"
+    }
+  },
+  {
+    "columnId": 186,
+    "info": {
+      "title": "OpenResty从入门到实战",
+      "subtitle": "系统掌握一款高性能开发利器",
+      "unit": "52讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "OpenResty",
+          "Nginx"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n构建OpenResty完整知识体系；\n高性能OpenResty编码指南；\n开源项目源码分析与实战；\n从0搭建微服务API网关。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>构建OpenResty完整知识体系；</li>\n<li>高性能OpenResty编码指南；</li>\n<li>开源项目源码分析与实战；</li>\n<li>从0搭建微服务API网关。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4d/20/4dce464099b7d47a8249602ce7a9bb20.jpg"
+    }
+  },
+  {
+    "columnId": 189,
+    "info": {
+      "title": "透视HTTP协议",
+      "subtitle": "深入理解HTTP协议本质与应用",
+      "unit": "48讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "HTTP",
+          "HTTPS"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n常见的HTTP场景和案例解析；\nWeb安全技术和最新技术动向；\nHTTP高频面试题目解析；\n面向未来讲解HTTPS和HTTP2/3。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>常见的HTTP场景和案例解析；</li>\n<li>Web安全技术和最新技术动向；</li>\n<li>HTTP高频面试题目解析；</li>\n<li>面向未来讲解HTTPS和HTTP2/3。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/6d/18/6dacee1b23fa95002525f436d2a26c18.jpg"
+    }
+  },
+  {
+    "columnId": 190,
+    "info": {
+      "title": "玩转webpack",
+      "subtitle": "全方位掌握webpack核心技能和优化策略",
+      "unit": "87讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "webpack",
+          "打包"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n快速掌握基础技能和进阶用法；\n熟悉打包速度和体积优化策略；\n深入源代码了解打包构建原理；\n编写健壮易维护的 webpack 配置。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>快速掌握基础技能和进阶用法；</li>\n<li>熟悉打包速度和体积优化策略；</li>\n<li>深入源代码了解打包构建原理；</li>\n<li>编写健壮易维护的 webpack 配置。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/de/cf/dec5d31b826c67d6c49142e66c8b74cf.jpg"
+    }
+  },
+  {
+    "columnId": 191,
+    "info": {
+      "title": "Kafka核心技术与实战",
+      "subtitle": "全面提升你的Kafka实战能力",
+      "unit": "47讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Kafka",
+          "消息引擎"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nKafka 集群环境的监控和管理；\n消息系统常见疑难问题解析；\nKafka 内核原理剖析；\n流式处理平台应用案例。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>Kafka 集群环境的监控和管理；</li>\n<li>消息系统常见疑难问题解析；</li>\n<li>Kafka 内核原理剖析；</li>\n<li>流式处理平台应用案例。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/36/23/36cae542caa6d3117a844d8218812c23.jpg"
+    }
+  },
+  {
+    "columnId": 192,
+    "info": {
+      "title": "SQL必知必会",
+      "subtitle": "从入门到数据实战",
+      "unit": "50讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "SQL",
+          "数据库"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n熟练掌握SQL语法；\n实战SQL性能优化；\n玩转6大常用数据库；\n基于SQL分析王者荣耀数据。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>熟练掌握SQL语法；</li>\n<li>实战SQL性能优化；</li>\n<li>玩转6大常用数据库；</li>\n<li>基于SQL分析王者荣耀数据。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/53/58/53efdf90471aeb0a6d32704b4c541158.jpg"
+    }
+  },
+  {
+    "columnId": 193,
+    "info": {
+      "title": "Linux实战技能100讲",
+      "subtitle": "一网打尽Linux必备核心技能",
+      "unit": "118讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Linux操作",
+          "Linux命令"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n快速掌握 Linux 常用命令及配置\n熟练进行系统管理和故障排查\n熟悉 Vim 基本操作及 Shell 编程\n搭建并维护基于 Linux 的常用服务\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>快速掌握 Linux 常用命令及配置</li>\n<li>熟练进行系统管理和故障排查</li>\n<li>熟悉 Vim 基本操作及 Shell 编程</li>\n<li>搭建并维护基于 Linux 的常用服务</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ea/26/eabcc556c1c2a58ed74bfdd7ec365a26.jpg"
+    }
+  },
+  {
+    "columnId": 197,
+    "info": {
+      "title": "Elasticsearch核心技术与实战",
+      "subtitle": "快速构建分布式搜索和分析引擎",
+      "unit": "100讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "ES",
+          "Kibana"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握 Elasticsearch 核心技能；\n熟练进行生产环境中的部署与优化；\n灵活运用 ELK 进行搜索与大数据分析；\n具备通过 Elastic 官方认证的能力。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握 Elasticsearch 核心技能；</li>\n<li>熟练进行生产环境中的部署与优化；</li>\n<li>灵活运用 ELK 进行搜索与大数据分析；</li>\n<li>具备通过 Elastic 官方认证的能力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/36/bb/366cda6bf58fe0cf0783e9f3f60859bb.jpg"
+    }
+  },
+  {
+    "columnId": 199,
+    "info": {
+      "title": "黄勇的OKR实战笔记",
+      "subtitle": "为你还原一个完整的OKR实施过程",
+      "unit": "42讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "OKR",
+          "KPI"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n高效落地OKR完整参考图谱；\n快速掌握OKR全流程实践技巧；\n可参考的国内OKR成功应用案例；\n提升团队高执行力的秘诀。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>高效落地OKR完整参考图谱；</li>\n<li>快速掌握OKR全流程实践技巧；</li>\n<li>可参考的国内OKR成功应用案例；</li>\n<li>提升团队高执行力的秘诀。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/27/f9/270a72f4ded081af6e1b2cfe83044ef9.jpg"
+    }
+  },
+  {
+    "columnId": 200,
+    "info": {
+      "title": "Flutter核心技术与实战",
+      "subtitle": "来自Google的高性能跨平台开发框架",
+      "unit": "48讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Flutter",
+          "跨平台"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n快速掌握Dart语言核心特性；\n理解Flutter跨平台开发之美；\n实战16个Flutter常见开发问题；\n从0到1搭建Flutter混合开发框架。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>快速掌握Dart语言核心特性；</li>\n<li>理解Flutter跨平台开发之美；</li>\n<li>实战16个Flutter常见开发问题；</li>\n<li>从0到1搭建Flutter混合开发框架。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c3/cd/c355bdb495112a372a68e6a218ae8bcd.jpg"
+    }
+  },
+  {
+    "columnId": 201,
+    "info": {
+      "title": "编辑训练营",
+      "subtitle": "把内容交付这件事做好",
+      "unit": "9讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "编辑培训",
+          "文字能力"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n极客邦科技的独家内容心法；\n优秀编辑的入职必修课；\n提升写作基本功的具体方法论。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>极客邦科技的独家内容心法；</li>\n<li>优秀编辑的入职必修课；</li>\n<li>提升写作基本功的具体方法论。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0f/0e/0f6e0de9a6d71e40bcdc76fedc42c30e.jpg"
+    }
+  },
+  {
+    "columnId": 204,
+    "info": {
+      "title": "Spring Boot与Kubernetes云原生微服务实践 ",
+      "subtitle": "全面掌握云原生应用的架构设计与实现",
+      "unit": "94讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "SpringBoot",
+          "Java微服务"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n开发层面：\n\n掌握微服务架构和前后端分离架构设计；\n能够基于Spring Boot 搭建微服务基础框架；\n进一步提升 Java/Spring 微服务开发技能；\n掌握 Spring Boot 微服务测试和相关实践；\n理解 SaaS 多租户应用的架构和设计。\n\n运维层面：\n\n理解可运维架构理念和相关实践；\n掌握服务容器化和容器云部署相关实践；\n理解云时代的软件工程流程和实践。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：<br />\n<span class=\"orange\">开发层面：</span></p>\n<ul>\n<li>掌握微服务架构和前后端分离架构设计；</li>\n<li>能够基于Spring Boot 搭建微服务基础框架；</li>\n<li>进一步提升 Java/Spring 微服务开发技能；</li>\n<li>掌握 Spring Boot 微服务测试和相关实践；</li>\n<li>理解 SaaS 多租户应用的架构和设计。</li>\n</ul>\n<p><span class=\"orange\">运维层面：</span></p>\n<ul>\n<li>理解可运维架构理念和相关实践；</li>\n<li>掌握服务容器化和容器云部署相关实践；</li>\n<li>理解云时代的软件工程流程和实践。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b8/43/b8a9d55e0bf990b87b38caf6b1c13d43.jpg"
+    }
+  },
+  {
+    "columnId": 207,
+    "info": {
+      "title": "从0打造音视频直播系统",
+      "subtitle": "手把手教你打造实时互动音视频直播系统",
+      "unit": "41讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "WebRTC",
+          "音视频"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入掌握WebRTC实时通讯技术；\n实现1对1通话和多人音视频实时通话；\n搭建支持万人同时在线的直播系统；\n具备5G时代音视频技术能力。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入掌握WebRTC实时通讯技术；</li>\n<li>实现1对1通话和多人音视频实时通话；</li>\n<li>搭建支持万人同时在线的直播系统；</li>\n<li>具备5G时代音视频技术能力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/25/4e/25cdc65699c21185896f8b2f31809f4e.jpg"
+    }
+  },
+  {
+    "columnId": 211,
+    "info": {
+      "title": "TypeScript开发实战",
+      "subtitle": "系统掌握TypeScript核心技术",
+      "unit": "47讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "TypeScript",
+          "前端"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解 TypeScript 核心概念；\n熟练进行 TypeScript 工程配置；\n玩转四种典型前端应用的开发；\n重塑“类型思维”，提升编程素养。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解 TypeScript 核心概念；</li>\n<li>熟练进行 TypeScript 工程配置；</li>\n<li>玩转四种典型前端应用的开发；</li>\n<li>重塑“类型思维”，提升编程素养。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/80/6d/80478d23637d2904f3371ae9f940eb6d.png"
+    }
+  },
+  {
+    "columnId": 212,
+    "info": {
+      "title": "消息队列高手课",
+      "subtitle": "从源码角度全面解析MQ的设计与实现",
+      "unit": "42讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "消息队列",
+          "MQ"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n熟练掌握消息队列的实践应用；\n深入理解消息队列底层设计思想；\n从源码入手分析解决问题的方法；\n消息队列的应用实战。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>熟练掌握消息队列的实践应用；</li>\n<li>深入理解消息队列底层设计思想；</li>\n<li>从源码入手分析解决问题的方法；</li>\n<li>消息队列的应用实战。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/49/1a/49601f6a26608a3f0564a0f07d69eb1a.jpg"
+    }
+  },
+  {
+    "columnId": 214,
+    "info": {
+      "title": "网络编程实战",
+      "subtitle": "从底层到实战，深度解析网络编程",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Socket",
+          "网络性能"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握网络编程的底层原理；\n10 个常见异常和应对措施；\n聚焦常见的网络性能优化问题；\n动手编写高性能 HTTP 服务器。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握网络编程的底层原理；</li>\n<li>10 个常见异常和应对措施；</li>\n<li>聚焦常见的网络性能优化问题；</li>\n<li>动手编写高性能 HTTP 服务器。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d9/b4/d9868ff93c308befe7bb3f06cfc828b4.jpg"
+    }
+  },
+  {
+    "columnId": 216,
+    "info": {
+      "title": "浏览器工作原理与实践",
+      "subtitle": "透过浏览器看懂前端本质",
+      "unit": "46讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "浏览器",
+          "V8原理"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n前端性能优化的底层逻辑；\n浏览器页面渲染的核心流程；\nJavaScript 运行机制解析；\n浏览器网络及安全机制解析。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>前端性能优化的底层逻辑；</li>\n<li>浏览器页面渲染的核心流程；</li>\n<li>JavaScript 运行机制解析；</li>\n<li>浏览器网络及安全机制解析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/9b/92/9ba059d108b7e84479f2e57d90280892.jpg"
+    }
+  },
+  {
+    "columnId": 218,
+    "info": {
+      "title": "Swift核心技术与实战",
+      "subtitle": "从理论到实践，快速掌握Swift开发",
+      "unit": "120讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Swift",
+          "移动开发"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握 Swift 5 基础语法和新特性；\n理解 Swift 多线程编程等难点；\n学会和 Objective-C 进行混合编程；\n熟练使用 Swift 开发 iOS 应用。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握 Swift 5 基础语法和新特性；</li>\n<li>理解 Swift 多线程编程等难点；</li>\n<li>学会和 Objective-C 进行混合编程；</li>\n<li>熟练使用 Swift 开发 iOS 应用。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/3b/42/3bb592a2ee30dd5412e9bde265712b42.jpg"
+    }
+  },
+  {
+    "columnId": 219,
+    "info": {
+      "title": "编译原理之美",
+      "subtitle": "手把手教你实现一个编译器",
+      "unit": "45讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "编译",
+          "编译器"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统掌握编译器的核心技能；\n手动实现解释型和编译型2门语言；\n4大案例解读，深入剖析编译原理的实践应用；\n编译技术的未来趋势解读。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统掌握编译器的核心技能；</li>\n<li>手动实现解释型和编译型2门语言；</li>\n<li>4大案例解读，深入剖析编译原理的实践应用；</li>\n<li>编译技术的未来趋势解读。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7e/47/7e7685575320931f0165215afc200947.jpg"
+    }
+  },
+  {
+    "columnId": 220,
+    "info": {
+      "title": "ZooKeeper实战与源码剖析",
+      "subtitle": "系统掌握ZooKeeper核心原理",
+      "unit": "47讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "ZooKeeper",
+          "etcd"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解内部原理及核心源代码；\n掌握分布式协同服务研发技能；\n熟练进行生产环境的部署、调优和监控；\n熟悉分布式协同服务平台的技术选型原则。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解内部原理及核心源代码；</li>\n<li>掌握分布式协同服务研发技能；</li>\n<li>熟练进行生产环境的部署、调优和监控；</li>\n<li>熟悉分布式协同服务平台的技术选型原则。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/75/8c/75fa8bd50c3fee79a525a34b6b94af8c.jpg"
+    }
+  },
+  {
+    "columnId": 222,
+    "info": {
+      "title": "研发效率破局之道",
+      "subtitle": "Facebook研发效率工作法",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "研发效能",
+          "研发能力"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n硅谷明星公司的高效能实战经验总结；\n20+开发工具和10+方法论的系统解读；\n研发效能在国内外落地的具体案例分析；\n打造高效能个体与团队的实操秘诀。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>硅谷明星公司的高效能实战经验总结；</li>\n<li>20+开发工具和10+方法论的系统解读；</li>\n<li>研发效能在国内外落地的具体案例分析；</li>\n<li>打造高效能个体与团队的实操秘诀。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/40/62/40b98cca9949a2a684a4d389be6aeb62.jpg"
+    }
+  },
+  {
+    "columnId": 225,
+    "info": {
+      "title": "即时消息技术剖析与实战",
+      "subtitle": "10周精通IM后端架构技术点",
+      "unit": "25讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "IM",
+          "实时消息"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n从0开始打造一个IM系统；\n\n\n整合网络、数据库等7大后端必修技术；\n\n\n搞懂抖音/微信/微博等产品IM功能实现原理；\n\n\n分布式、高并发等进阶场景实战。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>从0开始打造一个IM系统；</p>\n</li>\n<li>\n<p>整合网络、数据库等7大后端必修技术；</p>\n</li>\n<li>\n<p>搞懂抖音/微信/微博等产品IM功能实现原理；</p>\n</li>\n<li>\n<p>分布式、高并发等进阶场景实战。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/16/c6/16dca95f519a8db9e0a2e45ecdd7a3c6.jpg"
+    }
+  },
+  {
+    "columnId": 228,
+    "info": {
+      "title": "全栈工程师修炼指南",
+      "subtitle": "从全栈入门到技能实战",
+      "unit": "46讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "全栈",
+          "前后端"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统掌握Web全栈技能树；\n网络、前后端、持久化等核心技术解析；\n全栈开发的技术比较和选型；\n拓宽技术视野，培养全栈思维。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统掌握Web全栈技能树；</li>\n<li>网络、前后端、持久化等核心技术解析；</li>\n<li>全栈开发的技术比较和选型；</li>\n<li>拓宽技术视野，培养全栈思维。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/95/3a/95233353f2a7054d1fe06de9e7f2963a.jpg"
+    }
+  },
+  {
+    "columnId": 230,
+    "info": {
+      "title": "高并发系统设计40问",
+      "subtitle": "攻克高并发系统演进中的业务难点",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "高并发架构",
+          "架构"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n高并发设计核心技术点；\n分布式组件的原理与使用方法；\n完整的系统演进实战；\n5个角度带你解决高并发难点。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>高并发设计核心技术点；</li>\n<li>分布式组件的原理与使用方法；</li>\n<li>完整的系统演进实战；</li>\n<li>5个角度带你解决高并发难点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/47/df/476626cb3d0f33b8d44929b64309ecdf.jpg"
+    }
+  },
+  {
+    "columnId": 232,
+    "info": {
+      "title": "Node.js开发实战",
+      "subtitle": "带你开发一个完整的Node.js项目",
+      "unit": "57讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Node",
+          "前端"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nNode.js 开发必备基础知识；\n使用 Node.js 构建 BFF 层；\n一个完整项目的开发重构实战；\n性能优化和工程化建设核心方法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>Node.js 开发必备基础知识；</li>\n<li>使用 Node.js 构建 BFF 层；</li>\n<li>一个完整项目的开发重构实战；</li>\n<li>性能优化和工程化建设核心方法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c1/a7/c1dcf0201b3b56a76a4f39464634fca7.jpg"
+    }
+  },
+  {
+    "columnId": 233,
+    "info": {
+      "title": "分布式技术原理与算法解析",
+      "subtitle": "12周精通分布式核心技术",
+      "unit": "43讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "分布式",
+          "一致性"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n构建完整的分布式核心知识体系；\n26个核心原理及对应算法解析；\n原理+场景+案例，多角度解读；\n掌握6大分布式核心技术。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>构建完整的分布式核心知识体系；</li>\n<li>26个核心原理及对应算法解析；</li>\n<li>原理+场景+案例，多角度解读；</li>\n<li>掌握6大分布式核心技术。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/04/f3/041bc286088fa2daec5f365e8e7ba6f3.jpg"
+    }
+  },
+  {
+    "columnId": 234,
+    "info": {
+      "title": "说透中台",
+      "subtitle": "从概念到落地一站通关",
+      "unit": "14讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "中台",
+          "平台"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解中台的概念与本质；\n建设中台前必须搞懂的4个问题；\n规避中台建设中常见的雷与坑；\n从0到1落地中台的方法论。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解中台的概念与本质；</li>\n<li>建设中台前必须搞懂的4个问题；</li>\n<li>规避中台建设中常见的雷与坑；</li>\n<li>从0到1落地中台的方法论。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e8/65/e897fd79ca49fe66dcb0a5f35cd00565.jpg"
+    }
+  },
+  {
+    "columnId": 235,
+    "info": {
+      "title": "DevOps实战笔记",
+      "subtitle": "精要30计，让DevOps快速落地",
+      "unit": "41讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "运维",
+          "DevOps"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一套完整的 DevOps 知识体系；\n搭建 DevOps 平台的最佳实践；\n成功转型案例的深入剖析；\n高效的软件开发协作方式。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>一套完整的 DevOps 知识体系；</li>\n<li>搭建 DevOps 平台的最佳实践；</li>\n<li>成功转型案例的深入剖析；</li>\n<li>高效的软件开发协作方式。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1a/bf/1ac67162fa575660c319fb24e3441ebf.jpg"
+    }
+  },
+  {
+    "columnId": 237,
+    "info": {
+      "title": "Netty源码剖析与实战",
+      "subtitle": "从零开始构建一个Netty实战项目",
+      "unit": "60讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Netty",
+          "Java网络编程"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n多角度透彻剖析 Netty 核心源码；\n掌握 Java 网络编程高阶技巧；\n基于 Netty 构建高性能网络程序；\n高效诊断和修复 Netty 使用中的故障。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>多角度透彻剖析 Netty 核心源码；</li>\n<li>掌握 Java 网络编程高阶技巧；</li>\n<li>基于 Netty 构建高性能网络程序；</li>\n<li>高效诊断和修复 Netty 使用中的故障。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7f/6f/7f6f0c3bd6f20e7c53b331564288496f.jpg"
+    }
+  },
+  {
+    "columnId": 238,
+    "info": {
+      "title": "DDD实战课",
+      "subtitle": "基于DDD的微服务拆分与设计",
+      "unit": "26讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "DDD",
+          "领域驱动设计"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nDDD必知必会10大核心概念；\n掌握事件风暴与领域建模；\n上手中台业务建模与设计；\n实战设计清晰的微服务架构。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>DDD必知必会10大核心概念；</li>\n<li>掌握事件风暴与领域建模；</li>\n<li>上手中台业务建模与设计；</li>\n<li>实战设计清晰的微服务架构。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/3c/9c/3c7264cb91ead783c7ec3094ce2add9c.jpg"
+    }
+  },
+  {
+    "columnId": 242,
+    "info": {
+      "title": "苏杰的产品创新课",
+      "subtitle": "一次从想法到产品的低成本实验",
+      "unit": "32讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "产品",
+          "MVP"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n理解用户需求场景的技巧；\n多种免开发原型验证方法；\n不同阶段产品运营的套路；\n产品持续创新的通杀法门。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>理解用户需求场景的技巧；</li>\n<li>多种免开发原型验证方法；</li>\n<li>不同阶段产品运营的套路；</li>\n<li>产品持续创新的通杀法门。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/30/3f/30b7b919c75dfcb6e6795ed07764773f.jpg"
+    }
+  },
+  {
+    "columnId": 244,
+    "info": {
+      "title": "移动端自动化测试实战",
+      "subtitle": "一步一步带你成为测试高手",
+      "unit": "59讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Appium",
+          "自动化测试"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统掌握 Appium 自动化测试框架；\n全面提升移动端自动化测试实战能力；\n掌握自动遍历测试及兼容性测试技巧；\n构建多设备管理平台与持续集成体系。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统掌握 Appium 自动化测试框架；</li>\n<li>全面提升移动端自动化测试实战能力；</li>\n<li>掌握自动遍历测试及兼容性测试技巧；</li>\n<li>构建多设备管理平台与持续集成体系。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0a/df/0a9344cb82dce288097621a6a368cfdf.jpg"
+    }
+  },
+  {
+    "columnId": 245,
+    "info": {
+      "title": "雷蓓蓓的项目管理实战课",
+      "subtitle": "使众人行，如何带领一群人成事",
+      "unit": "29讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "项目管理",
+          "团队管理",
+          "使众人行",
+          "产品",
+          "运营",
+          "领导力"
+        ]
+      },
+      "path": {
+        "desc": "##你将获得：\n\n即学即用的项目管理常识；\n从0到1交付项目的完整实操流程；\n高效好用的N+项目管理工具包；\n可复用的网易项目管理实战经验。\n\n",
+        "desc_html": "<p>##你将获得：</p>\n<ul>\n<li>即学即用的项目管理常识；</li>\n<li>从0到1交付项目的完整实操流程；</li>\n<li>高效好用的N+项目管理工具包；</li>\n<li>可复用的网易项目管理实战经验。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/81/a9/810c2433d92a1de0ec04982fde3ac1a9.jpg"
+    }
+  },
+  {
+    "columnId": 250,
+    "info": {
+      "title": "设计模式之美",
+      "subtitle": "前Google工程师手把手教你写高质量代码",
+      "unit": "113讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "设计模式",
+          "代码重构"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n23 种设计模式与范式实战精讲；\n\n\n200+ 真实案例分析设计与实现；\n\n\n顶尖互联网公司的编程经验分享；\n\n\n应对设计模式面试的思路与技巧。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>23 种设计模式与范式实战精讲；</p>\n</li>\n<li>\n<p>200+ 真实案例分析设计与实现；</p>\n</li>\n<li>\n<p>顶尖互联网公司的编程经验分享；</p>\n</li>\n<li>\n<p>应对设计模式面试的思路与技巧。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/a8/73/a84876e07a7a9f8dfa0fc3aebac99173.jpg"
+    }
+  },
+  {
+    "columnId": 252,
+    "info": {
+      "title": "JavaScript核心原理解析",
+      "subtitle": "重构你对JavaScript语言的认知",
+      "unit": "28讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "前端",
+          "JavaScript"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深度解读 JavaScript 核心技术；\nJavaScript 语言特性以及原理剖析；\n帮你构建语言知识结构体系；\nJavaScript 的精进指南。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深度解读 JavaScript 核心技术；</li>\n<li>JavaScript 语言特性以及原理剖析；</li>\n<li>帮你构建语言知识结构体系；</li>\n<li>JavaScript 的精进指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ff/19/ff0b71aa072af4ad6d1012c1b815fa19.jpg"
+    }
+  },
+  {
+    "columnId": 253,
+    "info": {
+      "title": "MongoDB高手课",
+      "subtitle": "三个实战视角，带你从熟练到精通",
+      "unit": "53讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "MongoDB",
+          "NoSQL"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n多角度剖析 MongoDB 使用场景及价值；\n熟练进行文档模型设计与事务开发；\nMongoDB 运维管理高阶技能实战；\n两地三中心、数据中台等典型架构设计。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>多角度剖析 MongoDB 使用场景及价值；</li>\n<li>熟练进行文档模型设计与事务开发；</li>\n<li>MongoDB 运维管理高阶技能实战；</li>\n<li>两地三中心、数据中台等典型架构设计。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/19/3d/1971e732e247492988a665a072c0dc3d.jpg"
+    }
+  },
+  {
+    "columnId": 254,
+    "info": {
+      "title": "后端技术面试 38 讲",
+      "subtitle": "全面构建你的后端知识体系",
+      "unit": "46讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "后端",
+          "面试"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n架构师必备的3大技术体系；\n软件设计核心方法论详解；\n掌握软件编程本质原理；\n后端工程师的成长路线图。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>架构师必备的3大技术体系；</li>\n<li>软件设计核心方法论详解；</li>\n<li>掌握软件编程本质原理；</li>\n<li>后端工程师的成长路线图。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/28/7f/282d1afe8638ea86e8db26680e52bc7f.jpg"
+    }
+  },
+  {
+    "columnId": 256,
+    "info": {
+      "title": "现代C++编程实战",
+      "subtitle": "基于现代C++编写可维护的高性能代码",
+      "unit": "51讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "C++",
+          "C语言"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握C++语言现代特性\n领会C++抽象表达精髓\n实践C++开发惯用模式\n征服复杂性解决实际问题\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握C++语言现代特性</li>\n<li>领会C++抽象表达精髓</li>\n<li>实践C++开发惯用模式</li>\n<li>征服复杂性解决实际问题</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f6/29/f6cfb49b379a72ebb8c368bff3f3cc29.jpg"
+    }
+  },
+  {
+    "columnId": 257,
+    "info": {
+      "title": "前端全链路性能优化实战",
+      "subtitle": "由点及面，带你掌握完整的性能优化体系",
+      "unit": "60讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "前端性能优化",
+          "性能优化"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：全面解析静态资源优化方案；了解页面渲染架构设计和优化策略；原生App、服务端及网络优化实战；研发流程优化及全链路监控体系建设。",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>全面解析静态资源优化方案；</li>\n<li>了解页面渲染架构设计和优化策略；</li>\n<li>原生 App、服务端及网络优化实战；</li>\n<li>研发流程优化及全链路监控体系建设。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e7/e8/e70ff512175174f548d0fb52034951e8.jpg"
+    }
+  },
+  {
+    "columnId": 259,
+    "info": {
+      "title": "性能工程高手课",
+      "subtitle": "得性能者得天下",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "性能优化",
+          "容量效率"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n性能测试的分类和经验教训；\n性能分析的基本理论和实践；\n性能优化的原则和十大策略；\n硅谷一线公司的实践和经验；\n性能优化和效率的知识架构；\n性能容量的工作和面试技巧。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>性能测试的分类和经验教训；</li>\n<li>性能分析的基本理论和实践；</li>\n<li>性能优化的原则和十大策略；</li>\n<li>硅谷一线公司的实践和经验；</li>\n<li>性能优化和效率的知识架构；</li>\n<li>性能容量的工作和面试技巧。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7c/20/7cbf4ecd78ec818ca31ecf5b6d330820.jpg"
+    }
+  },
+  {
+    "columnId": 262,
+    "info": {
+      "title": "安全攻防技能30讲",
+      "subtitle": "由浅入深，带你构建系统级安全防御体系",
+      "unit": "41讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "安全",
+          "漏洞",
+          "黑客"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n从 0 构建完整的安全知识体系；\n掌握 6 种常见的安全防御工具；\n一线大厂的安全防护要点及策略；\n20+ 企业级安全漏洞案例解析。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>从 0 构建完整的安全知识体系；</li>\n<li>掌握 6 种常见的安全防御工具；</li>\n<li>一线大厂的安全防护要点及策略；</li>\n<li>20+ 企业级安全漏洞案例解析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/bb/d6/bba71106b3655d14ae99b0bd6c8aead6.jpg"
+    }
+  },
+  {
+    "columnId": 264,
+    "info": {
+      "title": "性能测试实战30讲",
+      "subtitle": "告别野路子，成为真正的性能测试高手",
+      "unit": "37讲",
+      "type": "c1",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握 JMeter 和 LoadRunner 的使用原理；\n20+性能测试真实场景解析；\n落地性能调优的解决方案；\n3种监控工具分析6大系统环境。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握 JMeter 和 LoadRunner 的使用原理；</li>\n<li>20+性能测试真实场景解析；</li>\n<li>落地性能调优的解决方案；</li>\n<li>3种监控工具分析6大系统环境。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b8/f3/b8bd9c66d8ef5dd579e6f5532d4832f3.jpg"
+    }
+  },
+  {
+    "columnId": 265,
+    "info": {
+      "title": "小马哥讲Spring核心编程思想",
+      "subtitle": "深入剖析源码，掌握核心编程特性",
+      "unit": "250讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Java；spring；架构；架构师"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统掌握 Spring 核心编程模型；\n抽丝剥茧，深入剖析 Spring 源码；\n50 道经典面试难题剖析与解答；\n40 小时，带你成为 Java 架构高手。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统掌握 Spring 核心编程模型；</li>\n<li>抽丝剥茧，深入剖析 Spring 源码；</li>\n<li>50 道经典面试难题剖析与解答；</li>\n<li>40 小时，带你成为 Java 架构高手。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/62/4c/628e74082218d057346cac590293e84c.jpg"
+    }
+  },
+  {
+    "columnId": 267,
+    "info": {
+      "title": "摄影入门课",
+      "subtitle": "希望人人都能拍出好照片",
+      "unit": "27讲",
+      "type": "c1",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n拍摄设备的选择指南；\n一套核心的摄影知识体系；\n实用且易上手的摄影技巧；\n手机后期App使用攻略。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>拍摄设备的选择指南；</li>\n<li>一套核心的摄影知识体系；</li>\n<li>实用且易上手的摄影技巧；</li>\n<li>手机后期App使用攻略。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d0/24/d07435560262fb69b6e0079ff9c7dc24.jpg"
+    }
+  },
+  {
+    "columnId": 268,
+    "info": {
+      "title": "人人都能学会的编程入门课",
+      "subtitle": "每天 10 分钟，轻松学编程",
+      "unit": "38讲",
+      "type": "c1",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n敲出人生第一段代码；\n30+有趣的编码项目体验；\n3000行代码夯实编程基础；\n系统提高编程思维能力。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>敲出人生第一段代码；</li>\n<li>30+有趣的编码项目体验；</li>\n<li>3000行代码夯实编程基础；</li>\n<li>系统提高编程思维能力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f8/a6/f8c76acf705aac89b271e4b368e895a6.jpg"
+    }
+  },
+  {
+    "columnId": 269,
+    "info": {
+      "title": "Electron开发实战",
+      "subtitle": "手把手带你开发一个完整桌面应用",
+      "unit": "35讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握Web到桌面端的开发技巧；\n构建一个完整的远程控制项目；\nElectron工程化建设的核心方法；\n融会贯通Node.js、WebRTC等前端体系。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>掌握Web到桌面端的开发技巧；</li>\n<li>构建一个完整的远程控制项目；</li>\n<li>Electron工程化建设的核心方法；</li>\n<li>融会贯通Node.js、WebRTC等前端体系。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/df/40/df636a4aded0e97727db850d3c406840.jpg"
+    }
+  },
+  {
+    "columnId": 270,
+    "info": {
+      "title": "说透敏捷",
+      "subtitle": "从原理到实战带你落地敏捷",
+      "unit": "13讲",
+      "type": "c1",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n从0到1带你落地敏捷开发；\n一套完整的敏捷转型计划；\n手把手教你打造敏捷团队；\n开发者必知必会的敏捷知识点。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>从0到1带你落地敏捷开发；</li>\n<li>一套完整的敏捷转型计划；</li>\n<li>手把手教你打造敏捷团队；</li>\n<li>开发者必知必会的敏捷知识点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/fb/48/fbec467dc0665018367a5e3423694748.jpg"
+    }
+  },
+  {
+    "columnId": 272,
+    "info": {
+      "title": ".NET Core开发实战",
+      "subtitle": ".NET Core微服务架构最佳实践",
+      "unit": "61讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n熟知.NET Core核心组件设计原理\n基于DDD开发云原生微服务应用\n掌握.NET Core工程设计最佳实践\n提升K8s微服务部署与维护技能\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>熟知.NET Core核心组件设计原理</li>\n<li>基于DDD开发云原生微服务应用</li>\n<li>掌握.NET Core工程设计最佳实践</li>\n<li>提升K8s微服务部署与维护技能</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/79/38/795e8035c822263add7cd8e30aea3538.jpg"
+    }
+  },
+  {
+    "columnId": 278,
+    "info": {
+      "title": "接口测试入门课",
+      "subtitle": "从原理到实战，带你进阶接口测试",
+      "unit": "12讲",
+      "type": "c1",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n10年资深专家的一线测试心法；\n打造属于自己的接口测试框架；\n以战代练的接口测试场景实战；\n接口测试必备9大知识点。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>10年资深专家的一线测试心法；</li>\n<li>打造属于自己的接口测试框架；</li>\n<li>以战代练的接口测试场景实战；</li>\n<li>接口测试必备9大知识点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ec/00/ec87e0632d32e5f1296758fffad26600.jpg"
+    }
+  },
+  {
+    "columnId": 279,
+    "info": {
+      "title": "分布式协议与算法实战",
+      "subtitle": "攻克分布式系统设计的关键难题",
+      "unit": "31讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "分布式",
+          "分布式算法"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n可落地的 4 大分布式基础理论；\n8 个最常用的分布式协议和算法；\n3 大实战案例手把手教学；\n以实战为中心的分布式内容体系。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>可落地的 4 大分布式基础理论；</li>\n<li>8 个最常用的分布式协议和算法；</li>\n<li>3 大实战案例手把手教学；</li>\n<li>以实战为中心的分布式内容体系。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f5/24/f5209e282c44ec3ecyya42b2473a0e24.jpg"
+    }
+  },
+  {
+    "columnId": 280,
+    "info": {
+      "title": "RPC实战与核心原理",
+      "subtitle": "高效解决分布式系统的通信难题",
+      "unit": "29讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "RPC",
+          "后端架构"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n熟练掌握RPC核心原理及架构设计要点；\n解决20+基于真实场景的高频问题；\n深入剖析RPC框架的系统应用；\n手把手设计一个灵活的RPC框架。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>熟练掌握RPC核心原理及架构设计要点；</li>\n<li>解决20+基于真实场景的高频问题；</li>\n<li>深入剖析RPC框架的系统应用；</li>\n<li>手把手设计一个灵活的RPC框架。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d1/bf/d15af80828fc3a9da2fea7a1aa232dbf.jpg"
+    }
+  },
+  {
+    "columnId": 281,
+    "info": {
+      "title": "架构实战案例解析",
+      "subtitle": "从案例出发，带你吃透架构",
+      "unit": "23讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "架构案例",
+          "后端架构"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n首席架构师的大厂项目实战经验；\n系统剖析架构设计五大难点；\n12个大型互联网公司架构案例；\n中级开发必备架构实战手册。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>首席架构师的大厂项目实战经验；</li>\n<li>系统剖析架构设计五大难点；</li>\n<li>12个大型互联网公司架构案例；</li>\n<li>中级开发必备架构实战手册。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e4/91/e412560c2fac3a0d39eb4f45c2c37f91.jpg"
+    }
+  },
+  {
+    "columnId": 286,
+    "info": {
+      "title": "NLP实战高手课",
+      "subtitle": "全方位提升你的NLP实战技能",
+      "unit": "160讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n高效挖掘表格化数据的技巧\n4 种经典 NLP 任务的解决方案\nNLP 竞赛和实战中的黑科技\n从开发到部署的一整套落地经验\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>高效挖掘表格化数据的技巧</li>\n<li>4 种经典 NLP 任务的解决方案</li>\n<li>NLP 竞赛和实战中的黑科技</li>\n<li>从开发到部署的一整套落地经验</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/44/72/447dd1a03d5311cbe12af68e4870ac72.jpg"
+    }
+  },
+  {
+    "columnId": 287,
+    "info": {
+      "title": "后端存储实战课",
+      "subtitle": "类电商平台存储技术应用指南",
+      "unit": "30讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "存储",
+          "电商",
+          "数据",
+          "MySQL",
+          "Redis",
+          "ElasticSearch",
+          "MongoDB"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n电商存储中的24个高频问题解决方案；\n不同业务场景下的存储选型策略；\n分布式存储领域的前沿技术；\n存储技术核心原理的深入剖析。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>电商存储中的24个高频问题解决方案；</li>\n<li>不同业务场景下的存储选型策略；</li>\n<li>分布式存储领域的前沿技术；</li>\n<li>存储技术核心原理的深入剖析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b5/3f/b5389d76b3f08a1ac4f8ab96216dba3f.jpg"
+    }
+  },
+  {
+    "columnId": 292,
+    "info": {
+      "title": "深入浅出云计算",
+      "subtitle": "给开发者和架构师的云计算指南",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "云计算",
+          "运维",
+          "测试"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n全面系统的云计算核心知识体系；\n10年资深专家的云计算实操经验；\n可落地的云端架构思维与最佳实践；\n多角度的云上成本控制技巧。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>全面系统的云计算核心知识体系；</li>\n<li>10年资深专家的云计算实操经验；</li>\n<li>可落地的云端架构思维与最佳实践；</li>\n<li>多角度的云上成本控制技巧。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/17/41/172e0e93aaa8a4921da3434777c2d641.jpg"
+    }
+  },
+  {
+    "columnId": 294,
+    "info": {
+      "title": "Java业务开发常见错误100例",
+      "subtitle": "全面避坑 + 最佳实践=健壮代码",
+      "unit": "48讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Java",
+          "业务开发",
+          "常见错误",
+          "避坑"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n130 个代码坑点及其解决方案\n100 个场景化案例解读\n25 次源码深度解析\n使用 10 个工具定位问题根因\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>130 个代码坑点及其解决方案</li>\n<li>100 个场景化案例解读</li>\n<li>25 次源码深度解析</li>\n<li>使用 10 个工具定位问题根因</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/3a/a7/3a5e823b1f6d8454dff1c31e652bbca7.jpeg"
+    }
+  },
+  {
+    "columnId": 296,
+    "info": {
+      "title": "图解 Google V8",
+      "subtitle": "一门课搞懂 JavaScript 执行逻辑",
+      "unit": "25讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "虚拟机",
+          "JavaScript",
+          "Node.js",
+          "前端",
+          "Google"
+        ]
+      },
+      "path": {
+        "desc": "你将获得:\n\nV8 执行 JavaScript 代码的完整流程；\nJavaScript 的核心特性；\n事件循环和垃圾回收的工作机制；\n系统优化 JavaScript 执行效率的方法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>:</p>\n<ul>\n<li>V8 执行 JavaScript 代码的完整流程；</li>\n<li>JavaScript 的核心特性；</li>\n<li>事件循环和垃圾回收的工作机制；</li>\n<li>系统优化 JavaScript 执行效率的方法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/26/e3/2684822c6cb6b453c6f4abb3d89822e3.jpg"
+    }
+  },
+  {
+    "columnId": 297,
+    "info": {
+      "title": "SRE实战手册",
+      "subtitle": "从0到1带你搞定系统稳定性",
+      "unit": "13讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "SRE",
+          "运维",
+          "稳定性"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n理解 SRE 的正确姿势；\n10+ SRE 必学必会知识点；\n可落地的故障应急处理机制；\n2 种典型 SRE 组织架构案例分享。\n\n",
+        "desc_html": "<h2>你将获得：</h2>\n<ul>\n<li>理解 SRE 的正确姿势；</li>\n<li>10+ SRE 必学必会知识点；</li>\n<li>可落地的故障应急处理机制；</li>\n<li>2 种典型 SRE 组织架构案例分享。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7f/f1/7f112814ffb26d07b96c20a094b430f1.jpg"
+    }
+  },
+  {
+    "columnId": 298,
+    "info": {
+      "title": "检索技术核心20讲",
+      "subtitle": "从搜索引擎到推荐引擎，带你吃透检索",
+      "unit": "29讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "检索技术",
+          "检索引擎",
+          "陈东",
+          "搜索引擎"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：5类数据结构的原理和应用；15+行业真实应用案例详解；4大热门行业检索架构和设计；从基础到实践，构建检索知识体系。",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>5 类数据结构的原理和应用；</li>\n<li>15+ 行业真实应用案例详解；</li>\n<li>4 大热门行业检索架构和设计；</li>\n<li>从基础到实践，构建检索知识体系。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/5d/ab/5d9997c706074eeae9cadcfd51027eab.jpg"
+    }
+  },
+  {
+    "columnId": 301,
+    "info": {
+      "title": "数据中台实战课",
+      "subtitle": "攻克数据中台建设中的技术难点",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "数据中台",
+          "大数据"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n可落地的数据中台建设方法论；\n13 套图谱，掌握核心知识；\n一线互联网大厂实践案例；\n数据中台全链路支撑技术体系。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>可落地的数据中台建设方法论；</li>\n<li>13 套图谱，掌握核心知识；</li>\n<li>一线互联网大厂实践案例；</li>\n<li>数据中台全链路支撑技术体系。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/5d/6d/5d3d8ea3d8f5608b30bb58c304bf986d.jpg"
+    }
+  },
+  {
+    "columnId": 303,
+    "info": {
+      "title": "Service Mesh实战",
+      "subtitle": "实战项目深度拆解，手把手带你学会Istio",
+      "unit": "41讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得\n\n宏观理解云原生三驾马车\n完整的 Service Mesh 知识体系\nIstio 的核心功能和实践方法\nService Mesh实战项目演练\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>宏观理解云原生三驾马车</li>\n<li>完整的 Service Mesh 知识体系</li>\n<li>Istio 的核心功能和实践方法</li>\n<li>Service Mesh实战项目演练</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/81/c8/81a53c779599de8b59e4cfb814c634c8.jpg"
+    }
+  },
+  {
+    "columnId": 304,
+    "info": {
+      "title": "Kafka核心源码解读",
+      "subtitle": "从底层到实战，深度解析源码",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Kafka",
+          "源码",
+          "源码解读",
+          "大数据"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统高效的源码阅读方法；\n深入理解 Kafka 的底层原理；\n快速定位线上问题并制定调优方案；\n25个典型案例分享+面试题讲解。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统高效的源码阅读方法；</li>\n<li>深入理解 Kafka 的底层原理；</li>\n<li>快速定位线上问题并制定调优方案；</li>\n<li>25个典型案例分享+面试题讲解。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/69/3c/6961bc3841b09586cfayyf97f1fc803c.jpg"
+    }
+  },
+  {
+    "columnId": 305,
+    "info": {
+      "title": "Serverless入门课",
+      "subtitle": "从运行原理到应用实践一站通关",
+      "unit": "16讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Serverless",
+          "前端程序员"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n构建Serverless核心知识框架\n实操Serverless应用部署\n零基础搭建一个Serverless云上应用\n一套完整的Serverless架构应用代码\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>构建Serverless核心知识框架</li>\n<li>实操Serverless应用部署</li>\n<li>零基础搭建一个Serverless云上应用</li>\n<li>一套完整的Serverless架构应用代码</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e6/46/e63513a43350993db2fd9d7c163c7a46.jpg"
+    }
+  },
+  {
+    "columnId": 306,
+    "info": {
+      "title": "视觉笔记入门课",
+      "subtitle": "用视觉语言做超酷的笔记",
+      "unit": "16讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "笔记",
+          "画",
+          "视觉",
+          "视觉笔记"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n新手适用的笔记绘画技巧\n人人都能学会的内容总结法\n常见的笔记方法和具体步骤\n两大实战案例带你手把手做笔记\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>新手适用的笔记绘画技巧</li>\n<li>人人都能学会的内容总结法</li>\n<li>常见的笔记方法和具体步骤</li>\n<li>两大实战案例带你手把手做笔记</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/2c/9b/2cfd15f913f9752462a9a916021a679b.jpg"
+    }
+  },
+  {
+    "columnId": 307,
+    "info": {
+      "title": "分布式缓存高手课",
+      "subtitle": "搞定工作中 90% 缓存应用场景",
+      "unit": "54讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：常见缓存框架的实现原理与选型；Redis6.0多线程模型的原理剖析；穿透、并发、雪崩的规避与解决方案；支付中心、秒杀等场景下的实战案例。",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>常见缓存框架的实现原理与选型；</li>\n<li>Redis 6.0 多线程模型的原理剖析；</li>\n<li>穿透、并发、雪崩的规避与解决方案；</li>\n<li>支付中心、秒杀等场景下的实战案例。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/15/75/150f5917378b328c5500e966d2657675.jpg"
+    }
+  },
+  {
+    "columnId": 308,
+    "info": {
+      "title": "系统性能调优必知必会",
+      "subtitle": "深入底层直击性能问题本质",
+      "unit": "47讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "性能优化",
+          "分布式",
+          "高并发",
+          "集群性能",
+          "性能调优",
+          "本质",
+          "底层",
+          "协议编解码",
+          "CPU缓存",
+          "内存池",
+          "TCP优化"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n以性能为核心的后端技能图谱；\n系统化性能调优策略；\n分布式系统调优最佳路径；\n一线大厂性能面试题解析。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>以性能为核心的后端技能图谱；</li>\n<li>系统化性能调优策略；</li>\n<li>分布式系统调优最佳路径；</li>\n<li>一线大厂性能面试题解析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/33/27/336c9301f11b8a1d1818185153f97427.jpg"
+    }
+  },
+  {
+    "columnId": 309,
+    "info": {
+      "title": "罗剑锋的C++实战笔记",
+      "subtitle": "20年老兵心法，让C++不再难学",
+      "unit": "32讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "后端",
+          "C++",
+          "架构",
+          "C++11/14",
+          "标准库"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nC++11/14 核心特性的代码实战；\n标准库的 4 大核心工具详解；\nC++ 常见陷阱及其解决方案；\n手把手带你开发一个服务端应用。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>C++11/14 核心特性的代码实战；</li>\n<li>标准库的 4 大核心工具详解；</li>\n<li>C++ 常见陷阱及其解决方案；</li>\n<li>手把手带你开发一个服务端应用。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1f/98/1f9de23ff1146623a643428cf9cba098.jpg"
+    }
+  },
+  {
+    "columnId": 310,
+    "info": {
+      "title": "互联网人的英语私教课",
+      "subtitle": "让你快速提升英语阅读能力",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "英文",
+          "软技能",
+          "学习",
+          "语法",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "\n一学即会的场景化单词记忆法；\n250 + 纯正地道的英语表达；\n50+ 精选原版阅读材料推荐；\n无障碍阅读英语文章。\n\n",
+        "desc_html": "<ul>\n<li>一学即会的场景化单词记忆法；</li>\n<li>250 + 纯正地道的英语表达；</li>\n<li>50+ 精选原版阅读材料推荐；</li>\n<li>无障碍阅读英语文章。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4d/27/4d7d79b2c1cbd79d5b3c761c44563027.jpg"
+    }
+  },
+  {
+    "columnId": 311,
+    "info": {
+      "title": "职场求生攻略",
+      "subtitle": "会工作也是个技术活儿",
+      "unit": "34讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "软技能",
+          "职场",
+          "技术",
+          "面试"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n14 年技术老兵职场心得；\n避开职场中常见的坑；\n职场通用的高效工作法；\n切实可用的职业规划指南。\n\n",
+        "desc_html": "<p>你将获得：</p>\n<ul>\n<li>14 年技术老兵职场心得；</li>\n<li>避开职场中常见的坑；</li>\n<li>职场通用的高效工作法；</li>\n<li>切实可用的职业规划指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/50/48/505bb35233f51e8f4a289e23075b6648.jpg"
+    }
+  },
+  {
+    "columnId": 312,
+    "info": {
+      "title": "微信小程序全栈开发实战",
+      "subtitle": "手把手带你实现一款电商小程序",
+      "unit": "179讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n2020 小程序最新功能全解析；\n常用组件与接口的最佳实践；\n打通前后端、云开发全栈技能；\n学会用技术手段实现流量变现。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>2020 小程序最新功能全解析；</li>\n<li>常用组件与接口的最佳实践；</li>\n<li>打通前后端、云开发全栈技能；</li>\n<li>学会用技术手段实现流量变现。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7e/de/7ef7b448f65c73dc85ca42c2ba15e7de.jpg"
+    }
+  },
+  {
+    "columnId": 313,
+    "info": {
+      "title": "软件设计之美",
+      "subtitle": "多一点设计，少一点问题",
+      "unit": "39讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "软件设计",
+          "设计模式",
+          "架构设计",
+          "DDD",
+          "设计原则"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n3 个步骤，理解优秀软件的设计；\n典型的软件设计思维误区及解析；\n设计软件必备的 4 大知识模块；\n30+ 案例，深入剖析软件设计本质。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>3 个步骤，理解优秀软件的设计；</li>\n<li>典型的软件设计思维误区及解析；</li>\n<li>设计软件必备的 4 大知识模块；</li>\n<li>30+ 案例，深入剖析软件设计本质。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/62/31/62edbd37324ea5b7af4da7c15b4d9431.jpg"
+    }
+  },
+  {
+    "columnId": 314,
+    "info": {
+      "title": "编译原理实战课",
+      "subtitle": "带你吃透编译技术核心概念与算法",
+      "unit": "55讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "编译",
+          "编译原理",
+          "编译技术",
+          "编译器",
+          "Java",
+          "Java JIT",
+          "Python",
+          "JavaScript",
+          "MySQL",
+          "Go"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n编译原理的核心基础知识；\n7 大主流语言的编译器源码解读；\n真实编译器的实现机制与关键算法；\n从编程语言设计层面理解编译原理。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>编译原理的核心基础知识；</li>\n<li>7 大主流语言的编译器源码解读；</li>\n<li>真实编译器的实现机制与关键算法；</li>\n<li>从编程语言设计层面理解编译原理。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/72/ae/7267850301b3b081d600e4436d0d9eae.jpg"
+    }
+  },
+  {
+    "columnId": 315,
+    "info": {
+      "title": "TensorFlow 2项目进阶实战",
+      "subtitle": "手把手带你打通AI项目落地全流程",
+      "unit": "56讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得\n\nTensorFlow 2 核心思想和实战技能\nAI 项目的设计思路和关键原则\n完整落地一个 AI 新零售项目\n落地 AI 项目的踩坑与填坑经验\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>TensorFlow 2 核心思想和实战技能</li>\n<li>AI 项目的设计思路和关键原则</li>\n<li>完整落地一个 AI 新零售项目</li>\n<li>落地 AI 项目的踩坑与填坑经验</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b2/58/b2d26e71969b22d100e750b1977a2658.jpg"
+    }
+  },
+  {
+    "columnId": 316,
+    "info": {
+      "title": "正则表达式入门课",
+      "subtitle": "教你轻松学习正则",
+      "unit": "17讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "正则",
+          "正则表达式",
+          "元字符",
+          "匹配模式",
+          "Python",
+          "效率",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n正则表达式的系统学习路径；\n\n\n事半功倍的分类记忆法；\n\n\n常见正则问题及解决方案；\n\n\n多场景案例实操正则应用。\n\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>\n<p>正则表达式的系统学习路径；</p>\n</li>\n<li>\n<p>事半功倍的分类记忆法；</p>\n</li>\n<li>\n<p>常见正则问题及解决方案；</p>\n</li>\n<li>\n<p>多场景案例实操正则应用。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/af/3b/af068e3af5a2723dc2036bf4deac2f3b.jpg"
+    }
+  },
+  {
+    "columnId": 319,
+    "info": {
+      "title": "分布式系统案例课",
+      "subtitle": "全面提升分布式系统设计能力",
+      "unit": "66讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n一线大厂分布式系统设计方法论；\n分布式核心技术详解；\n系统架构师面试技巧；\n百万年薪架构师成长路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>一线大厂分布式系统设计方法论；</li>\n<li>分布式核心技术详解；</li>\n<li>系统架构师面试技巧；</li>\n<li>百万年薪架构师成长路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/cd/36/cd662f7a89d61c5dbd7d9eaf24fa9736.jpg"
+    }
+  },
+  {
+    "columnId": 320,
+    "info": {
+      "title": "跟月影学可视化",
+      "subtitle": "系统掌握图形学与可视化核心原理",
+      "unit": "54讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "月影",
+          "可视化",
+          "图形学",
+          "数据处理",
+          "3D",
+          "2D",
+          "可视化大屏",
+          "可视化工具集",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n从 0 到 1 构建可视化技术体系；\n\n\n掌握 4 大绘图系统底层实现原理；\n\n\n开发适合自己的可视化工具集；\n\n\n案例 + 代码，实现 3D 可视化大屏。\n\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>\n<p>从 0 到 1 构建可视化技术体系；</p>\n</li>\n<li>\n<p>掌握 4 大绘图系统底层实现原理；</p>\n</li>\n<li>\n<p>开发适合自己的可视化工具集；</p>\n</li>\n<li>\n<p>案例 + 代码，实现 3D 可视化大屏。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/6c/74/6cb26f649c4f0364df5a27e7a435b574.jpg"
+    }
+  },
+  {
+    "columnId": 321,
+    "info": {
+      "title": "OAuth 2.0实战课",
+      "subtitle": "一站攻克开放授权重难点",
+      "unit": "17讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "开放授权",
+          "授权",
+          "OAuth",
+          "OAuth 2.0",
+          "授权码",
+          "OpenID Connect",
+          "单点登录",
+          "联合登录",
+          "JWT"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n4 大授权许可类型原理详解；\n\n\n安全快速接入 OAuth 2.0 的方法；\n\n\n实现一个 OIDC 用户身份认证协议；\n\n\n基于 OAuth 2.0/JWT 的微服务架构参考。\n\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>\n<p>4 大授权许可类型原理详解；</p>\n</li>\n<li>\n<p>安全快速接入 OAuth 2.0 的方法；</p>\n</li>\n<li>\n<p>实现一个 OIDC 用户身份认证协议；</p>\n</li>\n<li>\n<p>基于 OAuth 2.0/JWT 的微服务架构参考。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/11/93/113e738f7aa99e03dc95f4556c2f5c93.jpg"
+    }
+  },
+  {
+    "columnId": 322,
+    "info": {
+      "title": "Web安全攻防实战",
+      "subtitle": "全面掌握Web安全漏洞原理与攻防技能",
+      "unit": "106讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "渗透测试",
+          "安全",
+          "网络安全",
+          "Web安全",
+          "黑客攻防",
+          "白帽子",
+          "XSS",
+          "DDoS",
+          "注入"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n常见渗透测试工具使用方法；\nSQL注入、XSS、CSRF漏洞演练；\n前后端框架、容器安全攻防技巧；\n互联网公司安全运营策略规范。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>常见渗透测试工具使用方法；</li>\n<li>SQL注入、XSS、CSRF漏洞演练；</li>\n<li>前后端框架、容器安全攻防技巧；</li>\n<li>互联网公司安全运营策略规范。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/42/38/422a08275225e3987b37a05d36754438.jpg"
+    }
+  },
+  {
+    "columnId": 323,
+    "info": {
+      "title": "Selenium自动化测试实战",
+      "subtitle": "项目驱动，深入理解Selenium原理与实战技巧",
+      "unit": "69讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入Selenium源码、原理、封装、技巧；\nunittest、pytest、DDT、POM迭代测试方法；\n大型项目分布式测试解决方案；\nJenkins持续集成和交付。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入Selenium源码、原理、封装、技巧；</li>\n<li>unittest、pytest、DDT、POM迭代测试方法；</li>\n<li>大型项目分布式测试解决方案；</li>\n<li>Jenkins持续集成和交付。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/96/e3/96e94cae41fc74978f4c74ea28ff4de3.jpg"
+    }
+  },
+  {
+    "columnId": 324,
+    "info": {
+      "title": "Vim 实用技巧必知必会",
+      "subtitle": "让编程效率神器为我所用",
+      "unit": "25讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Vim",
+          "Linux",
+          "编辑器",
+          "编辑",
+          "文本编辑",
+          "效率",
+          "vi",
+          "编程"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n即学即用的 Vim 高频命令；\n\n\n定制自己专属的 Vim 环境；\n\n\n利用 Vim 脚本和插件实现常用功能；\n\n\nVim 高阶用法和技巧。\n\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>\n<p>即学即用的 Vim 高频命令；</p>\n</li>\n<li>\n<p>定制自己专属的 Vim 环境；</p>\n</li>\n<li>\n<p>利用 Vim 脚本和插件实现常用功能；</p>\n</li>\n<li>\n<p>Vim 高阶用法和技巧。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/31/22/31eb4b3bea9394b46ae5ede69822f722.jpg"
+    }
+  },
+  {
+    "columnId": 326,
+    "info": {
+      "title": "如何看懂一幅画",
+      "subtitle": "从油画开始，提升审美能力",
+      "unit": "24讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "油画",
+          "艺术",
+          "审美",
+          "梵高",
+          "毕加索",
+          "莫奈",
+          "抽象画"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n9 大维度油画鉴赏框架；\n\n\n60+ 世界名画解读；\n\n\n审美与艺术感知力的有效提升；\n\n\n认知世界的全新视角。\n\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>\n<p>9 大维度油画鉴赏框架；</p>\n</li>\n<li>\n<p>60+ 世界名画解读；</p>\n</li>\n<li>\n<p>审美与艺术感知力的有效提升；</p>\n</li>\n<li>\n<p>认知世界的全新视角。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/76/c8/76779cc3ea82998c9e8f34e05dd6a4c8.jpg"
+    }
+  },
+  {
+    "columnId": 327,
+    "info": {
+      "title": "重学线性代数",
+      "subtitle": "掌握工程应用中的线代知识",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "数学",
+          "线性代数",
+          "线代",
+          "人工智能",
+          "机器学习",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\n完整实用的线性代数知识框架\n\n\n通俗易懂的线性代数讲解方式\n\n\n9 个机器学习线代核心点详解\n\n\n线代在 3 大领域的实际应用\n\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>\n<p>完整实用的线性代数知识框架</p>\n</li>\n<li>\n<p>通俗易懂的线性代数讲解方式</p>\n</li>\n<li>\n<p>9 个机器学习线代核心点详解</p>\n</li>\n<li>\n<p>线代在 3 大领域的实际应用</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/a8/aa/a845db49d6524fc3400f2e76c8818caa.png"
+    }
+  },
+  {
+    "columnId": 328,
+    "info": {
+      "title": "Pandas数据分析实战",
+      "subtitle": "3小时掌握数据分析核心技能",
+      "unit": "33讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Pandas",
+          "数据分析",
+          "Python"
+        ]
+      },
+      "path": {
+        "desc": "你将获得了解Pandas的基本数据结构掌握评估、分析、整理、重塑数据的方法熟练用Matplotlib和Seaborn进行绘图学会组合数据集并处理缺失的数据",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>了解Pandas的基本数据结构</li>\n<li>掌握评估、分析、整理、重塑数据的方法</li>\n<li>熟练用Matplotlib和Seaborn进行绘图</li>\n<li>学会组合数据集并处理缺失的数据</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4c/e9/4c4de0b27b89cfd063d79c61fe6a99e9.jpg"
+    }
+  },
+  {
+    "columnId": 329,
+    "info": {
+      "title": "Redis核心技术与实战",
+      "subtitle": "从原理到实战，彻底吃透 Redis",
+      "unit": "53讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Redis",
+          "缓存",
+          "集群",
+          "分布式数据库",
+          "键值数据库"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统完善的 Redis 全景知识体系；\n经典 Redis 场景+案例实战贯穿解析；\nRedis 的复制原理、常见问题和故障处理方案；\n解锁大厂必问的 Redis 面试问题。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统完善的 Redis 全景知识体系；</li>\n<li>经典 Redis 场景+案例实战贯穿解析；</li>\n<li>Redis 的复制原理、常见问题和故障处理方案；</li>\n<li>解锁大厂必问的 Redis 面试问题。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/13/7e/13946f7543f9eea58c9bd2b877826b7e.jpg"
+    }
+  },
+  {
+    "columnId": 331,
+    "info": {
+      "title": "分布式数据库30讲",
+      "subtitle": "从功能特性到运行机制，讲透本质",
+      "unit": "34讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "分布式数据库",
+          "数据库",
+          "分布式",
+          "后端",
+          "架构",
+          "分布式系统",
+          "分布式存储",
+          "后端存储",
+          "后端开发",
+          "DDB"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n分布式数据库技术内核深度剖析；\nNewSQL 和 PostgreSQL-XC 架构详解 ；\n分布式数据库强一致性的实现方式；\n海量数据和超高并发的应对方案。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>分布式数据库技术内核深度剖析；</li>\n<li>NewSQL 和 PostgreSQL-XC 架构详解 ；</li>\n<li>分布式数据库强一致性的实现方式；</li>\n<li>海量数据和超高并发的应对方案。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/2f/53/2f2face33863c5c4f5708e1bffd8d953.jpg"
+    }
+  },
+  {
+    "columnId": 335,
+    "info": {
+      "title": "To B市场品牌实战课",
+      "subtitle": "用产品故事引爆市场",
+      "unit": "22讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "市场",
+          "营销",
+          "市场营销",
+          "产品",
+          "增长",
+          "阿里",
+          "2B",
+          "toB",
+          "2C",
+          "品牌",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n新产品如何低成本变成To B市场爆款；\n如何打造一个口口相传的经典客户案例；\nTo B内容生产困难，其实是有方法论的；\n线上内容转型，经典案例让你成为带货高手。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ol>\n<li>新产品如何低成本变成To B市场爆款；</li>\n<li>如何打造一个口口相传的经典客户案例；</li>\n<li>To B内容生产困难，其实是有方法论的；</li>\n<li>线上内容转型，经典案例让你成为带货高手。</li>\n</ol>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/60/4b/60806a16c593674e9d82046cb43d304b.jpg"
+    }
+  },
+  {
+    "columnId": 337,
+    "info": {
+      "title": "Linux内核技术实战课",
+      "subtitle": "从内核层面攻克应用程序难题",
+      "unit": "26讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Linux",
+          "Linux内核",
+          "Page Cache",
+          "内存管理",
+          "内存泄漏",
+          "TCP重传",
+          "CPU 利用率"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n掌握 Linux 底层基础知识；\n疑难问题的排查定位方法；\n类稳定性问题案例分析；\nLinux 内核专家的应用实战经验。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ol>\n<li>掌握 Linux 底层基础知识；</li>\n<li>疑难问题的排查定位方法；</li>\n<li>类稳定性问题案例分析；</li>\n<li>Linux 内核专家的应用实战经验。</li>\n</ol>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/75/46/75f29596ebb715a663751f664ddcba46.jpg"
+    }
+  },
+  {
+    "columnId": 338,
+    "info": {
+      "title": "技术管理案例课",
+      "subtitle": "踩坑复盘+案例分析+精进攻略=高效管理",
+      "unit": "28讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "管理",
+          "技术管理",
+          "案例",
+          "实战",
+          "职场",
+          "效率",
+          "团队效率",
+          "软实力",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n完整的经理人成长路线；\n合格经理人应具备的 4 个特质；\n提高组织效率的 3 个方法；\n管理中常见的 6 个误区。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>完整的经理人成长路线；</li>\n<li>合格经理人应具备的 4 个特质；</li>\n<li>提高组织效率的 3 个方法；</li>\n<li>管理中常见的 6 个误区。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4e/46/4e68ffb11581f666e622d792b27e8346.jpg"
+    }
+  },
+  {
+    "columnId": 339,
+    "info": {
+      "title": "Flink核心技术与实战",
+      "subtitle": "系统掌握流数据处理必杀技",
+      "unit": "91讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n熟练掌握Flink SQL接口的原理与操作方法；\n深入理解Flink DataStream API的实践原理；\n全面剖析Flink Runtime的设计与实现机制；\n完整构建一个实时推荐数据流系统。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>熟练掌握Flink SQL接口的原理与操作方法；</li>\n<li>深入理解Flink DataStream API的实践原理；</li>\n<li>全面剖析Flink Runtime的设计与实现机制；</li>\n<li>完整构建一个实时推荐数据流系统。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b4/09/b4d5f5b4c1280352747f62b304253b09.jpg"
+    }
+  },
+  {
+    "columnId": 341,
+    "info": {
+      "title": "用户体验设计实战课",
+      "subtitle": "人人可用的体验创新思维",
+      "unit": "35讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "用户体验设计",
+          "用户体验",
+          "体验设计",
+          "商业",
+          "品牌",
+          "运营",
+          "产品",
+          "技术",
+          "设计师",
+          "产品体验",
+          "场景服务"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n重构你的用户认知；\n揭秘大厂用户体验设计策略；\n从实战出发，精通产品体验设计；\n15年商业顾问的用户体验设计心法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>重构你的用户认知；</li>\n<li>揭秘大厂用户体验设计策略；</li>\n<li>从实战出发，精通产品体验设计；</li>\n<li>15年商业顾问的用户体验设计心法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ff/46/ffe13cd9f80445a062e17bd076350146.jpg"
+    }
+  },
+  {
+    "columnId": 344,
+    "info": {
+      "title": "WebAssembly入门课",
+      "subtitle": "从0到1实现一个WebAssembly多媒体应用",
+      "unit": "23讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "WebAssembly",
+          "前端",
+          "C++",
+          "web",
+          "wasm",
+          "rust",
+          "编程语言",
+          "浏览器"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n\nWebAssembly 完整知识体系；\n\n\nWebAssembly 核心原理解析；\n\n\nWebAssembly 实用案例解读；\n\n\nWebAssembly 开发实战技巧。\n\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>\n<p>WebAssembly 完整知识体系；</p>\n</li>\n<li>\n<p>WebAssembly 核心原理解析；</p>\n</li>\n<li>\n<p>WebAssembly 实用案例解读；</p>\n</li>\n<li>\n<p>WebAssembly 开发实战技巧。</p>\n</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1d/27/1dfeb8322ca389188142996d73671c27.jpg"
+    }
+  },
+  {
+    "columnId": 348,
+    "info": {
+      "title": "张汉东的Rust实战课",
+      "subtitle": "带你完整构建一个异步Web框架",
+      "unit": "174讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统梳理Rust核心知识点；\n吃透Rust异步编程理论基础；\n掌握异步框架开发工程实践要点。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统梳理Rust核心知识点；</li>\n<li>吃透Rust异步编程理论基础；</li>\n<li>掌握异步框架开发工程实践要点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7f/21/7f16b1ae492d037698c6610124886821.jpg"
+    }
+  },
+  {
+    "columnId": 349,
+    "info": {
+      "title": "深度学习推荐系统实战",
+      "subtitle": "带你从0到1搭建工业级推荐系统",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "王喆",
+          "深度学习",
+          "推荐系统",
+          "实战"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深度学习推荐系统的经典技术架构；\nSpark、TensorFlow、Flink 等主流工具的实践经验；\nEmbedding 和多种深度推荐模型的原理和实现；\n亲手搭建一个完整的深度学习推荐系统。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>深度学习推荐系统的经典技术架构；</li>\n<li>Spark、TensorFlow、Flink 等主流工具的实践经验；</li>\n<li>Embedding 和多种深度推荐模型的原理和实现；</li>\n<li>亲手搭建一个完整的深度学习推荐系统。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/2c/80/2ccb5bfd6bc5135b664a0e8b07559d80.png"
+    }
+  },
+  {
+    "columnId": 350,
+    "info": {
+      "title": "爱上跑步",
+      "subtitle": "明星教练带你科学跑步",
+      "unit": "13讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "跑步",
+          "马拉松",
+          "长跑",
+          "跑步膝",
+          "跑",
+          "间歇跑",
+          "慢跑",
+          "减肥",
+          "燃脂"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n明星私教的独家跑步经验；\n科学无伤的跑步训练方法；\n跑步装备加饮食全解析；\n如何制定适合自己的跑步计划。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>明星私教的独家跑步经验；</li>\n<li>科学无伤的跑步训练方法；</li>\n<li>跑步装备加饮食全解析；</li>\n<li>如何制定适合自己的跑步计划。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/67/49/67ef610c8e5c32e9a8b22f390c19d449.jpg"
+    }
+  },
+  {
+    "columnId": 354,
+    "info": {
+      "title": "Django快速开发实战",
+      "subtitle": "从开发到部署，掌握项目开发全流程",
+      "unit": "76讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "Python",
+          "Django",
+          "敏捷开发",
+          "实战",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n两天内交付 Django 项目的开发策略\nDjango 应用部署及安全防护方法\n云环境下的容器编排与 CI/CD 流程\n项目设计中常见问题的架构处理思路\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>两天内交付 Django 项目的开发策略</li>\n<li>Django 应用部署及安全防护方法</li>\n<li>云环境下的容器编排与 CI/CD 流程</li>\n<li>项目设计中常见问题的架构处理思路</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7f/ff/7fe913c97cf10d310yy36febd3ae22ff.jpg"
+    }
+  },
+  {
+    "columnId": 355,
+    "info": {
+      "title": "Go 并发编程实战课",
+      "subtitle": "鸟窝带你攻克Go并发编程难题",
+      "unit": "22讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Go",
+          "并发编程",
+          "分布式",
+          "同步原语",
+          "鸟窝"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一个丰富完整的并发原语知识库；\n彻底搞懂并发原语的实现原理及使用技巧；\n20+大型项目的真实踩坑案例及解决方案；\n分布式场景中并发问题的应对策略。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>一个丰富完整的并发原语知识库；</li>\n<li>彻底搞懂并发原语的实现原理及使用技巧；</li>\n<li>20+大型项目的真实踩坑案例及解决方案；</li>\n<li>分布式场景中并发问题的应对策略。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7a/de/7af6e5216dd0cc449878b3949a3e81de.jpg"
+    }
+  },
+  {
+    "columnId": 356,
+    "info": {
+      "title": "人人都用得上的写作课",
+      "subtitle": "让文字表达成为你的加分项",
+      "unit": "21讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "写作",
+          "注意力",
+          "阅读",
+          "演讲稿",
+          "软文",
+          "公众号",
+          "热点文章"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n碎片化时代的注意力写作法\n8 大必备写作方法精讲\n60+ 对比式写作案例分析\n4 大常用的写作场景训练\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>碎片化时代的注意力写作法</li>\n<li>8 大必备写作方法精讲</li>\n<li>60+ 对比式写作案例分析</li>\n<li>4 大常用的写作场景训练</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/44/20/44183b1250af0c8189fdffce803cbd20.jpg"
+    }
+  },
+  {
+    "columnId": 357,
+    "info": {
+      "title": "手机摄影",
+      "subtitle": "从记录生活到创造故事",
+      "unit": "16讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "摄影",
+          "手机",
+          "拍照",
+          "拍摄",
+          "女朋友"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n手机摄影的 8 种构图技巧；\n如何利用不同光线进行拍摄；\n后期修图工具运用及调色方法；\n建筑、食物及人像摄影详解。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>手机摄影的 8 种构图技巧；</li>\n<li>如何利用不同光线进行拍摄；</li>\n<li>后期修图工具运用及调色方法；</li>\n<li>建筑、食物及人像摄影详解。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/9d/84/9d8227ff5be84885364254ff5a64a584.jpg"
+    }
+  },
+  {
+    "columnId": 360,
+    "info": {
+      "title": "乔新亮的CTO成长复盘",
+      "subtitle": "千万年薪CTO是如何炼成的",
+      "unit": "29讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "管理",
+          "架构",
+          "CTO",
+          "技术总监",
+          "求职",
+          "成长",
+          "年薪",
+          "团队"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一场与 CTO 同频率的认知升级\n技术人成长的“弯路”标注与避坑指南\n一把手的团队建设经验和思考模式\n从程序员到 CTO 的 25 个关键节点\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>一场与 CTO 同频率的认知升级</li>\n<li>技术人成长的“弯路”标注与避坑指南</li>\n<li>一把手的团队建设经验和思考模式</li>\n<li>从程序员到 CTO 的 25 个关键节点</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/40/d7/40e62194844d1dcaca1793388b7f47d7.jpg"
+    }
+  },
+  {
+    "columnId": 364,
+    "info": {
+      "title": "物联网开发实战",
+      "subtitle": "从0开始实现一个智能家居项目",
+      "unit": "36讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "物联网",
+          "IoT",
+          "智能",
+          "智能家居",
+          "智能设备",
+          "5G"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n完整的物联网知识体系搭建；\n物联网关键技术深度剖析；\n手把手带你设计一个智能家居系统；\n物联网应用领域案例解读。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>完整的物联网知识体系搭建；</li>\n<li>物联网关键技术深度剖析；</li>\n<li>手把手带你设计一个智能家居系统；</li>\n<li>物联网应用领域案例解读。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/b5/a6/b5c8a58f54a4698f8f9a155767b456a6.jpg"
+    }
+  },
+  {
+    "columnId": 365,
+    "info": {
+      "title": "容器实战高手课",
+      "subtitle": "在实战中深入理解容器技术的本质",
+      "unit": "31讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "容器",
+          "实战",
+          "Linux",
+          "Docker",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n容器技术的底层实现与核心原理；\n20个常见容器技术问题解决办法；\n系统全面的容器知识体系；\n常见的Linux内核调试工具使用场景。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>容器技术的底层实现与核心原理；</li>\n<li>20个常见容器技术问题解决办法；</li>\n<li>系统全面的容器知识体系；</li>\n<li>常见的Linux内核调试工具使用场景。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/3f/d4/3fbec44cf088ac0af44f83484ac6a3d4.jpg"
+    }
+  },
+  {
+    "columnId": 366,
+    "info": {
+      "title": "大厂晋升指南",
+      "subtitle": "前阿里P9技术专家的升职心法",
+      "unit": "45讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "职场",
+          "晋升",
+          "大厂",
+          "互联网",
+          "晋级",
+          "升职",
+          "成长",
+          "面试",
+          "答辩"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n从 P5 到 P9 的升职秘籍；\n实用的职场晋升技巧；\n19 个高效工作和学习方法；\n完整的职场晋升路线。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>从 P5 到 P9 的升职秘籍；</li>\n<li>实用的职场晋升技巧；</li>\n<li>19 个高效工作和学习方法；</li>\n<li>完整的职场晋升路线。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/67/27/67a9db302bacdf4a206afce4e587b427.jpg"
+    }
+  },
+  {
+    "columnId": 369,
+    "info": {
+      "title": "实用密码学",
+      "subtitle": "从0开始，快速掌握密码学技术",
+      "unit": "24讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "密码学",
+          "哈希函数",
+          "哈希",
+          "单向散列函数",
+          "加密算法",
+          "对称密钥"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深度解析加密核心技术；\n组合多种密码技术的应用方法；\n10+企业级密码学应用场景分析；\n一线大厂密码技术实操经验。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>深度解析加密核心技术；</li>\n<li>组合多种密码技术的应用方法；</li>\n<li>10+企业级密码学应用场景分析；</li>\n<li>一线大厂密码技术实操经验。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/3f/83/3fcb84cde8ed8d500146ce298be3c283.png"
+    }
+  },
+  {
+    "columnId": 376,
+    "info": {
+      "title": "A/B测试从0到1",
+      "subtitle": "从原理到实战，吃透A/B测试",
+      "unit": "20讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "张博伟",
+          "A/B测试",
+          "数据科学家",
+          "从0到1",
+          "A/B测试从0到1",
+          "数据分析",
+          "业务增长",
+          "统计原理",
+          "假设检验",
+          "确定目标和假设",
+          "多重检验",
+          "样本计算器",
+          "产品"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n互联网人必懂的A/B测试方法论；\n手把手带你构建A/B测试流程体系；\nA/B测试常见使用场景及误区；\nA/B测试面试真题详解。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>互联网人必懂的A/B测试方法论；</li>\n<li>手把手带你构建A/B测试流程体系；</li>\n<li>A/B测试常见使用场景及误区；</li>\n<li>A/B测试面试真题详解。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/76/98/76edf45889f7630f030d412a14a89f98.png"
+    }
+  },
+  {
+    "columnId": 378,
+    "info": {
+      "title": "小马哥讲Spring AOP编程思想",
+      "subtitle": "深入掌握Spring AOP的核心用法",
+      "unit": "114讲",
+      "type": "c3",
+      "seo": {
+        "keywords": []
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解底层API的设计思路与实现；\nGoF 23设计模式及AOP的运用详解；\n掌握AOP组件在Spring内部的运用方法；\n经典高频Spring AOP面试题详解。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入理解底层API的设计思路与实现；</li>\n<li>GoF 23设计模式及AOP的运用详解；</li>\n<li>掌握AOP组件在Spring内部的运用方法；</li>\n<li>经典高频Spring AOP面试题详解。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d2/41/d2beaca71967ca3e20271281f28b4441.png"
+    }
+  },
+  {
+    "columnId": 379,
+    "info": {
+      "title": "成为AI产品经理",
+      "subtitle": "从 0 构建 AI 产品经理的知识体系",
+      "unit": "38讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "产品经理",
+          "AI",
+          "刘海丰",
+          "京东",
+          "人工智能"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n产品经理主导 AI 项目的三大核心能力；\n8 大 AI 产品经理必知必会的算法解析；\n3 类细分领域 AI 项目实战；\n互联网产品经理的转型路径+避坑指南。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>产品经理主导 AI 项目的三大核心能力；</li>\n<li>8 大 AI 产品经理必知必会的算法解析；</li>\n<li>3 类细分领域 AI 项目实战；</li>\n<li>互联网产品经理的转型路径+避坑指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/03/a8/03259139f39a074018d4f11822c5caa8.jpg"
+    }
+  },
+  {
+    "columnId": 380,
+    "info": {
+      "title": "分布式金融架构课",
+      "subtitle": "一站式解决金融系统架构核心问题",
+      "unit": "30讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "架构",
+          "系统架构",
+          "金融架构",
+          "分布式",
+          "后端"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入理解金融架构需求与底层逻辑；\n掌握金融架构设计思路与核心技巧；\n实现金融系统正确性的方式；\n分布式系统案例分析与容灾详解。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>深入理解金融架构需求与底层逻辑；</li>\n<li>掌握金融架构设计思路与核心技巧；</li>\n<li>实现金融系统正确性的方式；</li>\n<li>分布式系统案例分析与容灾详解。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/a7/06/a73290c1cf6946b09f932e1d5c08a906.png"
+    }
+  },
+  {
+    "columnId": 382,
+    "info": {
+      "title": "代码之丑",
+      "subtitle": "识别坏味道，重构问题代码",
+      "unit": "22讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "坏味道",
+          "重构",
+          "代码整洁",
+          "可维护",
+          "代码坏味道"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一套实用的代码坏味道自查清单；\n25+真实代码段反面案例；\n解决坏味道代码的 20+ 重构手法；\n整洁代码的设计原则。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>一套实用的代码坏味道自查清单；</li>\n<li>25+真实代码段反面案例；</li>\n<li>解决坏味道代码的 20+ 重构手法；</li>\n<li>整洁代码的设计原则。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1f/y3/1f5f797e75bce5a20af74904cyy7eyy3.jpg"
+    }
+  },
+  {
+    "columnId": 385,
+    "info": {
+      "title": "体验设计案例课",
+      "subtitle": "用量化方式，重新定义体验设计",
+      "unit": "32讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "用户体验设计",
+          "体验设计",
+          "设计",
+          "产品经理",
+          "设计师",
+          "交互设计师",
+          "UX",
+          "UI",
+          "体验"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n行业里第一套系统的体验设计量化体系；\n体验设计中8个关键步骤的高手思路；\n30+用户体验设计的案例分析；\n用户体验设计的避坑指南。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>行业里第一套系统的体验设计量化体系；</li>\n<li>体验设计中8个关键步骤的高手思路；</li>\n<li>30+用户体验设计的案例分析；</li>\n<li>用户体验设计的避坑指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/82/df/82428d0b3c884649fa16b7f4a75d63df.jpeg"
+    }
+  },
+  {
+    "columnId": 389,
+    "info": {
+      "title": "手把手教你玩音乐",
+      "subtitle": "邓柯带你玩转库乐队",
+      "unit": "22讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "音乐",
+          "审美",
+          "库乐队",
+          "教育"
+        ]
+      },
+      "path": {
+        "desc": "你将获得:\n\n制作各种风格的音乐片段；\n解锁库乐队的功能和玩法；\n打通编曲、制作的底层思维；\n从0开始，创作一首完整的歌曲。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>:</p>\n<ul>\n<li>制作各种风格的音乐片段；</li>\n<li>解锁库乐队的功能和玩法；</li>\n<li>打通编曲、制作的底层思维；</li>\n<li>从0开始，创作一首完整的歌曲。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0f/e1/0f0e0cacdee4088146c02d726de10ce1.jpg"
+    }
+  },
+  {
+    "columnId": 391,
+    "info": {
+      "title": "etcd实战课",
+      "subtitle": "etcd 核心原理到大规模实践",
+      "unit": "28讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "分布式",
+          "分布式存储",
+          "服务发现",
+          "运维",
+          "Kubernetes",
+          "实战",
+          "etcd"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\netcd 系统学习路径；\netcd 核心原理解析；\n掌握实践中各类 etcd 问题的解决方案；\n构建高可靠的 etcd 集群运维体系。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>etcd 系统学习路径；</li>\n<li>etcd 核心原理解析；</li>\n<li>掌握实践中各类 etcd 问题的解决方案；</li>\n<li>构建高可靠的 etcd 集群运维体系。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/26/a2/26acb9e8e3c4bab313da8c32487940a2.png"
+    }
+  },
+  {
+    "columnId": 392,
+    "info": {
+      "title": "恋爱必修课",
+      "subtitle": "解决你的恋爱难题",
+      "unit": "18讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "爱情",
+          "恋爱",
+          "武侠",
+          "情感",
+          "相亲",
+          "分手",
+          "情侣",
+          "对象",
+          "浪漫",
+          "仪式感",
+          "渣男"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n20+经典恋爱案例剖析；\n一份高级防渣手册；\n实操性强的恋爱方法论；\n开启和维护亲密关系的有效方式。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>20+经典恋爱案例剖析；</li>\n<li>一份高级防渣手册；</li>\n<li>实操性强的恋爱方法论；</li>\n<li>开启和维护亲密关系的有效方式。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/29/e6/29e66e55619ded8d90894cc8f23e5de6.jpg"
+    }
+  },
+  {
+    "columnId": 393,
+    "info": {
+      "title": "跟着高手学复盘",
+      "subtitle": "可以落地的复盘方法论",
+      "unit": "24讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "复盘",
+          "总结",
+          "管理",
+          "团队",
+          "项目",
+          "成长",
+          "晋升"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n拿来即用的优秀复盘模型；\n高效复盘会议的组织方法论；\n六大典型场景复盘案例解读；\n复盘效果评估及目标实施方法。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>拿来即用的优秀复盘模型；</li>\n<li>高效复盘会议的组织方法论；</li>\n<li>六大典型场景复盘案例解读；</li>\n<li>复盘效果评估及目标实施方法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ed/c0/ed2dc10fe0e1b8c75230daf535fbeac0.png"
+    }
+  },
+  {
+    "columnId": 394,
+    "info": {
+      "title": "Python自动化办公实战课",
+      "subtitle": "快速上手Python，让重复工作自动化",
+      "unit": "37讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Python",
+          "自动化办公",
+          "Excel",
+          "Word",
+          "PDF"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n30 个自动化办公提效程序；\n8 周，用Python 让重复工作自动化；\n零基础 Python 办公操作手册；\n一套实用的办公效率方法论。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>30 个自动化办公提效程序；</li>\n<li>8 周，用Python 让重复工作自动化；</li>\n<li>零基础 Python 办公操作手册；</li>\n<li>一套实用的办公效率方法论。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/61/18/6172d01c43449626aa04060c888ab218.png"
+    }
+  },
+  {
+    "columnId": 395,
+    "info": {
+      "title": "基于人因的用户体验设计课",
+      "subtitle": "让人无法说No的体验设计奥秘",
+      "unit": "34讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "用户体验设计",
+          "用户体验",
+          "体验设计",
+          "商业",
+          "品牌",
+          "运营",
+          "产品",
+          "技术",
+          "设计师",
+          "产品体验",
+          "场景服务",
+          "人因"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n全套人因设计知识体系搭建方法；\n华为体验设计的秘密武器；\n从人因学到用户体验的系统方法论；\n大厂人因设计案例解读。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>全套人因设计知识体系搭建方法；</li>\n<li>华为体验设计的秘密武器；</li>\n<li>从人因学到用户体验的系统方法论；</li>\n<li>大厂人因设计案例解读。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/85/1a/854b0a6c11a0280fe0e7cc8f34151c1a.jpg"
+    }
+  },
+  {
+    "columnId": 397,
+    "info": {
+      "title": "打造爆款短视频",
+      "subtitle": "从定位到制作，让短视频迅速变现",
+      "unit": "31讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "短视频",
+          "变现",
+          "爆款",
+          "内容",
+          "定位",
+          "运营",
+          "创作",
+          "剪辑",
+          "Vlog",
+          "用户留存",
+          "平台算法",
+          "避坑指南"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n爆款短视频的底层创作逻辑；\n30+ 刷屏级短视频案例解析；\n实用的内容创作与剪辑技巧；\n短视频背后的 4 种变现模式。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>爆款短视频的底层创作逻辑；</li>\n<li>30+ 刷屏级短视频案例解析；</li>\n<li>实用的内容创作与剪辑技巧；</li>\n<li>短视频背后的 4 种变现模式。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d2/6c/d2603b2cb36c079b9717f9882047d56c.png"
+    }
+  },
+  {
+    "columnId": 398,
+    "info": {
+      "title": "MySQL 必知必会",
+      "subtitle": "在真实项目中玩转 MySQL",
+      "unit": "36讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "MySQL",
+          "数据库",
+          "主键",
+          "字段",
+          "信息系统"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n高效系统的MySQL学习路径；\n大型项目的全流程需求实战讲解；\nMySQL常见坑点及规避指南；\n25+ 大厂经典面试题解析。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>高效系统的MySQL学习路径；</li>\n<li>大型项目的全流程需求实战讲解；</li>\n<li>MySQL常见坑点及规避指南；</li>\n<li>25+ 大厂经典面试题解析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/97/d4/979ed0961f683fe50749527e1829a3d4.png"
+    }
+  },
+  {
+    "columnId": 399,
+    "info": {
+      "title": "流程型组织15讲",
+      "subtitle": "人少一半，活照样干",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "流程型组织",
+          "华为",
+          "管理",
+          "变革",
+          "组织",
+          "奋斗者",
+          "减员",
+          "增效",
+          "涨薪",
+          "客户"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n华为的流程型组织变革方法论；\n三大流程变革实战案例；\n可复用的人才管理与组织流程；\n增强组织生命活力的技巧。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>华为的流程型组织变革方法论；</li>\n<li>三大流程变革实战案例；</li>\n<li>可复用的人才管理与组织流程；</li>\n<li>增强组织生命活力的技巧。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/07/bb/073290da1c88f8d49262c2d06ccbb1bb.jpg"
+    }
+  },
+  {
+    "columnId": 400,
+    "info": {
+      "title": "Spark性能调优实战",
+      "subtitle": "一站式加速Spark作业执行性能",
+      "unit": "36讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Spark",
+          "性能",
+          "性能调优",
+          "实战",
+          "SparkSQL",
+          "分布式",
+          "配置项",
+          "应用开发",
+          " Spark 3.0"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入浅出的 Spark 核心原理；\n全面解析 Spark SQL 性能调优；\n应用开发、配置项设置实操指南；\n手把手带你实现一个分布式应用。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>深入浅出的 Spark 核心原理；</li>\n<li>全面解析 Spark SQL 性能调优；</li>\n<li>应用开发、配置项设置实操指南；</li>\n<li>手把手带你实现一个分布式应用。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f9/f7/f9fc3d1cyy855100f0be324122dccef7.png"
+    }
+  },
+  {
+    "columnId": 402,
+    "info": {
+      "title": "高楼的性能工程实战课",
+      "subtitle": "搭建完整项目，真刀真枪实践性能测试",
+      "unit": "35讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "性能测试",
+          "性能工程",
+          "性能优化",
+          "测试",
+          "RESAR",
+          "性能瓶颈",
+          "调优",
+          "异常场景",
+          "容量场景",
+          "稳定性场景",
+          "基准场景"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n基于一个真实项目的性能分析策略；\n打破性能分析四大错误认知；\n深入剖析影响性能结果的五个环节；\n四大性能场景高手设计思路。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>基于一个真实项目的性能分析策略；</li>\n<li>打破性能分析四大错误认知；</li>\n<li>深入剖析影响性能结果的五个环节；</li>\n<li>四大性能场景高手设计思路。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e5/af/e5fe10d538ff25935b90eccd36fe05af.jpg"
+    }
+  },
+  {
+    "columnId": 403,
+    "info": {
+      "title": "技术面试官识人手册",
+      "subtitle": "辨识精英，打造高效能团队",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "大厂",
+          "技术面试",
+          "面试官",
+          "面试",
+          "刷题",
+          "团队管理",
+          "效能"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n高效面试流程把控与操作指南；\n设计技术面试题的 3 大原则；\n资深面试官人才甄选心法；\n深入拆解大厂面试设计原理。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>高效面试流程把控与操作指南；</li>\n<li>设计技术面试题的 3 大原则；</li>\n<li>资深面试官人才甄选心法；</li>\n<li>深入拆解大厂面试设计原理。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d4/45/d4fe57b0cf83a678f380c486c7f79e45.jpg"
+    }
+  },
+  {
+    "columnId": 406,
+    "info": {
+      "title": "说透数字化转型",
+      "subtitle": "从认知到实战，找准数字化转型路径",
+      "unit": "18讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "数字化",
+          "数字化转型",
+          "企业架构",
+          "数字化人才",
+          "业务架构"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统科学的数字化转型战略和路径；\n6 大转型必备的关键技术详解；\n数字化人才的全方位成长指南；\n15+典型案例及方案解析。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>系统科学的数字化转型战略和路径；</li>\n<li>6 大转型必备的关键技术详解；</li>\n<li>数字化人才的全方位成长指南；</li>\n<li>15+典型案例及方案解析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/09/d2/09f59d371f973e643d2729ca225ff0d2.jpg"
+    }
+  },
+  {
+    "columnId": 407,
+    "info": {
+      "title": "爆款文案修炼手册",
+      "subtitle": "月薪3万文案的必备独门技能",
+      "unit": "33讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "爆款文案",
+          "奥美",
+          "标题",
+          "视觉化表达",
+          "模板",
+          "刷屏级文案",
+          "新媒体运营",
+          "文案策划",
+          "品牌/广告"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n30+ 刷屏级经典案例拆解；\n前奥美资深文案大牛 20 年经验分享；\n高传播、高转化的 6 大文案模板；\n打造爆款标题的 5 个路径。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>30+ 刷屏级经典案例拆解；</li>\n<li>前奥美资深文案大牛 20 年经验分享；</li>\n<li>高传播、高转化的 6 大文案模板；</li>\n<li>打造爆款标题的 5 个路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/59/e2/59cfe41c43b3977c5175c8aaaa7c97e2.jpg"
+    }
+  },
+  {
+    "columnId": 408,
+    "info": {
+      "title": "Spring编程常见错误50例",
+      "subtitle": "Spring 开发老兵 10 年避坑心法",
+      "unit": "29讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "spring",
+          "spring编程",
+          "bean",
+          "AOP",
+          "SpringCloud",
+          "SpringWeb",
+          "测试",
+          "事务",
+          "Data"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n拿来即用的 Spring 编程备忘录；\nSpring 核心技术及源码拆解；\nSpring Web 关键处理流程详解；\nSpring 开发 50+ 常见问题解决方案。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>拿来即用的 Spring 编程备忘录；</li>\n<li>Spring 核心技术及源码拆解；</li>\n<li>Spring Web 关键处理流程详解；</li>\n<li>Spring 开发 50+ 常见问题解决方案。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/56/69/56b3694ccdde78cfc5197e9a28087069.jpg"
+    }
+  },
+  {
+    "columnId": 411,
+    "info": {
+      "title": "操作系统实战45讲",
+      "subtitle": "从0到1，实现自己的操作系统",
+      "unit": "59讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "操作系统",
+          "Linux",
+          "计算机基础",
+          "底层",
+          "内核",
+          "后端开发",
+          "iOS",
+          "彭东",
+          "C语言",
+          "OS",
+          "实战"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n洞悉 OS 运行机制与架构实现；\n强化理解 Linux 核心技术；\n系统级别的编程技巧；\n“保姆级”代码注释及详解图。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>洞悉 OS 运行机制与架构实现；</li>\n<li>强化理解 Linux 核心技术；</li>\n<li>系统级别的编程技巧；</li>\n<li>“保姆级”代码注释及详解图。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/29/59/2980226dbc024fe9b2fc6de2ded10559.jpg"
+    }
+  },
+  {
+    "columnId": 412,
+    "info": {
+      "title": "容量保障核心技术与实战",
+      "subtitle": "从单项到全局，学大厂容量保障经验",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "容量",
+          "容量保障",
+          "容量规划",
+          "性能优化",
+          "性能测试",
+          "性能",
+          "性能保障",
+          "稳定性保障"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n技术角度看容量保障体系全景图；\n从单项工作到全局实践的进阶经验；\n行业最前沿的大厂容量保障实践；\n大促场景下容量保障的通用框架。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>技术角度看容量保障体系全景图；</li>\n<li>从单项工作到全局实践的进阶经验；</li>\n<li>行业最前沿的大厂容量保障实践；</li>\n<li>大促场景下容量保障的通用框架。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/a1/53/a191423e81a9c60336bdc49d3e527253.jpg"
+    }
+  },
+  {
+    "columnId": 414,
+    "info": {
+      "title": "性能优化高手课",
+      "subtitle": "一站通关从设计到交付的性能问题",
+      "unit": "31讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "性能",
+          "性能优化",
+          "性能调优",
+          "性能测试",
+          "性能设计",
+          "数据结构与算法",
+          "并行",
+          "缓存",
+          "后端",
+          "尉刚强"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n完整高效的性能调优路径；\n清晰的性能优化瓶颈分析思路；\n15+典型性能实现场景解析；\n一线大厂的性能优化实践经验。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>完整高效的性能调优路径；</li>\n<li>清晰的性能优化瓶颈分析思路；</li>\n<li>15+典型性能实现场景解析；</li>\n<li>一线大厂的性能优化实践经验。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/88/c3/887dbcd2fec15b7e4900eb71cdab09c3.jpg"
+    }
+  },
+  {
+    "columnId": 415,
+    "info": {
+      "title": "说透芯片",
+      "subtitle": "揭秘半导体产业，助力中国芯",
+      "unit": "22讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "芯片",
+          "半导体",
+          "华为",
+          "海思",
+          "中美贸易",
+          "卡脖子",
+          "国产芯片",
+          "断供",
+          "ARM",
+          "Intel"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n3个核心概念揭开芯片行业发展的底层逻辑；\n揭秘行业前十芯片厂商的成功秘诀；\n探究中国芯片行业现状与突破点；\n从就业、投资角度深入理解芯片行业。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>3个核心概念揭开芯片行业发展的底层逻辑；</li>\n<li>揭秘行业前十芯片厂商的成功秘诀；</li>\n<li>探究中国芯片行业现状与突破点；</li>\n<li>从就业、投资角度深入理解芯片行业。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f9/0f/f98236b610ded90cb8a0d8e0e37c330f.png"
+    }
+  },
+  {
+    "columnId": 416,
+    "info": {
+      "title": "React Hooks 核心原理与实战",
+      "subtitle": "业务场景驱动，带你吃透 React Hooks",
+      "unit": "25讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "王沛",
+          "前端",
+          "React Hooks",
+          "函数组件",
+          "面试",
+          "实战",
+          "原理",
+          "开发"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n完整高效的 React Hooks 学习路径；\n用 Hooks 解决实际问题的思考方式；\n典型业务场景的最佳实践；\n一线前端技术专家的经验总结。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>完整高效的 React Hooks 学习路径；</li>\n<li>用 Hooks 解决实际问题的思考方式；</li>\n<li>典型业务场景的最佳实践；</li>\n<li>一线前端技术专家的经验总结。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/5b/a4/5b7eaee452da708c2a382c4df54df7a4.jpg"
+    }
+  },
+  {
+    "columnId": 418,
+    "info": {
+      "title": "Go 语言项目开发实战",
+      "subtitle": "带你从0到1实现一个企业级 Go 项目",
+      "unit": "61讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Go",
+          "实战",
+          "项目开发",
+          "孔令飞",
+          "Commit 规范",
+          "最佳实践",
+          "企业应用代码"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一线企业应用的最佳实践方式；\n一套可执行、可复用的企业应用代码；\n详解Go项目开发5大核心流程；\n一次掌握Go项目开发常用技能点。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>一线企业应用的最佳实践方式；</li>\n<li>一套可执行、可复用的企业应用代码；</li>\n<li>详解Go项目开发5大核心流程；</li>\n<li>一次掌握Go项目开发常用技能点。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/94/31/94dd2dc6cec738094bd8524d83a7b431.jpg"
+    }
+  },
+  {
+    "columnId": 419,
+    "info": {
+      "title": "说透5G",
+      "subtitle": "人人都能读懂的5G通识课",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "杨四昌",
+          "5G",
+          "5G通识课",
+          "前沿科技",
+          "移动通信",
+          "运营商",
+          "基站",
+          "5G手机",
+          "AR",
+          "VR",
+          "人工智能",
+          "物联网",
+          "云计算",
+          "车联网",
+          "工业互联网"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n透过历史搞懂5G内在发展规律；\n一次性吃透5G的6大核心概念；\n4大应用场景发现5G新机遇；\n全方位掌握5G发展的底层逻辑。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>透过历史搞懂5G内在发展规律；</li>\n<li>一次性吃透5G的6大核心概念；</li>\n<li>4大应用场景发现5G新机遇；</li>\n<li>全方位掌握5G发展的底层逻辑。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/77/f0/7703d1a12a4e4bc7711bddc7985b04f0.jpg"
+    }
+  },
+  {
+    "columnId": 420,
+    "info": {
+      "title": "如何成为学习高手",
+      "subtitle": "北大学霸带你10倍提升学习效率",
+      "unit": "24讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "学习",
+          "读书",
+          "个人成长",
+          "时间管理",
+          "精力管理",
+          "记忆力",
+          "学霸",
+          "自律",
+          "计划",
+          "拖延症"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n高手学习的 4 个底层思维；\n切实可行的 7 个超强学习技巧；\n让学习速度“开挂”的高效记忆法；\n自律到骨子里的 9 大精力管理法则。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>高手学习的 4 个底层思维；</li>\n<li>切实可行的 7 个超强学习技巧；</li>\n<li>让学习速度“开挂”的高效记忆法；</li>\n<li>自律到骨子里的 9 大精力管理法则。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/76/21/76414055092bfb55d7eeb8003a132e21.jpg"
+    }
+  },
+  {
+    "columnId": 422,
+    "info": {
+      "title": "如何读懂一首诗",
+      "subtitle": "成为一个有诗意的人",
+      "unit": "29讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "诗词",
+          "古诗",
+          "唐诗",
+          "诗",
+          "词",
+          "宋词",
+          "天博",
+          "好诗相伴",
+          "读诗",
+          "苏轼",
+          "李白",
+          "杜甫",
+          "文化",
+          "读书",
+          "猫",
+          "陆游",
+          "辛弃疾",
+          "张孝祥",
+          "审美",
+          "审美能力",
+          "人文",
+          "演讲",
+          "说话",
+          "王天博",
+          "李清照",
+          "刘禹锡",
+          "王维",
+          "诗人",
+          "诗句",
+          "诗意",
+          "三步读诗法"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n轻松上手的三步读诗法；\n20+经典诗词的精彩解读；\n情趣与理性并重的诗中哲学；\n“一蓑烟雨任平生”的精神力量；\n古今名士的餐桌趣闻。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>轻松上手的三步读诗法；</li>\n<li>20+经典诗词的精彩解读；</li>\n<li>情趣与理性并重的诗中哲学；</li>\n<li>“一蓑烟雨任平生”的精神力量；</li>\n<li>古今名士的餐桌趣闻。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/80/95/80d8e9d8yya39264306318e649f65d95.jpg"
+    }
+  },
+  {
+    "columnId": 423,
+    "info": {
+      "title": "如何落地业务建模",
+      "subtitle": "Thoughtworks CTO带你重构建模技能",
+      "unit": "31讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "领域建模",
+          "业务建模",
+          "DDD",
+          "领域驱动设计",
+          "软件开发",
+          "软件工程",
+          "知识管理",
+          "模型",
+          "耦和",
+          "聚合根",
+          "企业架构",
+          "事件风暴",
+          "微服务",
+          "银弹",
+          "知识消化",
+          "云原生架构",
+          "弹性边界",
+          "中台",
+          "SaaS",
+          "魔球建模法",
+          "RESTful API",
+          "按需代码",
+          "徐昊",
+          "徐八叉",
+          "ThoughtWorks",
+          "CTO",
+          "8X Flow",
+          "四色建模法"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n洞悉建模设计的本质和目的；\n全套业务建模思维指导性训练；\n微服务、中台建模方法及最佳实践；\n构造SaaS化服务的全新方法论。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>洞悉建模设计的本质和目的；</li>\n<li>全套业务建模思维指导性训练；</li>\n<li>微服务、中台建模方法及最佳实践；</li>\n<li>构造SaaS化服务的全新方法论。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/11/c5/117570d0f8bea6e52bc19a9yy842f8c5.jpg"
+    }
+  },
+  {
+    "columnId": 424,
+    "info": {
+      "title": "讲好故事",
+      "subtitle": "怎样讲一个能影响别人的好故事",
+      "unit": "17讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "故事",
+          "影响力",
+          "表达",
+          "演讲",
+          "领导力",
+          "公众号",
+          "热点",
+          "说话"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n讲故事常用的 7 大表达方法；\n15 秒吸引听众的讲话技巧；\n利用故事塑造个人影响力；\n如何创建自己的故事库。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>讲故事常用的 7 大表达方法；</li>\n<li>15 秒吸引听众的讲话技巧；</li>\n<li>利用故事塑造个人影响力；</li>\n<li>如何创建自己的故事库。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/09/a8/09f288dacc3057a69070a6d9acca38a8.jpg"
+    }
+  },
+  {
+    "columnId": 426,
+    "info": {
+      "title": "程序员的个人财富课",
+      "subtitle": "用更少的时间产生更多的收益",
+      "unit": "36讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "财富管理",
+          "投资理财",
+          "职业发展",
+          "程序员",
+          "量化投资",
+          "股票",
+          "基金",
+          "房地产"
+        ]
+      },
+      "path": {
+        "desc": "你将获得:\n\n十年期以上稳健增长的投资组合；\n最大化挖掘个人价值的方法；\n买房、炒股、选基的方法论和实战案例；\n量化投资的主要思路和技术框架。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>:</p>\n<ul>\n<li>十年期以上稳健增长的投资组合；</li>\n<li>最大化挖掘个人价值的方法；</li>\n<li>买房、炒股、选基的方法论和实战案例；</li>\n<li>量化投资的主要思路和技术框架。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/98/40/98a1900fb2881d2340cfe23393791d40.jpg"
+    }
+  },
+  {
+    "columnId": 429,
+    "info": {
+      "title": "说透区块链",
+      "subtitle": "拨开迷雾，还原区块链真相",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "区块链",
+          "前沿技术",
+          "Go",
+          "数字货币",
+          "新基建",
+          "密码学",
+          "智能合约",
+          "共识算法"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n揭秘区块链技术发展三阶段；\n深度理解区块链底层逻辑；\n区块链 + 应用的五大热门方向；\n洞悉区块链商机的思维方法。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>揭秘区块链技术发展三阶段；</li>\n<li>深度理解区块链底层逻辑；</li>\n<li>区块链 + 应用的五大热门方向；</li>\n<li>洞悉区块链商机的思维方法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/89/50/89d4310f6977dae28c94b84304yy3e50.jpg"
+    }
+  },
+  {
+    "columnId": 430,
+    "info": {
+      "title": "Redis源码剖析与实战",
+      "subtitle": "深入源码底层实现，轻松通关Redis面试",
+      "unit": "47讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Redis",
+          "Redis源码",
+          "数据结构",
+          "主从复制",
+          "缓存",
+          "集群",
+          "分布式数据库",
+          "键值数据库",
+          "事件驱动框架"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n从源码角度理解Redis系统设计思路；\n经典C语言的开发技巧；\n掌握计算机系统设计思想；\nRedis高频面试题目解析。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>从源码角度理解Redis系统设计思路；</li>\n<li>经典C语言的开发技巧；</li>\n<li>掌握计算机系统设计思想；</li>\n<li>Redis高频面试题目解析。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/09/24/09677e4a46d5981241821e12988fc924.jpg"
+    }
+  },
+  {
+    "columnId": 432,
+    "info": {
+      "title": "数据分析思维课",
+      "subtitle": "数据给你一双看透本质的眼睛",
+      "unit": "40讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "数据",
+          "大数据",
+          "数据分析",
+          "数据思维",
+          "Python",
+          "产品",
+          "运营"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一次性掌握常用的数据分析工具；\n30+ 数据分析场景解析；\n揭秘数据分析的底层逻辑；\n利用数据分析高效决策。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>一次性掌握常用的数据分析工具；</li>\n<li>30+ 数据分析场景解析；</li>\n<li>揭秘数据分析的底层逻辑；</li>\n<li>利用数据分析高效决策。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f4/73/f421f56eef387ae72b543eaabafbd773.jpg"
+    }
+  },
+  {
+    "columnId": 433,
+    "info": {
+      "title": "程序员的测试课",
+      "subtitle": "掌握测试，写好高质量代码",
+      "unit": "21讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "测试",
+          "程序员",
+          "数据分析",
+          "代码质量",
+          "代码",
+          "产品",
+          "前端",
+          "后端",
+          "自动化测试",
+          "Spring",
+          "TDD",
+          "BDD"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n实战导向，深入剖析测试本质；\n一套实用的自动化测试使用手册；\n从测试角度理解代码质量；\n高频测试问题及解决方案。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>实战导向，深入剖析测试本质；</li>\n<li>一套实用的自动化测试使用手册；</li>\n<li>从测试角度理解代码质量；</li>\n<li>高频测试问题及解决方案。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d8/3b/d81d0c19173a8db68410843df872a93b.jpg"
+    }
+  },
+  {
+    "columnId": 434,
+    "info": {
+      "title": "如何讲好一堂课",
+      "subtitle": "以学生为中心的课程设计方法论",
+      "unit": "9讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "师训",
+          "培训",
+          "老师",
+          "学生",
+          "教培",
+          "讲课",
+          "沟通",
+          "表达",
+          "演讲"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n了解课程设计的底层逻辑；\n掌握内容筹备的核心方法；\n完善课程内容的逻辑架构；\n学会生动地呈现课程内容。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>了解课程设计的底层逻辑；</li>\n<li>掌握内容筹备的核心方法；</li>\n<li>完善课程内容的逻辑架构；</li>\n<li>学会生动地呈现课程内容。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0e/b4/0e73acfa46255a387462e8a730a4f5b4.jpg"
+    }
+  },
+  {
+    "columnId": 435,
+    "info": {
+      "title": "陈天 · Rust 编程第一课",
+      "subtitle": "实战驱动，快速上手 Rust",
+      "unit": "64讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Rust",
+          "rust",
+          "语言",
+          "陈天",
+          "ct",
+          "编程",
+          "第一课",
+          "get hands dirty",
+          "编程语言",
+          "Java",
+          "C",
+          "C++",
+          "Python",
+          "用户体验",
+          "所有权",
+          "生命周期",
+          "性能",
+          "内存安全",
+          "内存管理",
+          "思维转换",
+          "类型系统"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统高效的 Rust 学习路径；\n攻克 Rust 编程十大难点；\n即学即练，Rust 四大项目实战；\n200+原理图，详解 Rust 设计理念。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>系统高效的 Rust 学习路径；</li>\n<li>攻克 Rust 编程十大难点；</li>\n<li>即学即练，Rust 四大项目实战；</li>\n<li>200+原理图，详解 Rust 设计理念。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/7b/1f/7b6f448a4d4de7279a82949332a3c21f.jpg"
+    }
+  },
+  {
+    "columnId": 436,
+    "info": {
+      "title": "手把手带你写一门编程语言",
+      "subtitle": "从0到1，实现自己的编程语言",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "编程语言",
+          "手把手",
+          "编译原理",
+          "编译技术",
+          "运行时",
+          "汇编语言",
+          "宫文学",
+          "后端",
+          "虚拟机",
+          "字节码",
+          "TS",
+          "TypeScript",
+          "鸿蒙"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一套实用的现代计算机语言架构；\n自顶向下搞懂计算机底层技术；\n系统级软件开发的高维思考；\n理解计算机语言的核心逻辑。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>一套实用的现代计算机语言架构；</li>\n<li>自顶向下搞懂计算机底层技术；</li>\n<li>系统级软件开发的高维思考；</li>\n<li>理解计算机语言的核心逻辑。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/2b/c0/2b400991a70126e663637227f340fac0.jpg"
+    }
+  },
+  {
+    "columnId": 437,
+    "info": {
+      "title": "HarmonyOS快速入门与实战",
+      "subtitle": "实践驱动，快速上手HarmonyOS应用开发",
+      "unit": "9讲",
+      "type": "c3",
+      "seo": {
+        "keywords": [
+          "鸿蒙",
+          "前端",
+          "移动",
+          "安卓",
+          "Android",
+          "iOS",
+          "鸿蒙应用开发",
+          "HarmonyOS",
+          "OpenHarmony",
+          "游戏",
+          "电商",
+          "Cocos",
+          "亲子互动",
+          "娱乐"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nHarmonyOS快速上手实战；\nHarmonyOS系统架构深度解读；\n5位业内知名专家的开发实践经验；\n电商、教育、游戏、娱乐四大真实案例分享。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>HarmonyOS快速上手实战；</li>\n<li>HarmonyOS系统架构深度解读；</li>\n<li>5位业内知名专家的开发实践经验；</li>\n<li>电商、教育、游戏、娱乐四大真实案例分享。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/67/38/6781a3f5d96fe9ecda80b69ae547db38.jpg"
+    }
+  },
+  {
+    "columnId": 438,
+    "info": {
+      "title": "零基础实战机器学习",
+      "subtitle": "AI时代你的机器学习第一课",
+      "unit": "24讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "机器",
+          "机器学习",
+          "黄佳",
+          "人工智能",
+          "AI",
+          "大数据",
+          "数据",
+          "数据分析",
+          "深度学习",
+          "监督学习",
+          "半监督学习",
+          "无监督学习",
+          "神经网络算法"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n轻松入门机器学习的路线图；\n真实电商业务场景五阶段实战；\n9 大实用的机器学习算法；\n揭秘机器学习应用的底层逻辑。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>轻松入门机器学习的路线图；</li>\n<li>真实电商业务场景五阶段实战；</li>\n<li>9 大实用的机器学习算法；</li>\n<li>揭秘机器学习应用的底层逻辑。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e9/8d/e9b3f3c1b5dff3a0d4726cc28ea9c48d.jpg"
+    }
+  },
+  {
+    "columnId": 440,
+    "info": {
+      "title": "零基础入门Spark",
+      "subtitle": "从项目入手，带你深入浅出玩转Spark",
+      "unit": "38讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "大数据",
+          "数据",
+          "Spark",
+          "Spark入门",
+          "数据分析",
+          "机器学习",
+          "调度系统",
+          "RDD",
+          "Spark SQL",
+          "分布式",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n快速构建 Spark 核心知识体系；\nSpark 三大计算场景案例实操；\n逐句注释的保姆级代码讲解；\n在故事中搞懂 Spark 开发实战技巧。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>快速构建 Spark 核心知识体系；</li>\n<li>Spark 三大计算场景案例实操；</li>\n<li>逐句注释的保姆级代码讲解；</li>\n<li>在故事中搞懂 Spark 开发实战技巧。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/ed/40/edcfb689e9ccc1a41ee4017641345f40.jpg"
+    }
+  },
+  {
+    "columnId": 441,
+    "info": {
+      "title": "手把手带你写一个Web框架",
+      "subtitle": "从0到1，实现自己的工业级Web框架",
+      "unit": "41讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Go",
+          "Web框架",
+          "框架",
+          "web",
+          "go",
+          "gin",
+          "web开发",
+          "框架开发",
+          "手把手",
+          "带你",
+          "写一个",
+          "业务提效",
+          "效能",
+          "路由",
+          "中间件",
+          "http",
+          "context",
+          "从0开始"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n洞悉 Web 框架底层设计原理；\n攻克框架开发 6 大核心概念；\n4 站通关 Go Web 框架项目开发；\n深度剖析 Gin 框架，提升业务效能。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>洞悉 Web 框架底层设计原理；</li>\n<li>攻克框架开发 6 大核心概念；</li>\n<li>4 站通关 Go Web 框架项目开发；</li>\n<li>深度剖析 Gin 框架，提升业务效能。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f3/cc/f31848b18d5f2577950603f0707d1dcc.jpeg"
+    }
+  },
+  {
+    "columnId": 442,
+    "info": {
+      "title": "大数据经典论文解读",
+      "subtitle": "从大数据论文入手，提升问题解决能力",
+      "unit": "59讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "大数据",
+          "三驾马车",
+          "Google",
+          "论文",
+          "实时处理",
+          "资源调度",
+          "开源框架",
+          "MapReduce",
+          "Kubernetes"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n10+篇必读经典论文精讲；\n大数据系统底层知识学习路径；\n10年大数据老兵的实战心法；\n工业级数据系统迭代方案。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>10+篇必读经典论文精讲；</li>\n<li>大数据系统底层知识学习路径；</li>\n<li>10年大数据老兵的实战心法；</li>\n<li>工业级数据系统迭代方案。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/0c/c5/0c44879579078c6230f87cac8e1cedc5.jpg"
+    }
+  },
+  {
+    "columnId": 443,
+    "info": {
+      "title": "手把手带你搭建秒杀系统",
+      "subtitle": "从0到1，实现自己的百万级流量秒杀系统",
+      "unit": "18讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "秒杀系统",
+          "秒杀",
+          "高并发",
+          "高可用",
+          "高性能",
+          "隔离",
+          "限流",
+          "容灾",
+          "热点",
+          "削峰",
+          "风控",
+          "防刷",
+          "Vertx",
+          "协同"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n解密 Top 电商秒杀系统技术架构；\n高可用高并发的秒杀系统设计技巧；\n解析高性能秒杀系统的调优策略；\n技术之上的业务协同思考。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>解密 Top 电商秒杀系统技术架构；</li>\n<li>高可用高并发的秒杀系统设计技巧；</li>\n<li>解析高性能秒杀系统的调优策略；</li>\n<li>技术之上的业务协同思考。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/db/88/db2ccacd8f8373354fee9ff776bab088.png"
+    }
+  },
+  {
+    "columnId": 444,
+    "info": {
+      "title": "PyTorch深度学习实战",
+      "subtitle": "从0到1，快速上手PyTorch",
+      "unit": "31讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "PyTorch",
+          "机器学习",
+          "深度学习",
+          "AI",
+          "算法",
+          "NLP",
+          "数据分析",
+          "数据处理",
+          "Python"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\nPyTorch 核心原理与应用详解；\n5 大实战模块，吃透 PyTorch；\n8 个核心模型训练要点；\n10 年老兵的深度/机器学习心法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>PyTorch 核心原理与应用详解；</li>\n<li>5 大实战模块，吃透 PyTorch；</li>\n<li>8 个核心模型训练要点；</li>\n<li>10 年老兵的深度/机器学习心法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d6/f3/d6923f506044d36bd511a604dfeb2ff3.jpg"
+    }
+  },
+  {
+    "columnId": 445,
+    "info": {
+      "title": "Tony Bai · Go语言第一课",
+      "subtitle": "大师带路，快速上手Go语言",
+      "unit": "56讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Tony Bai",
+          "Go",
+          "Go语言",
+          "go",
+          "go入门",
+          "后端",
+          "Java",
+          "go语法"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n完整的Go语言入门路径；\n保姆级的基础语法教学；\n4个实战小项目带你落地Go语言；\nGo语言常见坑点和避坑指南。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>完整的Go语言入门路径；</li>\n<li>保姆级的基础语法教学；</li>\n<li>4个实战小项目带你落地Go语言；</li>\n<li>Go语言常见坑点和避坑指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/61/2e/611962c4a98776cf9c79010ab189552e.jpg"
+    }
+  },
+  {
+    "columnId": 446,
+    "info": {
+      "title": "玩转Vue 3全家桶",
+      "subtitle": "基础+实战+源码，全方位学透Vue 3",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "前端",
+          "Vue",
+          "Vue 3新特性",
+          "组件库",
+          "生态源码",
+          "Dom",
+          "vite",
+          "SSR",
+          "Vuex",
+          "响应式系统",
+          "tdd"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n系统高效的 Vue 3 学习路径；\nVue 3 新特性剖析与源码解读；\n5 大 Vue 3 开发中的重难点解析；\n链接 6 大前端深水区所需技能。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>系统高效的 Vue 3 学习路径；</li>\n<li>Vue 3 新特性剖析与源码解读；</li>\n<li>5 大 Vue 3 开发中的重难点解析；</li>\n<li>链接 6 大前端深水区所需技能。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/90/c4/9003217607cf0a13c435eb364fc710c4.jpg"
+    }
+  },
+  {
+    "columnId": 447,
+    "info": {
+      "title": "全链路压测实战30讲",
+      "subtitle": "吃透全链路压测，摆脱性能瓶颈",
+      "unit": "38讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "高楼",
+          "全链路压测",
+          "全链路",
+          "性能",
+          "测试"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n最前沿的压测技术洞察；\n系统完整的项目落地过程详解；\n性能瓶颈的快速定位能力；\n简洁高效的压测报告写作指南。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>最前沿的压测技术洞察；</li>\n<li>系统完整的项目落地过程详解；</li>\n<li>性能瓶颈的快速定位能力；</li>\n<li>简洁高效的压测报告写作指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c8/2f/c80eb8264a2ae716ea441e2d6b36432f.jpg"
+    }
+  },
+  {
+    "columnId": 450,
+    "info": {
+      "title": "编程高手必学的内存知识",
+      "subtitle": "学好内存，掌握系统开发诀窍",
+      "unit": "33讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "内存",
+          "海纳",
+          "系统级程序员",
+          "系统开发",
+          "软件开发",
+          "操作系统",
+          "进程",
+          "CPU",
+          "硬件",
+          "修炼内功",
+          "垃圾回收",
+          "cache",
+          "链接",
+          "内存管理",
+          "内存模型",
+          "编译器"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n一条通往系统级程序员的学习路径；\n全面深入拆解计算机内存系统；\n吊打面试官的N个小技巧；\n从内存贯穿全局，全面提升底层硬实力。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>一条通往系统级程序员的学习路径；</li>\n<li>全面深入拆解计算机内存系统；</li>\n<li>吊打面试官的N个小技巧；</li>\n<li>从内存贯穿全局，全面提升底层硬实力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/79/2c/79f2c717de7f51f02c66b90be56ed22c.png"
+    }
+  },
+  {
+    "columnId": 451,
+    "info": {
+      "title": "超级访谈：对话张雪峰",
+      "subtitle": "和技术一号位来一场深度对谈",
+      "unit": "17讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "饿了么",
+          "美团",
+          "阿里",
+          "收购",
+          "张雪峰",
+          "百度外卖",
+          "外卖"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nCTO的成长经验与决策反思；\n技术一号位的管理方式和用人思考；\n了解收购与被收购背景下团队融合之难；\n媒体没讲过的独角兽商业故事。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>CTO的成长经验与决策反思；</li>\n<li>技术一号位的管理方式和用人思考；</li>\n<li>了解收购与被收购背景下团队融合之难；</li>\n<li>媒体没讲过的独角兽商业故事。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4d/6e/4d866e032a9172f482ac336a46a1926e.jpg"
+    }
+  },
+  {
+    "columnId": 455,
+    "info": {
+      "title": "深入剖析Java新特性",
+      "subtitle": "手把手带你吃透Java新特性",
+      "unit": "23讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "范学雷",
+          "Java",
+          "Java新特性",
+          "后端",
+          "JDK 8",
+          "Java 8升级",
+          "JDK 11",
+          "JDK17",
+          "Oracle"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\nJDK 8以来重量级的Java新特性清单；\n从案例出发，全方位拆解新特性；\n突破Java技能瓶颈的快速通道；\n即学即练，吃透新特性的应用场景。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>JDK 8以来重量级的Java新特性清单；</li>\n<li>从案例出发，全方位拆解新特性；</li>\n<li>突破Java技能瓶颈的快速通道；</li>\n<li>即学即练，吃透新特性的应用场景。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/63/6c/631a27da4a028dd93e74ecf6dd53096c.jpg"
+    }
+  },
+  {
+    "columnId": 457,
+    "info": {
+      "title": "攻克视频技术",
+      "subtitle": "高手带路，轻松学习视频原理",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "声网",
+          "视频技术",
+          "视频",
+          "YUV",
+          "RGB",
+          "编码原理",
+          "编码压缩",
+          "SVC",
+          "花屏",
+          "卡顿",
+          "音画同步",
+          "MP4",
+          "FLV"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统高效的视频学习路径；\n图文并茂的编码原理解读；\n场景化的视频传输和网络对抗策略；\n花屏卡顿等 4 类常见问题的解决方案。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>系统高效的视频学习路径；</li>\n<li>图文并茂的编码原理解读；</li>\n<li>场景化的视频传输和网络对抗策略；</li>\n<li>花屏卡顿等 4 类常见问题的解决方案。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e8/eb/e887af94232e549165f9019456ed80eb.jpg"
+    }
+  },
+  {
+    "columnId": 458,
+    "info": {
+      "title": "搞定音频技术",
+      "subtitle": "深入浅出音频核心原理及应用",
+      "unit": "19讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "声网",
+          "音频技术",
+          "音频",
+          "语音信号",
+          "降噪",
+          "回声",
+          "回声消除算法",
+          "音频编解码",
+          "空间音频",
+          "HRTF",
+          "音效"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统掌握音频学习路径及原理；\n噪声回声等 4 类常见问题的解决方案；\n弱网络下的传输和编解码策略；\n洞悉音频技术发展新方向。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>系统掌握音频学习路径及原理；</li>\n<li>噪声回声等 4 类常见问题的解决方案；</li>\n<li>弱网络下的传输和编解码策略；</li>\n<li>洞悉音频技术发展新方向。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/af/14/aff6a3280b1d63d0680e903e80b86c14.jpg"
+    }
+  },
+  {
+    "columnId": 460,
+    "info": {
+      "title": "郭东白的架构课",
+      "subtitle": "从技术领导者视角重新理解架构设计",
+      "unit": "67讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "架构",
+          "架构师",
+          "业务建模",
+          "职业发展",
+          "郭东白",
+          "阿里巴巴",
+          "案例",
+          "CTO"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n郭东白首次体系化的架构经验输出；\n从程序员到CTO的四大认知跃迁；\n架构师保命的六大生存法则；\n从0到1交付架构项目的八大关键；\n架构师思考力的高效提升路径。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>郭东白首次体系化的架构经验输出；</li>\n<li>从程序员到CTO的四大认知跃迁；</li>\n<li>架构师保命的六大生存法则；</li>\n<li>从0到1交付架构项目的八大关键；</li>\n<li>架构师思考力的高效提升路径。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/87/fc/87cf10f593f0270b3db83aa339b217fc.jpg"
+    }
+  },
+  {
+    "columnId": 462,
+    "info": {
+      "title": "深入C语言和程序运行原理",
+      "subtitle": "掌握 C 程序从编写到运行的全链路法则",
+      "unit": "49讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "C语言",
+          "操作系统",
+          "程序运行",
+          "指针",
+          "内存",
+          "标准库",
+          "工程化"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n7 大 C 核心语法背后的实现细节；\n快速掌握 C 标准库的功能与原理；\nC 项目工程化的 4 类实用技巧；\n深入 C 程序运行的全流程。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>7 大 C 核心语法背后的实现细节；</li>\n<li>快速掌握 C 标准库的功能与原理；</li>\n<li>C 项目工程化的 4 类实用技巧；</li>\n<li>深入 C 程序运行的全流程。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/e1/ff/e152b5a822b78aaaca6538fc2a7302ff.jpg"
+    }
+  },
+  {
+    "columnId": 463,
+    "info": {
+      "title": "业务开发算法50讲",
+      "subtitle": "从算法的工程实践开始，提升问题解决能力",
+      "unit": "51讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "黄清昊",
+          "算法",
+          "真实",
+          "工程",
+          "应用",
+          "数组",
+          "链表",
+          "红黑树",
+          "数据结构",
+          "差分",
+          "git diff"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n35 类算法实战应用场景；\n6 大领域常用算法知识体系；\n源码剖析+手写实现，深入细节；\n清晰图解+论文精读，吃透算法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>35 类算法实战应用场景；</li>\n<li>6 大领域常用算法知识体系；</li>\n<li>源码剖析+手写实现，深入细节；</li>\n<li>清晰图解+论文精读，吃透算法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d4/3d/d438c59f29f33b8da7bf95febbb0713d.jpg"
+    }
+  },
+  {
+    "columnId": 466,
+    "info": {
+      "title": "Spring Cloud 微服务项目实战",
+      "subtitle": "以练代学，快速上手微服务开发",
+      "unit": "38讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Spring Cloud",
+          "微服务",
+          "实战",
+          "Java",
+          "架构",
+          "阿里",
+          "Spring Boot",
+          "姚半仙",
+          "姚秋辰",
+          "Nacos",
+          "服务治理",
+          "Sentinel",
+          "OpenFeign",
+          "Loadbalancer",
+          "微服务网关"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n详解 10 大微服务核心技术组件；\n从 0 到 1 的 Spring Cloud 项目实战；\n一套优秀的、可执行的源码；\n一线大厂的微服务架构思维。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>详解 10 大微服务核心技术组件；</li>\n<li>从 0 到 1 的 Spring Cloud 项目实战；</li>\n<li>一套优秀的、可执行的源码；</li>\n<li>一线大厂的微服务架构思维。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/01/a8/013666727c52e4bd1f0fc85eab8971a8.jpg"
+    }
+  },
+  {
+    "columnId": 468,
+    "info": {
+      "title": "Web漏洞挖掘实战",
+      "subtitle": "10大安全风险速递，实战智能攻防",
+      "unit": "44讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Web安全",
+          "漏洞挖掘",
+          "攻防实战",
+          "OWASP",
+          "访问控制",
+          "CSRF",
+          "加密",
+          "注入",
+          "安全配置",
+          "智能攻防"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n攻防兼备的 Web 安全知识体系；\n搭建属于自己的攻防对抗系统；\n真实场景下的实战经验总结；\n顶层视角的安全思维与产业级认知。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>攻防兼备的 Web 安全知识体系；</li>\n<li>搭建属于自己的攻防对抗系统；</li>\n<li>真实场景下的实战经验总结；</li>\n<li>顶层视角的安全思维与产业级认知。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/09/e1/09bdbef678b5d0f41cc794c75d3082e1.png"
+    }
+  },
+  {
+    "columnId": 472,
+    "info": {
+      "title": "去无方向的信",
+      "subtitle": "这是一个不成体统的摄影专栏",
+      "unit": "72讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "摄影",
+          "手机",
+          "拍照",
+          "拍摄",
+          "女朋友",
+          "照片",
+          "软技能",
+          "朋友圈",
+          "光圈",
+          "快门",
+          "镜头",
+          "光影",
+          "色彩",
+          "照相",
+          "ISO",
+          "小麦"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n如果你不订阅，你可以获得一些闲暇时间；\n如果你订阅了不看，你可以获得“以为买过了就是看过了”的幻觉；\n如果你订阅了但没看完，你可以获得生命中又一段有始无终的经历；\n如果你订阅了且看完了……我也不确定你能收获些什么，我只是觉得你应该不会一无所获。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>如果你不订阅，你可以获得一些闲暇时间；</li>\n<li>如果你订阅了不看，你可以获得“以为买过了就是看过了”的幻觉；</li>\n<li>如果你订阅了但没看完，你可以获得生命中又一段有始无终的经历；</li>\n<li>如果你订阅了且看完了……我也不确定你能收获些什么，我只是觉得你应该不会一无所获。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/9e/2b/9e890d8d6a5c5a1ae6934fd0fd832a2b.jpg"
+    }
+  },
+  {
+    "columnId": 475,
+    "info": {
+      "title": "朱涛 · Kotlin编程第一课",
+      "subtitle": "实战+源码，吃透Kotlin语法与协程",
+      "unit": "50讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "编程",
+          "Kotlin",
+          "前端",
+          "移动",
+          "编程语言",
+          "Kotlin Jetpack",
+          "协程",
+          "Java",
+          "协程思维",
+          "高阶函数",
+          "面向对象"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n系统高效的Kotlin学习路径；\n对比Java，剖析Kotlin核心知识点；\n一套独创的协程思维模型；\n5大实战项目，搞懂Kotlin特性的应用场景。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>系统高效的Kotlin学习路径；</li>\n<li>对比Java，剖析Kotlin核心知识点；</li>\n<li>一套独创的协程思维模型；</li>\n<li>5大实战项目，搞懂Kotlin特性的应用场景。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1a/eb/1a1a47b704fc22ec6646b43b8fd7a4eb.jpg"
+    }
+  },
+  {
+    "columnId": 476,
+    "info": {
+      "title": "网络排查案例课",
+      "subtitle": "案例+策略+技巧，全面提升网络排查能力",
+      "unit": "39讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "运维",
+          "测试",
+          "网络故障",
+          "网络排查",
+          "网络故障排查",
+          "故障排查",
+          "TCP",
+          "应用层",
+          "网络",
+          "案例",
+          "优化",
+          "实战",
+          "网络瓶颈"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n40+ 真实网络排查案例解析；\n20 个网络故障疑难点的排查思路；\nWireshark、tcpdump 工具使用技巧；\n18 年架构老兵的网络排障心法。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>40+ 真实网络排查案例解析；</li>\n<li>20 个网络故障疑难点的排查思路；</li>\n<li>Wireshark、tcpdump 工具使用技巧；</li>\n<li>18 年架构老兵的网络排障心法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/c2/89/c258af9dd0fcdfcdb95cc1795fe58689.jpg"
+    }
+  },
+  {
+    "columnId": 478,
+    "info": {
+      "title": "反爬虫兵法演绎20讲",
+      "subtitle": "业务场景出发，搭建反爬思路架构",
+      "unit": "28讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "反爬虫技巧",
+          "团队建设",
+          "爬虫理论",
+          "爬虫历史",
+          "反爬虫思维",
+          "反爬虫技巧",
+          "反爬虫方法",
+          "快速反爬虫",
+          "快速反爬",
+          "前段反爬虫",
+          "后端反爬虫",
+          "BFF反爬虫"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n爬虫与反爬虫工程师的生存法则；\n10+ 反爬虫疑难点的排查思路；\n反爬虫专家系统反爬心法总结；\n从工程师到Leader的层次跃迁。\n\n",
+        "desc_html": "<p><strong>你将获得：</strong></p>\n<ul>\n<li>爬虫与反爬虫工程师的生存法则；</li>\n<li>10+ 反爬虫疑难点的排查思路；</li>\n<li>反爬虫专家系统反爬心法总结；</li>\n<li>从工程师到Leader的层次跃迁。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/cc/8e/ccd4b6yy3f72686761fa77a2baea8f8e.jpg"
+    }
+  },
+  {
+    "columnId": 479,
+    "info": {
+      "title": "eBPF 核心技术与实战",
+      "subtitle": "用 eBPF 洞悉内核运行状态",
+      "unit": "37讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "K8s",
+          "Kubernetes",
+          "云计算",
+          "倪朋飞",
+          "Linux",
+          "运维",
+          "内核",
+          "性能优化",
+          "网络观测",
+          "安全控制"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n从原理到实战的系统剖析；\n10+ 真实生产环境的应用案例；\n10 年 Linux 老兵的 eBPF 学习心法；\n持续 4 年的最新技术追踪。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>从原理到实战的系统剖析；</li>\n<li>10+ 真实生产环境的应用案例；</li>\n<li>10 年 Linux 老兵的 eBPF 学习心法；</li>\n<li>持续 4 年的最新技术追踪。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/75/4f/75ba105428fd03e7329ab5659a5a5f4f.jpg"
+    }
+  },
+  {
+    "columnId": 480,
+    "info": {
+      "title": "深入浅出分布式技术原理",
+      "subtitle": "从业务场景出发，带你搭建分布式知识体系",
+      "unit": "39讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "分布式技术原理",
+          "分布式计算",
+          "分布式存储",
+          "分布式架构",
+          "单体系统",
+          "微服务治理",
+          "数据库",
+          "CAP理论",
+          "负载均衡",
+          "分布式锁",
+          "雪崩",
+          "主动故障",
+          "被动故障",
+          "事务",
+          "数据分片",
+          "数据复制",
+          "数据一致性",
+          "重试幂等"
+        ]
+      },
+      "path": {
+        "desc": "你将获得:\n\n高效、系统的分布式系统学习路径；\n30+ 常见分布式业务场景串联实战；\n搭建大规模分布式系统的实用指南；\n10 年分布式领域专家的高效思维方法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>:</p>\n<ul>\n<li>高效、系统的分布式系统学习路径；</li>\n<li>30+ 常见分布式业务场景串联实战；</li>\n<li>搭建大规模分布式系统的实用指南；</li>\n<li>10 年分布式领域专家的高效思维方法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1d/ab/1dce22593fe0368f3172a0fa8f45fdab.jpg"
+    }
+  },
+  {
+    "columnId": 483,
+    "info": {
+      "title": "李智慧 · 高并发架构实战课",
+      "subtitle": "“附身”大厂架构师，玩转高并发系统设计",
+      "unit": "26讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "高并发",
+          "高并发系统",
+          "高并发架构",
+          "后端架构",
+          "大数据",
+          "架构设计",
+          "架构案例",
+          "高并发案例",
+          "李智慧",
+          "微博",
+          "秒杀系统",
+          "网盘",
+          "网约车",
+          "Web应用防火墙",
+          "区块链",
+          "加解密服务",
+          "限流器",
+          "反应式编程框架",
+          "搜索引擎",
+          "交友系统"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n首席架构师的高并发系统设计心法；\n15+高并发系统设计场景实战；\n90%高并发问题的应对策略；\n架构师必备的设计文档写作技能。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>首席架构师的高并发系统设计心法；</li>\n<li>15+高并发系统设计场景实战；</li>\n<li>90%高并发问题的应对策略；</li>\n<li>架构师必备的设计文档写作技能。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4e/08/4e9913cab019b7c13661651608786a08.jpg"
+    }
+  },
+  {
+    "columnId": 486,
+    "info": {
+      "title": "大厂广告产品心法",
+      "subtitle": "高手带路，打造BAT广告产品思维",
+      "unit": "24讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "产品",
+          "广告",
+          "互联网广告",
+          "广告产品",
+          "大厂",
+          "面试",
+          "产品团队",
+          "变现",
+          "商业模式"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n深入解读 BAT、字节的广告产品真相；\n互联网广告产品变现的黄金法则；\n20+ 经典面试问题解析；\n从 0 到 1 搭建你的广告产品团队。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>深入解读 BAT、字节的广告产品真相；</li>\n<li>互联网广告产品变现的黄金法则；</li>\n<li>20+ 经典面试问题解析；</li>\n<li>从 0 到 1 搭建你的广告产品团队。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/86/f0/86d900fd48bafcc259d03ce7095240f0.jpg"
+    }
+  },
+  {
+    "columnId": 488,
+    "info": {
+      "title": "说透低代码",
+      "subtitle": "拨开迷雾，解析低代码平台架构",
+      "unit": "39讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "低代码",
+          "低代码架构",
+          "中台",
+          "前端",
+          "前沿技术",
+          "动态更新",
+          "可视化编程",
+          "中兴",
+          "编辑器"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n揭秘低代码的真实发展现状；\n拿来即用的低代码平台设计策略；\n低代码平台核心模块实现要点；\n持续 4 年的最新低代码技术追踪。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>揭秘低代码的真实发展现状；</li>\n<li>拿来即用的低代码平台设计策略；</li>\n<li>低代码平台核心模块实现要点；</li>\n<li>持续 4 年的最新低代码技术追踪。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/f8/8d/f8413ab4424ddf44ef4f88f8d0b42b8d.jpg"
+    }
+  },
+  {
+    "columnId": 489,
+    "info": {
+      "title": "自动化测试高手课",
+      "subtitle": "新模型+全栈视角=高效进阶",
+      "unit": "32讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "测试",
+          "自动化",
+          "架构设计",
+          "单元测试",
+          "流水线",
+          "集成",
+          "接口测试",
+          "性能",
+          "敏捷",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n找准测试价值，提高项目 ROI；\n全新 Job 模型，快速赋能业务；\n测试模型优化的四大实用策略；\n建立需求抽象和建模能力。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>找准测试价值，提高项目 ROI；</li>\n<li>全新 Job 模型，快速赋能业务；</li>\n<li>测试模型优化的四大实用策略；</li>\n<li>建立需求抽象和建模能力。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/25/c6/253635efae37184e05b5f4c678e902c6.jpg"
+    }
+  },
+  {
+    "columnId": 490,
+    "info": {
+      "title": "徐昊 · TDD项目实战70讲",
+      "subtitle": "大师领路，带你重构TDD技能",
+      "unit": "81讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "重构",
+          "测试驱动开发",
+          "TDD",
+          "单元测试",
+          "徐昊",
+          "徐八叉",
+          "伦敦学派",
+          "经典学派",
+          "Kent Beck",
+          "Clean Code",
+          "重构到模式"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n洞见测试驱动开发的实质与全貌；\n40+小时视频，演绎架构设计新思路；\n3个开发框架，搞定TDD的落地难题；\n靠谱程序员必备的任务分解基本功。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>洞见测试驱动开发的实质与全貌；</li>\n<li>40+小时视频，演绎架构设计新思路；</li>\n<li>3个开发框架，搞定TDD的落地难题；</li>\n<li>靠谱程序员必备的任务分解基本功。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/55/bb/55cd5bed70d94113c1b6cde080f454bb.jpg"
+    }
+  },
+  {
+    "columnId": 491,
+    "info": {
+      "title": "超级访谈：对话汤峥嵘",
+      "subtitle": "普通程序员到CTO的技术成长之路",
+      "unit": "17讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "汤峥嵘",
+          "云柚智能",
+          "途牛",
+          "CTO",
+          "VIPABC",
+          "智能穿戴",
+          "心电衣"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n普通程序员到CTO/CEO的职业成长经验；\n二十年管理经验沉淀与技巧分享；\n和CTO/CEO同频的认知升级；\n还原细节的第一手采访资料。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>普通程序员到CTO/CEO的职业成长经验；</li>\n<li>二十年管理经验沉淀与技巧分享；</li>\n<li>和CTO/CEO同频的认知升级；</li>\n<li>还原细节的第一手采访资料。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4a/27/4a6b319f81bcf24a86ec4aefbd09a027.jpg"
+    }
+  },
+  {
+    "columnId": 493,
+    "info": {
+      "title": "React Native 新架构实战课",
+      "subtitle": "实操+基建+原理的一站式解决方案",
+      "unit": "39讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "RN",
+          "React",
+          "React Native",
+          "蒋宏伟",
+          "宏伟",
+          "跨端",
+          "Flutter",
+          "RN 新架构",
+          "前端",
+          "iOS",
+          "Android",
+          "新架构"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n有用：即学即用，8+ 核心组件应用技巧；\n实战：10+ 实战 Demo，搭建完整 React Native 应用；\n深入：掌握一套完整的基建解决方案；\n前沿：持续 365 天技术追踪，解读新架构动态。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>有用：即学即用，8+ 核心组件应用技巧；</li>\n<li>实战：10+ 实战 Demo，搭建完整 React Native 应用；</li>\n<li>深入：掌握一套完整的基建解决方案；</li>\n<li>前沿：持续 365 天技术追踪，解读新架构动态。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/45/d0/45c912f5bdcdea16fb9a9d344b85efd0.jpg"
+    }
+  },
+  {
+    "columnId": 499,
+    "info": {
+      "title": "遗留系统现代化实战",
+      "subtitle": "帮你走出遗留系统的泥潭",
+      "unit": "29讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "遗留系统",
+          "改造",
+          "重构",
+          "架构",
+          "后端",
+          "微服务",
+          "DevOps",
+          "敏捷",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n遗留系统现代化的 4 个方向；\n20+ 模式，实现代码、架构、DevOps 和团队现代化；\n遗留单体拆分微服务的最佳实践；\n一套实用的遗留系统现代化手册。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>遗留系统现代化的 4 个方向；</li>\n<li>20+ 模式，实现代码、架构、DevOps 和团队现代化；</li>\n<li>遗留单体拆分微服务的最佳实践；</li>\n<li>一套实用的遗留系统现代化手册。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/8e/dc/8edb8b82c43911f9ae53973eee9130dc.jpg"
+    }
+  },
+  {
+    "columnId": 501,
+    "info": {
+      "title": "林外 · 专利写作第一课",
+      "subtitle": "人人都能学会的专利撰写技巧",
+      "unit": "11讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "专栏",
+          "专利写作",
+          "专利交底书",
+          "专利申请流程",
+          "专利申请",
+          "专利奖金"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n解锁专利申请的全景图；\n攻克专利撰写的核心难点专利交底书；\n拆解5+份授权专利作为实战案例；\n从0到1撰写人生第一个专利的完整指南。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>解锁专利申请的全景图；</li>\n<li>攻克专利撰写的核心难点专利交底书；</li>\n<li>拆解5+份授权专利作为实战案例；</li>\n<li>从0到1撰写人生第一个专利的完整指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/4c/f0/4cc3d615d89a64c770e2a82bb49033f0.jpg"
+    }
+  },
+  {
+    "columnId": 502,
+    "info": {
+      "title": "说透元宇宙",
+      "subtitle": "加入新一代互联网浪潮",
+      "unit": "15讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "元宇宙",
+          "方军",
+          "区块链",
+          "区块链技术",
+          "AI",
+          "芯片",
+          "前沿",
+          "DAO",
+          "Meta",
+          "AR",
+          "VR",
+          "3D",
+          "NFT",
+          "MR"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n初探：清晰的元宇宙概念解读\n广涉：全景式元宇宙行业观察\n深究：系统化元宇宙技术追踪\n践行：元宇宙时代的入局指南\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>初探：清晰的元宇宙概念解读</li>\n<li>广涉：全景式元宇宙行业观察</li>\n<li>深究：系统化元宇宙技术追踪</li>\n<li>践行：元宇宙时代的入局指南</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/63/df/63373e9eb04cd71cdc83f9dbb9a8dddf.jpg"
+    }
+  },
+  {
+    "columnId": 503,
+    "info": {
+      "title": "人人都用得上的数字化思维课",
+      "subtitle": "2小时带你揭开数字化的神秘面纱",
+      "unit": "12讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "数字化",
+          "信息化",
+          "十四五规划",
+          "数字经济",
+          "数字人民币",
+          "数字化转型",
+          "数字人才培养",
+          "数字人才技能",
+          "国家政策",
+          "数据思维",
+          "生态思维"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n全面认知数字化核心概念；\n3 步搭建数字化知识体系；\n数字化典型案例与政策速递；\n20 年老兵心法，带你思维升级。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>全面认知数字化核心概念；</li>\n<li>3 步搭建数字化知识体系；</li>\n<li>数字化典型案例与政策速递；</li>\n<li>20 年老兵心法，带你思维升级。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/14/9f/145260958eb10d26c6630acaa036489f.jpeg"
+    }
+  },
+  {
+    "columnId": 506,
+    "info": {
+      "title": "中间件核心技术与实战",
+      "subtitle": "吃透中间件，突破系统高并发瓶颈",
+      "unit": "31讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "中间件",
+          "丁威",
+          "架构",
+          "数据库中间件",
+          "Redis",
+          "MyCat",
+          "中通",
+          "架构师",
+          ""
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n实用的中间件选型方案；\n中间件通用设计理念剖析；\n场景+方案+代码，重要中间件进阶指南；\n中间件综合案例拆解。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>实用的中间件选型方案；</li>\n<li>中间件通用设计理念剖析；</li>\n<li>场景+方案+代码，重要中间件进阶指南；</li>\n<li>中间件综合案例拆解。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/a2/ee/a2abf3af5e7312910a5e2bf7c10e95ee.jpeg"
+    }
+  },
+  {
+    "columnId": 507,
+    "info": {
+      "title": "Kubernetes入门实战课",
+      "subtitle": "实战+视频，0 基础快速上手 K8s",
+      "unit": "39讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "kubernetes",
+          "Kubernetes",
+          "k8s",
+          "云",
+          "云原生",
+          "docker",
+          "hub",
+          "pod",
+          "yaml",
+          "容器",
+          "编排",
+          "集群",
+          "罗剑锋",
+          "视频"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n贴心扫盲：手把手带你搭建环境；\n高效入门：由浅入深的进阶路径；\n老兵笔记：踩坑总结无保留教学；\n讲练结合：4 大项目 + 5 讲实战视频。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>贴心扫盲：手把手带你搭建环境；</li>\n<li>高效入门：由浅入深的进阶路径；</li>\n<li>老兵笔记：踩坑总结无保留教学；</li>\n<li>讲练结合：4 大项目 + 5 讲实战视频。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/19/44/19c0a3990fae2082a8a140ab5b880144.jpeg"
+    }
+  },
+  {
+    "columnId": 509,
+    "info": {
+      "title": "大厂设计进阶实战课",
+      "subtitle": "让你突破瓶颈的高薪设计课",
+      "unit": "34讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "设计",
+          "增长",
+          "产品",
+          "设计师",
+          "晋升",
+          "设计师",
+          "小乔",
+          "案例",
+          "实战",
+          "设计案例",
+          "实操",
+          "涨薪",
+          "软实力",
+          "硬实力",
+          "工作室",
+          "进阶"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n设计策略：商业增长与用户洞察的6大装备；\n能力突破：5级设计价值的成长路径规划；\n实操演练：60+设计案例，演练前沿方法；\n职场规则：10年+大厂设计师的避坑指南。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>设计策略：商业增长与用户洞察的6大装备；</li>\n<li>能力突破：5级设计价值的成长路径规划；</li>\n<li>实操演练：60+设计案例，演练前沿方法；</li>\n<li>职场规则：10年+大厂设计师的避坑指南。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/35/f1/358e4a526e440720fb6f94ab314314f1.jpg"
+    }
+  },
+  {
+    "columnId": 511,
+    "info": {
+      "title": "快手 · 音视频技术入门课",
+      "subtitle": "小白也能懂的音视频技术入门指南",
+      "unit": "17讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "音视频",
+          "入门",
+          "FFmpeg",
+          "代码维护者",
+          "快手",
+          "刘歧",
+          "OBS",
+          "MP4",
+          "转码",
+          "封装",
+          "直播",
+          "文件格式",
+          "Handbreak"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n系统高效的音视频技术学习路径；\n转码、直播等 6 大音视频处理能力；\nFFmpeg 等 5 大音视频处理工具操作指南；\n手把手带你参与 FFmpeg 社区维护。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>系统高效的音视频技术学习路径；</li>\n<li>转码、直播等 6 大音视频处理能力；</li>\n<li>FFmpeg 等 5 大音视频处理工具操作指南；</li>\n<li>手把手带你参与 FFmpeg 社区维护。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/30/fd/301398a1ba6f44ab69ce293acc2431fd.jpg"
+    }
+  },
+  {
+    "columnId": 512,
+    "info": {
+      "title": "快手 · 移动端音视频开发实战",
+      "subtitle": "技术 + 场景 + 项目，全面提升音视频开发能力",
+      "unit": "20讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "音视频",
+          "开发",
+          "实战",
+          "快手",
+          "移动端",
+          "播放器",
+          "录制器技术框架",
+          "iOS",
+          "android",
+          "架构设计",
+          "AudioTrack",
+          "OpenSL ES",
+          "AAudio",
+          "Oboe",
+          "AudioQueue",
+          "AUGraph",
+          "SDL"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n渲染、录制与编码 3 大音视频开发能力；\n100+ 移动端音视频接口的应用场景；\n从业务场景出发，搭建音视频应用架构；\n从 0 到 1 的播放器/视频录制项目实战。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>渲染、录制与编码 3 大音视频开发能力；</li>\n<li>100+ 移动端音视频接口的应用场景；</li>\n<li>从业务场景出发，搭建音视频应用架构；</li>\n<li>从 0 到 1 的播放器/视频录制项目实战。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/d2/f2/d2db18bed1ea8764ed268109e593e2f2.jpg"
+    }
+  },
+  {
+    "columnId": 513,
+    "info": {
+      "title": "商业思维案例笔记",
+      "subtitle": "理解商业世界，破解决策难题",
+      "unit": "35讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "商业化",
+          "商业",
+          "商业思维",
+          "产品",
+          "赚钱思维",
+          "产品经理",
+          "运营",
+          "增长",
+          "策略",
+          "进阶",
+          "实战",
+          "案例"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n认知：30+案例犀利解读\n进阶：挖掘业务实际应用手段\n落地：6次思维落地实战\n升维：1次商业敏锐度的跃迁\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>认知：30+案例犀利解读</li>\n<li>进阶：挖掘业务实际应用手段</li>\n<li>落地：6次思维落地实战</li>\n<li>升维：1次商业敏锐度的跃迁</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/32/d8/32cf732be89502da24d2063b86c1c4d8.jpg"
+    }
+  },
+  {
+    "columnId": 514,
+    "info": {
+      "title": "计算机基础实战课",
+      "subtitle": "系统级工程师“压箱底”的学习笔记",
+      "unit": "46讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "基础",
+          "实战",
+          "入门",
+          "计算机组成原理",
+          "操作系统",
+          "内存",
+          "Linux",
+          "RISC",
+          "芯片",
+          "硬件",
+          "后端"
+        ]
+      },
+      "path": {
+        "desc": "你将获得\n\n一通百通，8大模块揭秘计算机系统；\n学以致用，10+实验项目边学边练；\n前沿视野，实现一个迷你RISCV处理器；\n高手带路，内核开发者的学习心法。\n\n",
+        "desc_html": "<p><strong>你将获得</strong></p>\n<ul>\n<li>一通百通，8大模块揭秘计算机系统；</li>\n<li>学以致用，10+实验项目边学边练；</li>\n<li>前沿视野，实现一个迷你RISCV处理器；</li>\n<li>高手带路，内核开发者的学习心法。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/bf/76/bfb2c196a975d17bdedbda2022fe2b76.jpg"
+    }
+  },
+  {
+    "columnId": 522,
+    "info": {
+      "title": "Web 3.0入局攻略",
+      "subtitle": "拨开迷雾，洞悉Web 3.0本质",
+      "unit": "16讲",
+      "type": "c1",
+      "seo": {
+        "keywords": [
+          "Web 3.0",
+          "web3",
+          "Web3",
+          "web3.0",
+          "区块链",
+          "人工智能",
+          "以太坊",
+          "NFT",
+          "DAO",
+          "智能合约",
+          "公链",
+          "身份",
+          "治理",
+          "比特币"
+        ]
+      },
+      "path": {
+        "desc": "你将获得：\n\n揭秘：Web 3.0技术发展现状；\n洞悉：Web 3.0未来应用趋势；\n探究：互联网新玩法与突破点；\n升维：案例驱动，重塑机遇与风险认知。\n\n",
+        "desc_html": "<p><strong>你将获得</strong>：</p>\n<ul>\n<li>揭秘：Web 3.0技术发展现状；</li>\n<li>洞悉：Web 3.0未来应用趋势；</li>\n<li>探究：互联网新玩法与突破点；</li>\n<li>升维：案例驱动，重塑机遇与风险认知。</li>\n</ul>\n"
+      },
+      "catalog_pic_url": "https://static001.geekbang.org/resource/image/1e/da/1ecca65997b08c732c8b2d0f0d50a0da.jpg"
+    }
+  }
+]

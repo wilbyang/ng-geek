@@ -29,8 +29,11 @@ export class GeekArticleComponent implements OnInit, AfterViewInit {
     let url = english ? `http://localhost:3000/en/article/${articleId}` : `http://localhost:3000/article/${articleId}`;
     this.httpClient.get<Article>(url).subscribe(article => {
       this.article = article;
-      this.contentDiv!.nativeElement.innerHTML = article.content;
+      let content = article.content.replace(/src\="https:\/\/static001.geekbang.org\/resource\/image\/[a-z0-9]{2}\/[a-z0-9]{2}\/([a-z0-9]{8,}\.(png|jpg|jpeg|gif)).*?"/g, "src=\"http://geek_artilce_images.test/$1\"");
+      this.contentDiv!.nativeElement.innerHTML = content;
+      // this.contentDiv!.nativeElement.innerHTML = article.content;
       (window as any).highlightAll();
+      (window as any).latex();
     });
   }
 

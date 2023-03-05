@@ -6,3 +6,6 @@ p {
   font-size: 1.2em;
 
 }
+span.katex-html {
+  display: none;
+}

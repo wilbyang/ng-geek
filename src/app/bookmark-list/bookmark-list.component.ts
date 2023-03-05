@@ -14,17 +14,22 @@ export class BookmarkListComponent implements OnInit {
   bookmarks: Bookmark[] = [];
 
   ngOnInit(): void {
-    this.httpClient.get<Bookmark[]>("https://bookmarks-361112.ew.r.appspot.com/", {
+    this.httpClient.get<BookmarkPage>("https://bookmarks-361112.ew.r.appspot.com/?offset=0", {
       headers: {
         "Authorization": "Basic YWRtaW46anRfeHhoaA==" // admin:jt_xxxh,
       }
     }).subscribe(
       data => {
-        this.bookmarks = data;
+        this.bookmarks = data.bookmarks;
       }
     );
   }
 
+}
+interface BookmarkPage {
+  bookmarks: Bookmark[];
+  nextpage: number;
+  prevpage: number;
 }
 
 interface Bookmark {
